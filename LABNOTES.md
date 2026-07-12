@@ -32,3 +32,12 @@ requirements.
   workflow per BRIEF §2 until they land.
 - pytrends viability from this machine/network: smoke test is the next step
   tonight; result will be appended below.
+
+**Smoke test result (same session):** both Trends backends work. One
+payload each, terms = korean-skincare basket, geo=IN, timeframe
+2022-01-01→2026-07-12: pytrends 4.9.2 returned 238 weekly rows
+(2021-12-26 → 2026-07-12) despite pandas 3.x; trendspy 0.1.6 returned the
+identical series (nice mutual cross-check). Last week is `isPartial=True` —
+ingestion must exclude partial weeks from scoring. Default backend stays
+pytrends per BRIEF §1; `TRENDS_BACKEND=trendspy` is a working fallback.
+No 429s tonight; real pulls will still sleep between payloads.
