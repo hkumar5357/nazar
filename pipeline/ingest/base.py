@@ -1,0 +1,1 @@
+"""Single ingestion interface: fetch(source, trend) -> PullResult. Real API pulls when keys are present; MOCK_* fixtures (provenance='fixture') when absent. Downstream code branches only on the provenance field."""

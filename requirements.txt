@@ -1,0 +1,10 @@
+# Pinned to the versions used for the committed results (Python 3.12).
+pytrends==4.9.2
+trendspy==0.1.6
+pandas==3.0.3
+numpy==2.5.1
+requests==2.34.2
+python-dotenv==1.2.2
+praw==8.0.2
+google-api-python-client==2.198.0
+pytest==9.1.1
