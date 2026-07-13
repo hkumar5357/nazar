@@ -122,6 +122,22 @@ base (raw weekly mean 12 → 37 → ~30). Whatever combo is frozen, that
 mismatch gets reported as-is in CHECKPOINTS and on the Protocol screen —
 that is what the pre-registration is for.
 
+**M2, same session — backtest built and run.** Determinism verified
+(two runs, identical sha256 on all four artifacts). The interesting
+lesson: the raw first-Heating dates for matcha and protein land within a
+week of the first classifiable week — boundary censoring from the
+2022-01 history start plus ~20 weeks of feature warmup, NOT a detection
+achievement. Added a clearly-labeled conservative variant (first flag
+inside the backtest window, Jan 2025+) to first_flags and lead_times
+rather than quoting flattering 1,300-day leads: matcha re-flagged
+2025-01-26 → 345/382/471 days ahead of the three locked matcha events.
+Also honest: all three demo trends end the window (Jun–Jul 2026) in
+undetermined — composites are declining everywhere right now; the radar
+will show that as-is. Discrimination is directional (matcha
+heating-dominant 2025, protein peaked-dominant, fragrance uniquely
+reaches Mature Jan–Feb 2026) but never the exact expected triple in any
+single month — reported as such in CHECKPOINTS.
+
 **FROZEN (grid rank 2 of the 960-combo extended grid, score 41.28/90):**
 L1=0.3, L2=0.4, V0=0.08, V1=0.08, A1=−0.12. First Heating 2022-08-07
 (inside the pre-registered window); zero false Heating in 2026;

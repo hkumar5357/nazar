@@ -54,3 +54,46 @@ before the re-run in LABNOTES and git history).
 the three demo trends (first scoring of demo categories — correctly AFTER
 this tag); matcha first-Heating date; lead times vs locked events; raw
 numbers committed before any UI.
+
+---
+
+## M2 — Walk-forward backtest (`m2-backtest`) — 2026-07-13
+
+**The moment of truth, raw numbers before any UI.** `python -m
+pipeline.backtest` recomputes every feature and state from data ≤ T at each
+monthly T (Jan 2025 → Jul 2026), scores demo trends only through the
+freeze-guard entry point, reads real-provenance data only
+(`contains_fixture_data: false` on every artifact), and reproduces
+byte-identically on rerun. First demo-category scoring in the repo's
+history — after `m1-freeze`, as pre-registered.
+
+**C1 — detection: PASS.** Matcha fires Heating (37 weeks across the
+history; 14 in 2025, its heaviest year).
+
+**C3 — lead time: PASS on both variants, with a censoring disclosure.**
+The raw first flag (2022-05-22) lands within one week of the first
+classifiable week — the trend was already building when the observation
+window opened (history starts 2022-01, features warm up ~20 weeks), so
+1,325–1,451 days vs the three matcha events is a boundary-censored lower
+bound, not a detection claim. The number to quote: the flag re-fired
+**2025-01-26**, which precedes Costa's global launch by **345 days**, Tata
+Starbucks India by **382 days**, and mainstream India media confirmation by
+**471 days**. Protein's first flag is fully censored (disclosed in the
+artifact).
+
+**C2 — discrimination: DIRECTIONAL PASS, honestly mixed.** One shared
+pipeline, frozen thresholds, three different behaviours: matcha is
+heating-dominant in 2025 (4 of the first 5 backtest months) and re-fires
+in Mar 2026; protein_snacks is peaked-dominant (7 peaked months, never
+mature); genz_fragrance is the only trend to reach **Mature** (Jan–Feb
+2026). But no single month shows the exact (heating, peaked, mature)
+triple, and **as of the last scored month (Jul 2026) all three sit in
+undetermined** — June–July composites are declining everywhere. The radar
+will show that honestly; per the protocol's else-bucket rule, undetermined
+is a state, not a failure to render.
+
+**Artifacts:** `data/backtest/{state_timeline,first_flags,lead_times,goldenthread_chart}.json`.
+
+**Next (M3).** Intent labeler (heuristic placeholder until the LLM key
+arrives — provenance-marked, never presented as real labels), creator
+affinity with the A3 validation pairs, launch-math JSON.
