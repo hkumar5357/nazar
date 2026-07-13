@@ -41,3 +41,45 @@ identical series (nice mutual cross-check). Last week is `isPartial=True` —
 ingestion must exclude partial weeks from scoring. Default backend stays
 pytrends per BRIEF §1; `TRENDS_BACKEND=trendspy` is a working fallback.
 No 429s tonight; real pulls will still sleep between payloads.
+
+---
+
+## Session 1 — 2026-07-12 (Sun, late night) → M1 build
+
+**Built:** ingestion for all three sources + events loader; deterministic
+MOCK_ fixtures (never presentable as real — provenance-stamped, export
+gate refuses them); feature math (expanding/trailing only, with a
+bit-for-bit no-lookahead invariance test); lifecycle rules with the R3
+freeze guard; calibration harness. 81 tests passing.
+
+**Events locked before any model run** (data/events.csv, R2): both matcha
+events named in PROTOCOL §4 failed source verification — no dated public
+source for a Costa Coffee *India* matcha launch (the 2026-01 launch was
+UK/Ireland), and the WCP Matcha Report 2026's publication date is only
+boundable to Feb–Jul 2026. Replaced with dated India-specific events
+(Tata Starbucks national iced matcha 2026-02-12; India Food Network
+mainstream confirmation 2026-05-12), keeping Costa as a clearly-labeled
+global marker. FSSAI event renamed honestly: the general
+scientific-evidence-for-claims regime effective 2026-01-01 — no
+protein-specific dated notification exists in public sources. All five
+URLs returned HTTP 200 at lock time. Full reasoning → Amendment A1 at
+the freeze commit.
+
+**Pre-registered calibration arc — written and committed BEFORE the
+calibration grid ran on any real feature values** (this commit precedes
+the first calibration run in git history): per the BRIEF §5.3 prior for
+Korean skincare in India — (a) Heating must fire at least once in
+2022-07-01..2023-12-31; (b) the majority of complete weeks in
+2025-01-01..2026-06-30 should classify Mature; (c) Heating firing in
+2026 contradicts the known plateau and is penalised. Mechanical score
+(max 90) = 40·(a) + 50·mature_share(b) − min(2·late_heating_weeks, 20).
+Grid: L1∈{0.3,0.5,0.8,1.0}, L2∈{0.8,1.0,1.2,1.5} (L1<L2),
+V0∈{0.01,0.02,0.03,0.05}, V1∈{0.05,0.08,0.10,0.15},
+A1∈{−0.05,−0.08,−0.12} — encoded in pipeline/calibrate.py. Top-5 combos
+are printed for human inspection; the pick gets a written rationale in
+thresholds_frozen.json. Calibration reads REAL-provenance pulls only.
+
+**Real pulls:** first pytrends attempt tonight hit a Google 429 (the
+smoke test earlier probably warmed the rate limiter). Backoff/retry is
+running and every attempt is logged; trendspy is the fallback backend if
+pytrends exhausts its five attempts. Failures, if any, stay in runs/.
