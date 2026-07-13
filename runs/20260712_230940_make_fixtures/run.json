@@ -1,0 +1,52 @@
+{
+  "command": "make_fixtures",
+  "notes": "MOCK_ fixtures, seed=20260712",
+  "started_at": "2026-07-12T23:09:40.908700+05:30",
+  "finished_at": "2026-07-12T23:09:41.075872+05:30",
+  "git_commit": "a225fab0c5cf474cf1dd27befd6d7adea3d347b3",
+  "config_hash": "134732239aade675269c1cd8bc8d36f306070da2b30bef8811abeff32535488c",
+  "thresholds_frozen": false,
+  "inputs": [],
+  "outputs": [
+    {
+      "path": "data/fixtures/MOCK_reddit_matcha_20260712.json",
+      "sha256": "ad6ea75249f0eb5930071038aaf53be9a1856f01cc17ba30064fa8af0303559c"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_matcha_20260712.json",
+      "sha256": "e003867838d518ee5ce7653c9863bc0046b88ed4f54019f970bad035cde1f7c4"
+    },
+    {
+      "path": "data/fixtures/MOCK_reddit_protein_snacks_20260712.json",
+      "sha256": "fe9efd4bbf522e358b0ef737b8508ad373cee24afc629db9077b53d8abf51fc6"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_protein_snacks_20260712.json",
+      "sha256": "ae0ca607dcec11e9afa251708b926df98f174b12983d15028cb6910523fbd66a"
+    },
+    {
+      "path": "data/fixtures/MOCK_reddit_genz_fragrance_20260712.json",
+      "sha256": "3f8bdbda75c05a2fd2a7d50f4fbbbe89af2eb0fa772b0d0e6a448c86e4348c96"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_genz_fragrance_20260712.json",
+      "sha256": "1b8d1ec5983945935b34a0c15a28b7bd51faa4694aae053ca2794caa76e19985"
+    },
+    {
+      "path": "data/fixtures/MOCK_reddit_korean_skincare_20260712.json",
+      "sha256": "dc33afe57f8483d6e1cc00fb242bb006f587523bd18ad362e692e76da5c7bb85"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_korean_skincare_20260712.json",
+      "sha256": "2750491f551d36044b9b62336cefa0baf1a9f231448f22535a88bd14871bcbd5"
+    }
+  ],
+  "extra": {
+    "seed": 20260712,
+    "retrieved_at": "2026-07-12T21:00:00+05:30",
+    "weeks": 236,
+    "total_items": 17205
+  },
+  "status": "ok",
+  "error": null
+}
