@@ -1,0 +1,8738 @@
+[
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 0.8,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.5,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.0,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 0.8,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.2,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.01,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.02,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.03,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.05,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.1,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.05
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.08
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  },
+  {
+    "thresholds": {
+      "L1": 1.0,
+      "L2": 1.5,
+      "V0": 0.05,
+      "V1": 0.15,
+      "A1": -0.12
+    },
+    "score": 40.0,
+    "heating_fired_in_window": true,
+    "first_heating": "2022-08-07",
+    "mature_share_2025_26": 0.0,
+    "late_heating_weeks_2026": 0
+  }
+]

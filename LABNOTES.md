@@ -121,3 +121,15 @@ is rise 2022-23 → peak 2024 → oscillating decline to a still-elevated
 base (raw weekly mean 12 → 37 → ~30). Whatever combo is frozen, that
 mismatch gets reported as-is in CHECKPOINTS and on the Protocol screen —
 that is what the pre-registration is for.
+
+**FROZEN (grid rank 2 of the 960-combo extended grid, score 41.28/90):**
+L1=0.3, L2=0.4, V0=0.08, V1=0.08, A1=−0.12. First Heating 2022-08-07
+(inside the pre-registered window); zero false Heating in 2026;
+mature_share_2025_26 = 0.026, disclosed. Why this one among the four
+score-tied leaders: V1=0.08 gives the identical first flag as 0.05 with
+fewer marginal flags afterwards; A1=−0.12 keeps the strongly-negative
+accel branch strict so Peaked doesn't cannibalise rare Mature weeks
+under precedence. Full rationale + input hash in
+pipeline/thresholds_frozen.json. PROTOCOL §7 amendments A1–A5 written.
+Tag: m1-freeze. From this commit on, the freeze guard allows demo-trend
+scoring — always and only with these frozen values.

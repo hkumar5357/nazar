@@ -51,4 +51,65 @@ No revenue prediction. No per-post virality prediction. No causal claims. Batch 
 
 ## 7. Amendments
 
-*(none yet)*
+All amendments are dated, self-approved to avoid blocking async review, and
+flagged in CHECKPOINTS.md. Every one of them was made BEFORE the first
+scoring of any demo category (git history: the `m1-freeze` tag precedes all
+demo-category scoring commits).
+
+**A1 — 2026-07-13 — Confirmation events (R2).** Of the candidate events in
+§4: the Costa Coffee **India** matcha launch has no dated public source (the
+January 2026 launch was UK/Ireland); it is kept only as a clearly-labeled
+global mainstream marker, dated by its announcement article (2026-01-06).
+The WCP "Matcha Report 2026" publication date is only boundable to
+2026-02-20..2026-07-06 from public sources, failing R2's exact-date rule; it
+is dropped from lead-time math. India-specific replacements, locked with
+dated URLs in `data/events.csv` before any model run: Tata Starbucks puts
+Iced Matcha on its national India menu (2026-02-12); mainstream India
+food-media confirmation that matcha is a café-menu staple (2026-05-12). The
+"FSSAI protein-claim regulation" shorthand had no protein-specific dated
+notification; locked instead, honestly renamed, as the general
+scientific-evidence-for-claims regime (announced 2025-12-31, effective
+2026-01-01). Farmley report locked as named (2026-07-03). All five URLs
+returned HTTP 200 at lock time.
+
+**A2 — 2026-07-13 — Rule-form clarifications (R3).** Decided and committed
+before the threshold freeze; all on the calibration trend only:
+(1) state precedence peaked > heating > mature > emerging > undetermined;
+(2) the Heating breadth requirement is `breadth >= min(2, n_sources)` so
+single-source coverage (pre-API-keys) cannot structurally bar Heating;
+(3) "made ≥90% of all-time high earlier" is operationalised as: the
+expanding max of the composite reached ≥ L2 at some week strictly before the
+current week (any series is trivially at 100% of its own running max);
+(4) "accel strongly negative" is quantified as accel ≤ A1 and "high level"
+as composite ≥ L2, with A1 calibrated and frozen alongside the cutoffs;
+(5) peak_proximity and drawdown are computed on the min-shifted composite,
+since a mean of z-scores can be ≤ 0 and ratios on it are undefined.
+
+**A3 — 2026-07-13 — Map validation pairs (C4).** Celebrity-channel YouTube
+data is too thin for the SuperYou × Ranveer Singh pairing. C4 becomes:
+(a) a fitness/nutrition creator × protein snacks must rank HIGH (top 3);
+(b) a tech creator × matcha must rank LOW (bottom 3). SuperYou × Ranveer
+Singh moves to the pitch materials as a qualitative case study, outside the
+scored artifact.
+
+**A4 — 2026-07-13 — Data-source disclosures (§3, R1).** (1) Google Trends
+normalizes a retrieved series over its full window; the backtest truncates
+one retrieved series at each walk-forward date T, so datapoint timestamps
+respect ≤ T but the normalization denominator does not — disclosed, not
+hidden. (2) The prototype implements Google Trends + Reddit + YouTube + the
+locked events file; Instagram hashtag counts, quick-commerce snapshots and
+news-archive counts listed in §3 are not implemented (scope cut, disclosed).
+
+**A5 — 2026-07-13 — Calibration grid extension (R3).** The first grid run
+(blind bounds) could not produce Mature anywhere: a composite of expanding
+z-scores decays toward its own expanding mean after a peak, so an aged
+plateau lives near z ≈ 0.2–0.6, below the blind L2 floor of 0.8, and twelve
+consecutive weeks of |velocity| < 0.05 never occur on a noisy z series. L2
+gained {0.2, 0.4, 0.6} and V0 gained {0.08} before the re-run; the
+pre-registered arc windows and score formula were not touched. Frozen:
+L1=0.3, L2=0.4, V0=0.08, V1=0.08, A1=−0.12 (grid rank 2, score 41.28/90).
+Disclosed shortfall: mature share of 2025-26 weeks on the calibration trend
+is 0.026 — the "mature/plateau by 2025" prior in §1 is NOT reproduced on
+real geo=IN data with the pre-registered rule forms; the real arc is rise
+2022-23 → peak 2024 → oscillating decline to a still-elevated base. This is
+reported as-is, per §5.

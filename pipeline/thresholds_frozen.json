@@ -1,0 +1,29 @@
+{
+  "frozen_at": "2026-07-13T20:43:48.537140+05:30",
+  "calibration_trend": "korean_skincare",
+  "calibration_inputs": [
+    {
+      "path": "data/raw/trends_korean_skincare_20260713.json",
+      "sha256": "422023eaf6a29766190eb7181b7b6a5ec286078630aa69783d2b05a348c11f34",
+      "provenance": "real"
+    }
+  ],
+  "thresholds": {
+    "L1": 0.3,
+    "L2": 0.4,
+    "V0": 0.08,
+    "V1": 0.08,
+    "A1": -0.12
+  },
+  "grid_rank": 2,
+  "grid_score": 41.28,
+  "rules_version": "v1",
+  "rule_clarifications": [
+    "state precedence: peaked > heating > mature > emerging > undetermined",
+    "breadth requirement is min(2, n_sources) (single-source reality pre-keys)",
+    "peaked requires the expanding max composite to have reached L2 before now",
+    "A1 quantifies 'strongly negative accel'; 'high level' means composite >= L2",
+    "peak_proximity/drawdown computed on min-shifted composite (z can be negative)"
+  ],
+  "rationale": "Chosen by inspection among the four score-tied leaders (41.28/90) of the extended grid. L2=0.4 and V0=0.08 are the only grid values that keep Mature achievable at all on an expanding-z composite (structural plateau decay toward the expanding mean - see LABNOTES 2026-07-13); V1=0.08 is the middle velocity floor: the first Heating flag is identical to V1=0.05 (2022-08-07, inside the pre-registered window) with fewer marginal flags afterwards; A1=-0.12 keeps the 'strongly negative accel' Peaked branch strict, which also stops Peaked from cannibalising rare Mature weeks under the precedence rule. Disclosed shortfall, reported as-is: mature_share_2025_26 = 0.026 - the pre-registered 'mature by 2025' arc is NOT reproduced on real geo=IN data with the pre-registered rule forms; the real arc is rise 2022-23, peak 2024, oscillating decline to a still-elevated base."
+}

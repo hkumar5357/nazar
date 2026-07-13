@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-07-13T20:39:30.266289+05:30",
+  "coverage": {
+    "matcha": {
+      "trends": {
+        "provenance": "real",
+        "retrieved_at": "2026-07-13T20:13:37.766891+05:30",
+        "file": "trends_matcha_20260713.json",
+        "kind": "weekly_series",
+        "weeks": 237,
+        "partial_weeks_excluded": 1,
+        "first_week": "2021-12-26",
+        "last_week": "2026-07-05"
+      },
+      "reddit": {
+        "provenance": "fixture",
+        "retrieved_at": "2026-07-12T21:00:00+05:30",
+        "file": "MOCK_reddit_matcha_20260712.json",
+        "kind": "items",
+        "items": 2186,
+        "first_item": "2022-01-05",
+        "last_item": "2026-07-11"
+      },
+      "youtube": {
+        "provenance": "fixture",
+        "retrieved_at": "2026-07-12T21:00:00+05:30",
+        "file": "MOCK_youtube_matcha_20260712.json",
+        "kind": "items",
+        "items": 718,
+        "first_item": "2022-01-04",
+        "last_item": "2026-07-11"
+      }
+    },
+    "protein_snacks": {
+      "trends": {
+        "provenance": "real",
+        "retrieved_at": "2026-07-13T20:24:52.364639+05:30",
+        "file": "trends_protein_snacks_20260713.json",
+        "kind": "weekly_series",
+        "weeks": 237,
+        "partial_weeks_excluded": 1,
+        "first_week": "2021-12-26",
+        "last_week": "2026-07-05"
+      },
+      "reddit": {
+        "provenance": "fixture",
+        "retrieved_at": "2026-07-12T21:00:00+05:30",
+        "file": "MOCK_reddit_protein_snacks_20260712.json",
+        "kind": "items",
+        "items": 3220,
+        "first_item": "2022-01-02",
+        "last_item": "2026-07-11"
+      },
+      "youtube": {
+        "provenance": "fixture",
+        "retrieved_at": "2026-07-12T21:00:00+05:30",
+        "file": "MOCK_youtube_protein_snacks_20260712.json",
+        "kind": "items",
+        "items": 1110,
+        "first_item": "2022-01-10",
+        "last_item": "2026-07-05"
+      }
+    },
+    "genz_fragrance": {
+      "trends": {
+        "provenance": "real",
+        "retrieved_at": "2026-07-13T20:39:11.649725+05:30",
+        "file": "trends_genz_fragrance_20260713.json",
+        "kind": "weekly_series",
+        "weeks": 237,
+        "partial_weeks_excluded": 1,
+        "first_week": "2021-12-26",
+        "last_week": "2026-07-05"
+      },
+      "reddit": {
+        "provenance": "fixture",
+        "retrieved_at": "2026-07-12T21:00:00+05:30",
+        "file": "MOCK_reddit_genz_fragrance_20260712.json",
+        "kind": "items",
+        "items": 3535,
+        "first_item": "2022-01-02",
+        "last_item": "2026-07-11"
+      },
+      "youtube": {
+        "provenance": "fixture",
+        "retrieved_at": "2026-07-12T21:00:00+05:30",
+        "file": "MOCK_youtube_genz_fragrance_20260712.json",
+        "kind": "items",
+        "items": 1208,
+        "first_item": "2022-01-02",
+        "last_item": "2026-07-11"
+      }
+    },
+    "korean_skincare": {
+      "trends": {
+        "provenance": "real",
+        "retrieved_at": "2026-07-13T20:36:46.655269+05:30",
+        "file": "trends_korean_skincare_20260713.json",
+        "kind": "weekly_series",
+        "weeks": 237,
+        "partial_weeks_excluded": 1,
+        "first_week": "2021-12-26",
+        "last_week": "2026-07-05"
+      },
+      "reddit": {
+        "provenance": "fixture",
+        "retrieved_at": "2026-07-12T21:00:00+05:30",
+        "file": "MOCK_reddit_korean_skincare_20260712.json",
+        "kind": "items",
+        "items": 3839,
+        "first_item": "2022-01-05",
+        "last_item": "2026-07-11"
+      },
+      "youtube": {
+        "provenance": "fixture",
+        "retrieved_at": "2026-07-12T21:00:00+05:30",
+        "file": "MOCK_youtube_korean_skincare_20260712.json",
+        "kind": "items",
+        "items": 1389,
+        "first_item": "2022-01-25",
+        "last_item": "2026-07-11"
+      }
+    }
+  }
+}

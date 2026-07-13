@@ -1,0 +1,33 @@
+{
+  "command": "calibrate",
+  "notes": "grid calibration on korean_skincare",
+  "started_at": "2026-07-13T20:39:39.142303+05:30",
+  "finished_at": "2026-07-13T20:39:40.138884+05:30",
+  "git_commit": "1673bd16cc5d934ce02c047223d80fc81b96ef37",
+  "config_hash": "134732239aade675269c1cd8bc8d36f306070da2b30bef8811abeff32535488c",
+  "thresholds_frozen": false,
+  "inputs": [
+    {
+      "path": "data/raw/trends_korean_skincare_20260713.json",
+      "sha256": "422023eaf6a29766190eb7181b7b6a5ec286078630aa69783d2b05a348c11f34"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "runs/20260713_203939_calibrate/grid_results.json",
+      "sha256": "9f3773c74e2e3b5e7b8659d90a39a3a24a325e192a2181189633806b7de913e0"
+    }
+  ],
+  "extra": {
+    "provenance": {
+      "trends": "real"
+    },
+    "dropped_fixture_sources": [
+      "reddit",
+      "youtube"
+    ],
+    "grid_size": 624
+  },
+  "status": "ok",
+  "error": null
+}
