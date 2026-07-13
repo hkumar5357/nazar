@@ -1,0 +1,849 @@
+{
+  "backtest_dates": [
+    "2025-01-01",
+    "2025-02-01",
+    "2025-03-01",
+    "2025-04-01",
+    "2025-05-01",
+    "2025-06-01",
+    "2025-07-01",
+    "2025-08-01",
+    "2025-09-01",
+    "2025-10-01",
+    "2025-11-01",
+    "2025-12-01",
+    "2026-01-01",
+    "2026-02-01",
+    "2026-03-01",
+    "2026-04-01",
+    "2026-05-01",
+    "2026-06-01",
+    "2026-07-01"
+  ],
+  "trends": {
+    "matcha": [
+      {
+        "T": "2025-01-01",
+        "week_scored": "2024-12-22",
+        "state": "undetermined",
+        "features": {
+          "composite": 0.49321,
+          "n_sources": 1,
+          "velocity_8w": -0.057678,
+          "accel": -0.029932,
+          "peak_proximity": 0.201084,
+          "drawdown": 0.798916,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-02-01",
+        "week_scored": "2025-01-26",
+        "state": "heating",
+        "features": {
+          "composite": 1.460516,
+          "n_sources": 1,
+          "velocity_8w": 0.171484,
+          "accel": 0.167243,
+          "peak_proximity": 0.282216,
+          "drawdown": 0.717784,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-03-01",
+        "week_scored": "2025-02-23",
+        "state": "heating",
+        "features": {
+          "composite": 2.14121,
+          "n_sources": 1,
+          "velocity_8w": 0.165056,
+          "accel": 0.186617,
+          "peak_proximity": 0.339308,
+          "drawdown": 0.660692,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-04-01",
+        "week_scored": "2025-03-23",
+        "state": "heating",
+        "features": {
+          "composite": 3.298648,
+          "n_sources": 1,
+          "velocity_8w": 0.267199,
+          "accel": 0.095714,
+          "peak_proximity": 0.436386,
+          "drawdown": 0.563614,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-05-01",
+        "week_scored": "2025-04-20",
+        "state": "heating",
+        "features": {
+          "composite": 4.47562,
+          "n_sources": 1,
+          "velocity_8w": 0.293834,
+          "accel": 0.128778,
+          "peak_proximity": 0.535103,
+          "drawdown": 0.464897,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-06-01",
+        "week_scored": "2025-05-25",
+        "state": "peaked",
+        "features": {
+          "composite": 4.125091,
+          "n_sources": 1,
+          "velocity_8w": -0.010844,
+          "accel": -0.264454,
+          "peak_proximity": 0.505703,
+          "drawdown": 0.494297,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-07-01",
+        "week_scored": "2025-06-22",
+        "state": "undetermined",
+        "features": {
+          "composite": 4.881954,
+          "n_sources": 1,
+          "velocity_8w": 0.257919,
+          "accel": -0.009501,
+          "peak_proximity": 0.569183,
+          "drawdown": 0.430817,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-08-01",
+        "week_scored": "2025-07-20",
+        "state": "peaked",
+        "features": {
+          "composite": 3.225878,
+          "n_sources": 1,
+          "velocity_8w": -0.36568,
+          "accel": -0.354836,
+          "peak_proximity": 0.430283,
+          "drawdown": 0.569717,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-09-01",
+        "week_scored": "2025-08-24",
+        "state": "peaked",
+        "features": {
+          "composite": 1.895259,
+          "n_sources": 1,
+          "velocity_8w": -0.330694,
+          "accel": -0.439964,
+          "peak_proximity": 0.318679,
+          "drawdown": 0.681321,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-10-01",
+        "week_scored": "2025-09-21",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.295515,
+          "n_sources": 1,
+          "velocity_8w": -0.186743,
+          "accel": 0.24357,
+          "peak_proximity": 0.268376,
+          "drawdown": 0.731624,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-11-01",
+        "week_scored": "2025-10-26",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.199309,
+          "n_sources": 1,
+          "velocity_8w": -0.081175,
+          "accel": 0.183944,
+          "peak_proximity": 0.260307,
+          "drawdown": 0.739693,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-12-01",
+        "week_scored": "2025-11-23",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.922594,
+          "n_sources": 1,
+          "velocity_8w": 0.179471,
+          "accel": 0.340748,
+          "peak_proximity": 0.320972,
+          "drawdown": 0.679028,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2026-01-01",
+        "week_scored": "2025-12-21",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.387563,
+          "n_sources": 1,
+          "velocity_8w": -0.058809,
+          "accel": 0.022366,
+          "peak_proximity": 0.276097,
+          "drawdown": 0.723903,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-02-01",
+        "week_scored": "2026-01-25",
+        "state": "peaked",
+        "features": {
+          "composite": 2.167388,
+          "n_sources": 1,
+          "velocity_8w": 0.01282,
+          "accel": -0.175196,
+          "peak_proximity": 0.341503,
+          "drawdown": 0.658497,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2026-03-01",
+        "week_scored": "2026-02-22",
+        "state": "heating",
+        "features": {
+          "composite": 2.258492,
+          "n_sources": 1,
+          "velocity_8w": 0.322726,
+          "accel": 0.402811,
+          "peak_proximity": 0.349145,
+          "drawdown": 0.650855,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2026-04-01",
+        "week_scored": "2026-03-22",
+        "state": "peaked",
+        "features": {
+          "composite": 1.211093,
+          "n_sources": 1,
+          "velocity_8w": -0.35605,
+          "accel": -0.368869,
+          "peak_proximity": 0.261296,
+          "drawdown": 0.738704,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-05-01",
+        "week_scored": "2026-04-19",
+        "state": "peaked",
+        "features": {
+          "composite": 1.268789,
+          "n_sources": 1,
+          "velocity_8w": 0.000195,
+          "accel": -0.322531,
+          "peak_proximity": 0.266135,
+          "drawdown": 0.733865,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2026-06-01",
+        "week_scored": "2026-05-24",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.507156,
+          "n_sources": 1,
+          "velocity_8w": -0.017896,
+          "accel": 0.471509,
+          "peak_proximity": 0.286128,
+          "drawdown": 0.713872,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-07-01",
+        "week_scored": "2026-06-21",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.376888,
+          "n_sources": 1,
+          "velocity_8w": 0.015345,
+          "accel": 0.003337,
+          "peak_proximity": 0.275201,
+          "drawdown": 0.724799,
+          "breadth": 1
+        }
+      }
+    ],
+    "protein_snacks": [
+      {
+        "T": "2025-01-01",
+        "week_scored": "2024-12-22",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.014635,
+          "n_sources": 1,
+          "velocity_8w": -0.010632,
+          "accel": 0.23009,
+          "peak_proximity": 0.54479,
+          "drawdown": 0.45521,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-02-01",
+        "week_scored": "2025-01-26",
+        "state": "heating",
+        "features": {
+          "composite": 2.872079,
+          "n_sources": 1,
+          "velocity_8w": 0.256577,
+          "accel": 0.116863,
+          "peak_proximity": 0.865704,
+          "drawdown": 0.134296,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-03-01",
+        "week_scored": "2025-02-23",
+        "state": "peaked",
+        "features": {
+          "composite": 2.607617,
+          "n_sources": 1,
+          "velocity_8w": -0.112128,
+          "accel": -0.050385,
+          "peak_proximity": 0.813913,
+          "drawdown": 0.186087,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-04-01",
+        "week_scored": "2025-03-23",
+        "state": "peaked",
+        "features": {
+          "composite": 2.080611,
+          "n_sources": 1,
+          "velocity_8w": -0.01008,
+          "accel": -0.266656,
+          "peak_proximity": 0.710706,
+          "drawdown": 0.289294,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-05-01",
+        "week_scored": "2025-04-20",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.467429,
+          "n_sources": 1,
+          "velocity_8w": -0.182441,
+          "accel": -0.070313,
+          "peak_proximity": 0.590622,
+          "drawdown": 0.409378,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-06-01",
+        "week_scored": "2025-05-25",
+        "state": "undetermined",
+        "features": {
+          "composite": 3.478348,
+          "n_sources": 1,
+          "velocity_8w": 0.138172,
+          "accel": 0.225069,
+          "peak_proximity": 0.984433,
+          "drawdown": 0.015567,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-07-01",
+        "week_scored": "2025-06-22",
+        "state": "undetermined",
+        "features": {
+          "composite": 3.414125,
+          "n_sources": 1,
+          "velocity_8w": 0.192632,
+          "accel": 0.317956,
+          "peak_proximity": 0.971856,
+          "drawdown": 0.028144,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-08-01",
+        "week_scored": "2025-07-20",
+        "state": "peaked",
+        "features": {
+          "composite": 2.883539,
+          "n_sources": 1,
+          "velocity_8w": -0.083038,
+          "accel": -0.22121,
+          "peak_proximity": 0.867948,
+          "drawdown": 0.132052,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-09-01",
+        "week_scored": "2025-08-24",
+        "state": "peaked",
+        "features": {
+          "composite": 2.090763,
+          "n_sources": 1,
+          "velocity_8w": -0.113239,
+          "accel": -0.205317,
+          "peak_proximity": 0.712694,
+          "drawdown": 0.287306,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-10-01",
+        "week_scored": "2025-09-21",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.738318,
+          "n_sources": 1,
+          "velocity_8w": -0.166106,
+          "accel": -0.100527,
+          "peak_proximity": 0.643672,
+          "drawdown": 0.356328,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-11-01",
+        "week_scored": "2025-10-26",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.896291,
+          "n_sources": 1,
+          "velocity_8w": -0.085306,
+          "accel": 0.019036,
+          "peak_proximity": 0.674609,
+          "drawdown": 0.325391,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-12-01",
+        "week_scored": "2025-11-23",
+        "state": "heating",
+        "features": {
+          "composite": 3.325695,
+          "n_sources": 1,
+          "velocity_8w": 0.325681,
+          "accel": 0.468608,
+          "peak_proximity": 0.885015,
+          "drawdown": 0.114985,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2026-01-01",
+        "week_scored": "2025-12-21",
+        "state": "peaked",
+        "features": {
+          "composite": 2.78977,
+          "n_sources": 1,
+          "velocity_8w": -0.001376,
+          "accel": 0.083929,
+          "peak_proximity": 0.719804,
+          "drawdown": 0.280196,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-02-01",
+        "week_scored": "2026-01-25",
+        "state": "peaked",
+        "features": {
+          "composite": 3.611369,
+          "n_sources": 1,
+          "velocity_8w": 0.011992,
+          "accel": -0.411396,
+          "peak_proximity": 0.856124,
+          "drawdown": 0.143876,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2026-03-01",
+        "week_scored": "2026-02-22",
+        "state": "undetermined",
+        "features": {
+          "composite": 3.677656,
+          "n_sources": 1,
+          "velocity_8w": 0.08676,
+          "accel": 0.280731,
+          "peak_proximity": 0.867122,
+          "drawdown": 0.132878,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2026-04-01",
+        "week_scored": "2026-03-22",
+        "state": "peaked",
+        "features": {
+          "composite": 2.815983,
+          "n_sources": 1,
+          "velocity_8w": -0.135327,
+          "accel": -0.147319,
+          "peak_proximity": 0.724153,
+          "drawdown": 0.275847,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-05-01",
+        "week_scored": "2026-04-19",
+        "state": "undetermined",
+        "features": {
+          "composite": 2.219734,
+          "n_sources": 1,
+          "velocity_8w": -0.020337,
+          "accel": -0.107097,
+          "peak_proximity": 0.625223,
+          "drawdown": 0.374777,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-06-01",
+        "week_scored": "2026-05-24",
+        "state": "undetermined",
+        "features": {
+          "composite": 2.289835,
+          "n_sources": 1,
+          "velocity_8w": -0.046358,
+          "accel": 0.057397,
+          "peak_proximity": 0.636854,
+          "drawdown": 0.363146,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-07-01",
+        "week_scored": "2026-06-21",
+        "state": "undetermined",
+        "features": {
+          "composite": 2.54916,
+          "n_sources": 1,
+          "velocity_8w": 0.075212,
+          "accel": 0.17073,
+          "peak_proximity": 0.679881,
+          "drawdown": 0.320119,
+          "breadth": 1
+        }
+      }
+    ],
+    "genz_fragrance": [
+      {
+        "T": "2025-01-01",
+        "week_scored": "2024-12-22",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.27447,
+          "n_sources": 1,
+          "velocity_8w": -0.052415,
+          "accel": -0.084627,
+          "peak_proximity": 0.444973,
+          "drawdown": 0.555027,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-02-01",
+        "week_scored": "2025-01-26",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.725281,
+          "n_sources": 1,
+          "velocity_8w": 0.015598,
+          "accel": 0.11763,
+          "peak_proximity": 0.581167,
+          "drawdown": 0.418833,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-03-01",
+        "week_scored": "2025-02-23",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.292752,
+          "n_sources": 1,
+          "velocity_8w": 0.064836,
+          "accel": 0.14397,
+          "peak_proximity": 0.450496,
+          "drawdown": 0.549504,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-04-01",
+        "week_scored": "2025-03-23",
+        "state": "undetermined",
+        "features": {
+          "composite": 2.088938,
+          "n_sources": 1,
+          "velocity_8w": 0.042639,
+          "accel": 0.027041,
+          "peak_proximity": 0.691031,
+          "drawdown": 0.308969,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-05-01",
+        "week_scored": "2025-04-20",
+        "state": "peaked",
+        "features": {
+          "composite": 0.741795,
+          "n_sources": 1,
+          "velocity_8w": -0.208497,
+          "accel": -0.273333,
+          "peak_proximity": 0.284047,
+          "drawdown": 0.715953,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-06-01",
+        "week_scored": "2025-05-25",
+        "state": "undetermined",
+        "features": {
+          "composite": 0.901298,
+          "n_sources": 1,
+          "velocity_8w": -0.00575,
+          "accel": -0.003665,
+          "peak_proximity": 0.332235,
+          "drawdown": 0.667765,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-07-01",
+        "week_scored": "2025-06-22",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.242421,
+          "n_sources": 1,
+          "velocity_8w": 0.035161,
+          "accel": 0.244633,
+          "peak_proximity": 0.435291,
+          "drawdown": 0.564709,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-08-01",
+        "week_scored": "2025-07-20",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.45484,
+          "n_sources": 1,
+          "velocity_8w": 0.069353,
+          "accel": 0.075103,
+          "peak_proximity": 0.499464,
+          "drawdown": 0.500536,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-09-01",
+        "week_scored": "2025-08-24",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.980622,
+          "n_sources": 1,
+          "velocity_8w": 0.066205,
+          "accel": -0.002872,
+          "peak_proximity": 0.658308,
+          "drawdown": 0.341692,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2025-10-01",
+        "week_scored": "2025-09-21",
+        "state": "peaked",
+        "features": {
+          "composite": 2.051923,
+          "n_sources": 1,
+          "velocity_8w": -0.082871,
+          "accel": -0.181685,
+          "peak_proximity": 0.679848,
+          "drawdown": 0.320152,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-11-01",
+        "week_scored": "2025-10-26",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.602315,
+          "n_sources": 1,
+          "velocity_8w": -0.022279,
+          "accel": -0.068056,
+          "peak_proximity": 0.544018,
+          "drawdown": 0.455982,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2025-12-01",
+        "week_scored": "2025-11-23",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.91742,
+          "n_sources": 1,
+          "velocity_8w": 0.003314,
+          "accel": 0.004788,
+          "peak_proximity": 0.639214,
+          "drawdown": 0.360786,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2026-01-01",
+        "week_scored": "2025-12-21",
+        "state": "mature",
+        "features": {
+          "composite": 1.964873,
+          "n_sources": 1,
+          "velocity_8w": -0.02604,
+          "accel": -0.003761,
+          "peak_proximity": 0.65355,
+          "drawdown": 0.34645,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-02-01",
+        "week_scored": "2026-01-25",
+        "state": "mature",
+        "features": {
+          "composite": 1.553713,
+          "n_sources": 1,
+          "velocity_8w": -0.0395,
+          "accel": -0.020005,
+          "peak_proximity": 0.529335,
+          "drawdown": 0.470665,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-03-01",
+        "week_scored": "2026-02-22",
+        "state": "heating",
+        "features": {
+          "composite": 2.373677,
+          "n_sources": 1,
+          "velocity_8w": 0.161093,
+          "accel": 0.198424,
+          "peak_proximity": 0.777053,
+          "drawdown": 0.222947,
+          "breadth": 1
+        }
+      },
+      {
+        "T": "2026-04-01",
+        "week_scored": "2026-03-22",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.153306,
+          "n_sources": 1,
+          "velocity_8w": -0.060448,
+          "accel": -0.020948,
+          "peak_proximity": 0.408368,
+          "drawdown": 0.591632,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-05-01",
+        "week_scored": "2026-04-19",
+        "state": "peaked",
+        "features": {
+          "composite": 1.234231,
+          "n_sources": 1,
+          "velocity_8w": -0.20186,
+          "accel": -0.362954,
+          "peak_proximity": 0.432816,
+          "drawdown": 0.567184,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-06-01",
+        "week_scored": "2026-05-24",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.101178,
+          "n_sources": 1,
+          "velocity_8w": -0.025498,
+          "accel": 0.150652,
+          "peak_proximity": 0.39262,
+          "drawdown": 0.60738,
+          "breadth": 0
+        }
+      },
+      {
+        "T": "2026-07-01",
+        "week_scored": "2026-06-21",
+        "state": "undetermined",
+        "features": {
+          "composite": 1.517217,
+          "n_sources": 1,
+          "velocity_8w": 0.080086,
+          "accel": 0.265277,
+          "peak_proximity": 0.518309,
+          "drawdown": 0.481691,
+          "breadth": 1
+        }
+      }
+    ]
+  },
+  "provenance": {
+    "matcha": {
+      "sources": {
+        "trends": "real"
+      },
+      "contains_fixture_data": false
+    },
+    "protein_snacks": {
+      "sources": {
+        "trends": "real"
+      },
+      "contains_fixture_data": false
+    },
+    "genz_fragrance": {
+      "sources": {
+        "trends": "real"
+      },
+      "contains_fixture_data": false
+    }
+  }
+}

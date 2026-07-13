@@ -1,0 +1,44 @@
+{
+  "command": "backtest",
+  "notes": "walk-forward Jan 2025 - Jul 2026",
+  "started_at": "2026-07-13T20:49:48.268337+05:30",
+  "finished_at": "2026-07-13T20:49:49.393051+05:30",
+  "git_commit": "634294a239ea83a333e88271519e1b7cd86da4ab",
+  "config_hash": "36b688840c95db92d739633868079bc87f056b4397360945ca90e47f5affb1e5",
+  "thresholds_frozen": true,
+  "inputs": [
+    {
+      "path": "data/raw/trends_matcha_20260713.json",
+      "sha256": "549df8bbd13366847a1149ee13fc8c916dc592ebcc1456d1e7882b97ac8ca7b0"
+    },
+    {
+      "path": "data/raw/trends_protein_snacks_20260713.json",
+      "sha256": "eebd98b7efd51a5b0f4a25a3d540dccf1d721f060d80dcd056f8298318c5c0a7"
+    },
+    {
+      "path": "data/raw/trends_genz_fragrance_20260713.json",
+      "sha256": "60c1dfe3f7ab16c09a13c16acd0b03f1465eb251df15c5ba9a14e79cf501452f"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "data/backtest/state_timeline.json",
+      "sha256": "2b704d69206cb9d5d55f1b653a9c28073eefd3775cd381faa1ac8e8f369d8404"
+    },
+    {
+      "path": "data/backtest/first_flags.json",
+      "sha256": "395a678ca888b13e6d4615d6bdb8a66adb220b15f3fac66f2719935d70c70acd"
+    },
+    {
+      "path": "data/backtest/lead_times.json",
+      "sha256": "91bfcaab698785979c12639e803ab0ddb9a04ef927f33f45b5ff039e2d3e0bce"
+    },
+    {
+      "path": "data/backtest/goldenthread_chart.json",
+      "sha256": "82aecf74b8dc5023901de954aaad02a951ca2bddfae9c45a01692e0104463291"
+    }
+  ],
+  "extra": {},
+  "status": "ok",
+  "error": null
+}

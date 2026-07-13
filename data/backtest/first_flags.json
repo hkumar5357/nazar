@@ -1,0 +1,48 @@
+{
+  "trends": {
+    "matcha": {
+      "first_heating_week": "2022-05-22",
+      "first_heating_week_in_backtest_window": "2025-01-26",
+      "heating_week_count": 37,
+      "first_classifiable_week": "2022-05-15",
+      "boundary_censored": true,
+      "censoring_note": "first Heating fires within 4 weeks of the first classifiable week: the trend was already building when the observation window opened (history starts 2022-01), so this flag date is a lower bound, not a detection date. The conservative in-window flag is reported alongside."
+    },
+    "protein_snacks": {
+      "first_heating_week": "2022-05-15",
+      "first_heating_week_in_backtest_window": "2025-01-12",
+      "heating_week_count": 37,
+      "first_classifiable_week": "2022-05-15",
+      "boundary_censored": true,
+      "censoring_note": "first Heating fires within 4 weeks of the first classifiable week: the trend was already building when the observation window opened (history starts 2022-01), so this flag date is a lower bound, not a detection date. The conservative in-window flag is reported alongside."
+    },
+    "genz_fragrance": {
+      "first_heating_week": "2022-12-18",
+      "first_heating_week_in_backtest_window": "2025-08-03",
+      "heating_week_count": 17,
+      "first_classifiable_week": "2022-10-23",
+      "boundary_censored": false,
+      "censoring_note": null
+    }
+  },
+  "provenance": {
+    "matcha": {
+      "sources": {
+        "trends": "real"
+      },
+      "contains_fixture_data": false
+    },
+    "protein_snacks": {
+      "sources": {
+        "trends": "real"
+      },
+      "contains_fixture_data": false
+    },
+    "genz_fragrance": {
+      "sources": {
+        "trends": "real"
+      },
+      "contains_fixture_data": false
+    }
+  }
+}
