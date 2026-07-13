@@ -83,3 +83,41 @@ thresholds_frozen.json. Calibration reads REAL-provenance pulls only.
 smoke test earlier probably warmed the rate limiter). Backoff/retry is
 running and every attempt is logged; trendspy is the fallback backend if
 pytrends exhausts its five attempts. Failures, if any, stay in runs/.
+
+---
+
+## Session 2 — 2026-07-13 (Mon evening) → M1 calibration + freeze
+
+**Machine-sleep confession:** the pull job launched late Sunday actually
+executed Monday evening after the laptop woke — data files are dated
+2026-07-13, which is fine (fresher data), and the run logs show the real
+timeline. matcha + protein_snacks landed via pytrends (protein needed
+all 5 backoff attempts); genz_fragrance exhausted pytrends' retries
+(failed run committed in runs/, per R4) and landed via the trendspy
+backend along with korean_skincare.
+
+**Calibration, first grid run (624 combos):** every combo scored 40/90 —
+Heating fires 2022-08-07 (inside the pre-registered window) for
+essentially any cutoffs, but mature_share_2025_26 = 0.0 across the whole
+grid. Diagnosis on the real feature values, structural not noise: the
+composite is a mean of EXPANDING z-scores, so a trend that explodes and
+then plateaus decays toward its own expanding mean — Korean skincare's
+2025-26 composite lives around 0.2-0.6 with z-scale drawdowns of
+0.7-0.9, below the blind grid's L2 floor (0.8); and 12 consecutive weeks
+of |velocity| < 0.05 never occur on a noisy z series (longest qualifying
+run: 6 weeks even with L2 = 0).
+
+**Grid extension (before re-run, calibration-trend data only):** L2
+gains {0.2, 0.4, 0.6}; V0 gains {0.08}. The pre-registered arc windows
+and score formula are UNCHANGED. Reasoning: freezing a V0 ≤ 0.05 would
+make Mature structurally unreachable for every trend forever — a
+degenerate cutoff chosen blind, not a finding.
+
+**Honest headline, written before the re-run:** even the most permissive
+probe (L2=0, V0=0.10) yields ≤ 14% Mature weeks in 2025-26. The BRIEF's
+prior ("explosive 2022-23 → mature/plateau by 2025") is NOT reproduced
+on real geo=IN data with the pre-registered rule forms: the actual arc
+is rise 2022-23 → peak 2024 → oscillating decline to a still-elevated
+base (raw weekly mean 12 → 37 → ~30). Whatever combo is frozen, that
+mismatch gets reported as-is in CHECKPOINTS and on the Protocol screen —
+that is what the pre-registration is for.

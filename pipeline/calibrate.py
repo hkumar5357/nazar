@@ -42,10 +42,21 @@ HEATING_WINDOW = ("2022-07-01", "2023-12-31")
 MATURE_WINDOW = ("2025-01-01", "2026-06-30")
 LATE_HEATING_FROM = "2026-01-01"
 
+# Grid extension, 2026-07-13 (documented in LABNOTES before this re-run):
+# the first grid run showed every combo scoring 40/90 with mature_share = 0.
+# Structural reason, not noise: the composite is a mean of EXPANDING
+# z-scores, so a trend that explodes and then plateaus decays toward its
+# expanding mean — an aged plateau lives near z ~ 0.2-0.6, far below the
+# blind grid's L2 floor of 0.8, and 12 consecutive weeks of |velocity| <
+# 0.05 never happen on a noisy z series (longest run: 6 weeks even with
+# L2 = 0). L2 therefore gains {0.2, 0.4, 0.6} and V0 gains {0.08}. The
+# pre-registered arc and its score are UNCHANGED; only calibration-trend
+# data was consulted. All of this happens before the freeze — that is
+# what calibration is.
 GRID = {
     "L1": [0.3, 0.5, 0.8, 1.0],
-    "L2": [0.8, 1.0, 1.2, 1.5],
-    "V0": [0.01, 0.02, 0.03, 0.05],
+    "L2": [0.2, 0.4, 0.6, 0.8, 1.0, 1.2, 1.5],
+    "V0": [0.01, 0.02, 0.03, 0.05, 0.08],
     "V1": [0.05, 0.08, 0.10, 0.15],
     "A1": [-0.05, -0.08, -0.12],
 }
