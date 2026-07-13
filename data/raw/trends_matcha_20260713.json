@@ -1,0 +1,2401 @@
+{
+  "source": "trends",
+  "trend": "matcha",
+  "retrieved_at": "2026-07-13T20:13:37.766891+05:30",
+  "provenance": "real",
+  "query_spec": {
+    "backend": "pytrends",
+    "terms": [
+      "matcha",
+      "matcha latte",
+      "matcha powder",
+      "matcha price"
+    ],
+    "geo": "IN",
+    "timeframe": "2022-01-01 2026-07-13"
+  },
+  "data": {
+    "series": [
+      {
+        "week_start": "2021-12-26",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 0,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-02",
+        "values": {
+          "matcha": 13,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-09",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-16",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-23",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-30",
+        "values": {
+          "matcha": 13,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-06",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-13",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-20",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-27",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-06",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-13",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-20",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-27",
+        "values": {
+          "matcha": 8,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-03",
+        "values": {
+          "matcha": 8,
+          "matcha latte": 0,
+          "matcha powder": 0,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-10",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-17",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-24",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-01",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-08",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-15",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-22",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-29",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-05",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-12",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-19",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-26",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-03",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-10",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-17",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-24",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-31",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-07",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-14",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-21",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-28",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 0,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-04",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-11",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-18",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-25",
+        "values": {
+          "matcha": 7,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-02",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-09",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-16",
+        "values": {
+          "matcha": 8,
+          "matcha latte": 0,
+          "matcha powder": 0,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-23",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-30",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-06",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-13",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-20",
+        "values": {
+          "matcha": 8,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-27",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-04",
+        "values": {
+          "matcha": 8,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-11",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-18",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-25",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-01",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-08",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-15",
+        "values": {
+          "matcha": 8,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-22",
+        "values": {
+          "matcha": 8,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-29",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-05",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-12",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-19",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-26",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-05",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-12",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-19",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-26",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-02",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-09",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-16",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-23",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-30",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-07",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-14",
+        "values": {
+          "matcha": 9,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-21",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-28",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-04",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-11",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-18",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-25",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-02",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-09",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-16",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-23",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-30",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-06",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-13",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-20",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-27",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-03",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-10",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-17",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-24",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-01",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-08",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-15",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-22",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-29",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-05",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-12",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-19",
+        "values": {
+          "matcha": 13,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-26",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-03",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-10",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-17",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 0,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-24",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-31",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-07",
+        "values": {
+          "matcha": 10,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-14",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-21",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-28",
+        "values": {
+          "matcha": 18,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-04",
+        "values": {
+          "matcha": 15,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-11",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-18",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-25",
+        "values": {
+          "matcha": 13,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-03",
+        "values": {
+          "matcha": 11,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-10",
+        "values": {
+          "matcha": 12,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-17",
+        "values": {
+          "matcha": 13,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-24",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-31",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-07",
+        "values": {
+          "matcha": 15,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-14",
+        "values": {
+          "matcha": 13,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-21",
+        "values": {
+          "matcha": 13,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-28",
+        "values": {
+          "matcha": 16,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-05",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-12",
+        "values": {
+          "matcha": 15,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-19",
+        "values": {
+          "matcha": 15,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-26",
+        "values": {
+          "matcha": 17,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-02",
+        "values": {
+          "matcha": 60,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-09",
+        "values": {
+          "matcha": 19,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-16",
+        "values": {
+          "matcha": 17,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-23",
+        "values": {
+          "matcha": 19,
+          "matcha latte": 0,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-30",
+        "values": {
+          "matcha": 16,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-07",
+        "values": {
+          "matcha": 18,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-14",
+        "values": {
+          "matcha": 18,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-21",
+        "values": {
+          "matcha": 16,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-28",
+        "values": {
+          "matcha": 16,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-04",
+        "values": {
+          "matcha": 16,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-11",
+        "values": {
+          "matcha": 17,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-18",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-25",
+        "values": {
+          "matcha": 15,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-01",
+        "values": {
+          "matcha": 16,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-08",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-15",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-22",
+        "values": {
+          "matcha": 15,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-29",
+        "values": {
+          "matcha": 16,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-06",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-13",
+        "values": {
+          "matcha": 17,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-20",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-27",
+        "values": {
+          "matcha": 13,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-03",
+        "values": {
+          "matcha": 16,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-10",
+        "values": {
+          "matcha": 15,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-17",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-24",
+        "values": {
+          "matcha": 16,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-01",
+        "values": {
+          "matcha": 15,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-08",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 0,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-15",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-22",
+        "values": {
+          "matcha": 14,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-29",
+        "values": {
+          "matcha": 15,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-05",
+        "values": {
+          "matcha": 18,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-12",
+        "values": {
+          "matcha": 17,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-19",
+        "values": {
+          "matcha": 18,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-26",
+        "values": {
+          "matcha": 19,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-02",
+        "values": {
+          "matcha": 17,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-09",
+        "values": {
+          "matcha": 23,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-16",
+        "values": {
+          "matcha": 22,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-23",
+        "values": {
+          "matcha": 22,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-02",
+        "values": {
+          "matcha": 23,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-09",
+        "values": {
+          "matcha": 27,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-16",
+        "values": {
+          "matcha": 27,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-23",
+        "values": {
+          "matcha": 31,
+          "matcha latte": 1,
+          "matcha powder": 1,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-30",
+        "values": {
+          "matcha": 34,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-06",
+        "values": {
+          "matcha": 36,
+          "matcha latte": 2,
+          "matcha powder": 3,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-13",
+        "values": {
+          "matcha": 37,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-20",
+        "values": {
+          "matcha": 40,
+          "matcha latte": 2,
+          "matcha powder": 3,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-27",
+        "values": {
+          "matcha": 44,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-04",
+        "values": {
+          "matcha": 36,
+          "matcha latte": 2,
+          "matcha powder": 3,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-11",
+        "values": {
+          "matcha": 46,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-18",
+        "values": {
+          "matcha": 46,
+          "matcha latte": 2,
+          "matcha powder": 3,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-25",
+        "values": {
+          "matcha": 47,
+          "matcha latte": 2,
+          "matcha powder": 3,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-01",
+        "values": {
+          "matcha": 60,
+          "matcha latte": 2,
+          "matcha powder": 4,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-08",
+        "values": {
+          "matcha": 78,
+          "matcha latte": 3,
+          "matcha powder": 5,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-15",
+        "values": {
+          "matcha": 72,
+          "matcha latte": 3,
+          "matcha powder": 5,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-22",
+        "values": {
+          "matcha": 71,
+          "matcha latte": 3,
+          "matcha powder": 5,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-29",
+        "values": {
+          "matcha": 72,
+          "matcha latte": 3,
+          "matcha powder": 5,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-06",
+        "values": {
+          "matcha": 75,
+          "matcha latte": 3,
+          "matcha powder": 5,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-13",
+        "values": {
+          "matcha": 63,
+          "matcha latte": 2,
+          "matcha powder": 5,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-20",
+        "values": {
+          "matcha": 59,
+          "matcha latte": 3,
+          "matcha powder": 4,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-27",
+        "values": {
+          "matcha": 63,
+          "matcha latte": 2,
+          "matcha powder": 4,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-03",
+        "values": {
+          "matcha": 53,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-10",
+        "values": {
+          "matcha": 51,
+          "matcha latte": 2,
+          "matcha powder": 3,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-17",
+        "values": {
+          "matcha": 51,
+          "matcha latte": 2,
+          "matcha powder": 4,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-24",
+        "values": {
+          "matcha": 47,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-31",
+        "values": {
+          "matcha": 43,
+          "matcha latte": 2,
+          "matcha powder": 3,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-07",
+        "values": {
+          "matcha": 44,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-14",
+        "values": {
+          "matcha": 41,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-21",
+        "values": {
+          "matcha": 38,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-28",
+        "values": {
+          "matcha": 38,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-05",
+        "values": {
+          "matcha": 35,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-12",
+        "values": {
+          "matcha": 36,
+          "matcha latte": 1,
+          "matcha powder": 2,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-19",
+        "values": {
+          "matcha": 35,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-26",
+        "values": {
+          "matcha": 35,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-02",
+        "values": {
+          "matcha": 44,
+          "matcha latte": 2,
+          "matcha powder": 3,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-09",
+        "values": {
+          "matcha": 48,
+          "matcha latte": 2,
+          "matcha powder": 4,
+          "matcha price": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-16",
+        "values": {
+          "matcha": 50,
+          "matcha latte": 3,
+          "matcha powder": 4,
+          "matcha price": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-23",
+        "values": {
+          "matcha": 45,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-30",
+        "values": {
+          "matcha": 51,
+          "matcha latte": 3,
+          "matcha powder": 4,
+          "matcha price": 5
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-07",
+        "values": {
+          "matcha": 49,
+          "matcha latte": 4,
+          "matcha powder": 3,
+          "matcha price": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-14",
+        "values": {
+          "matcha": 45,
+          "matcha latte": 3,
+          "matcha powder": 2,
+          "matcha price": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-21",
+        "values": {
+          "matcha": 40,
+          "matcha latte": 3,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-28",
+        "values": {
+          "matcha": 50,
+          "matcha latte": 3,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-04",
+        "values": {
+          "matcha": 44,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-11",
+        "values": {
+          "matcha": 47,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-18",
+        "values": {
+          "matcha": 44,
+          "matcha latte": 4,
+          "matcha powder": 3,
+          "matcha price": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-25",
+        "values": {
+          "matcha": 52,
+          "matcha latte": 5,
+          "matcha powder": 3,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-01",
+        "values": {
+          "matcha": 48,
+          "matcha latte": 6,
+          "matcha powder": 2,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-08",
+        "values": {
+          "matcha": 83,
+          "matcha latte": 16,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-15",
+        "values": {
+          "matcha": 100,
+          "matcha latte": 21,
+          "matcha powder": 3,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-22",
+        "values": {
+          "matcha": 58,
+          "matcha latte": 7,
+          "matcha powder": 3,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-01",
+        "values": {
+          "matcha": 46,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-08",
+        "values": {
+          "matcha": 44,
+          "matcha latte": 3,
+          "matcha powder": 2,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-15",
+        "values": {
+          "matcha": 47,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-22",
+        "values": {
+          "matcha": 42,
+          "matcha latte": 2,
+          "matcha powder": 3,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-29",
+        "values": {
+          "matcha": 45,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-05",
+        "values": {
+          "matcha": 49,
+          "matcha latte": 4,
+          "matcha powder": 2,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-12",
+        "values": {
+          "matcha": 49,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-19",
+        "values": {
+          "matcha": 46,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-26",
+        "values": {
+          "matcha": 49,
+          "matcha latte": 2,
+          "matcha powder": 3,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-03",
+        "values": {
+          "matcha": 45,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-10",
+        "values": {
+          "matcha": 47,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-17",
+        "values": {
+          "matcha": 46,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-24",
+        "values": {
+          "matcha": 50,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-31",
+        "values": {
+          "matcha": 52,
+          "matcha latte": 3,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-07",
+        "values": {
+          "matcha": 48,
+          "matcha latte": 3,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-14",
+        "values": {
+          "matcha": 49,
+          "matcha latte": 3,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-21",
+        "values": {
+          "matcha": 49,
+          "matcha latte": 3,
+          "matcha powder": 2,
+          "matcha price": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-28",
+        "values": {
+          "matcha": 45,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-07-05",
+        "values": {
+          "matcha": 47,
+          "matcha latte": 2,
+          "matcha powder": 2,
+          "matcha price": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-07-12",
+        "values": {
+          "matcha": 51,
+          "matcha latte": 3,
+          "matcha powder": 3,
+          "matcha price": 1
+        },
+        "is_partial": true
+      }
+    ]
+  }
+}

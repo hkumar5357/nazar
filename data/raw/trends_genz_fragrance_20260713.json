@@ -1,0 +1,2401 @@
+{
+  "source": "trends",
+  "trend": "genz_fragrance",
+  "retrieved_at": "2026-07-13T20:39:11.649725+05:30",
+  "provenance": "real",
+  "query_spec": {
+    "backend": "trendspy",
+    "terms": [
+      "perfume for men",
+      "attar",
+      "long lasting perfume",
+      "perfume under 500"
+    ],
+    "geo": "IN",
+    "timeframe": "2022-01-01 2026-07-13"
+  },
+  "data": {
+    "series": [
+      {
+        "week_start": "2021-12-26",
+        "values": {
+          "perfume for men": 28,
+          "attar": 28,
+          "long lasting perfume": 2,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-02",
+        "values": {
+          "perfume for men": 27,
+          "attar": 27,
+          "long lasting perfume": 2,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-09",
+        "values": {
+          "perfume for men": 24,
+          "attar": 24,
+          "long lasting perfume": 2,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-16",
+        "values": {
+          "perfume for men": 26,
+          "attar": 23,
+          "long lasting perfume": 2,
+          "perfume under 500": 0
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-23",
+        "values": {
+          "perfume for men": 26,
+          "attar": 26,
+          "long lasting perfume": 2,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-30",
+        "values": {
+          "perfume for men": 30,
+          "attar": 27,
+          "long lasting perfume": 2,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-06",
+        "values": {
+          "perfume for men": 37,
+          "attar": 27,
+          "long lasting perfume": 2,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-13",
+        "values": {
+          "perfume for men": 34,
+          "attar": 31,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-20",
+        "values": {
+          "perfume for men": 31,
+          "attar": 30,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-27",
+        "values": {
+          "perfume for men": 31,
+          "attar": 30,
+          "long lasting perfume": 2,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-06",
+        "values": {
+          "perfume for men": 34,
+          "attar": 34,
+          "long lasting perfume": 3,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-13",
+        "values": {
+          "perfume for men": 33,
+          "attar": 33,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-20",
+        "values": {
+          "perfume for men": 33,
+          "attar": 32,
+          "long lasting perfume": 2,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-27",
+        "values": {
+          "perfume for men": 31,
+          "attar": 32,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-03",
+        "values": {
+          "perfume for men": 34,
+          "attar": 39,
+          "long lasting perfume": 3,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-10",
+        "values": {
+          "perfume for men": 36,
+          "attar": 39,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-17",
+        "values": {
+          "perfume for men": 38,
+          "attar": 38,
+          "long lasting perfume": 3,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-24",
+        "values": {
+          "perfume for men": 39,
+          "attar": 49,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-01",
+        "values": {
+          "perfume for men": 42,
+          "attar": 41,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-08",
+        "values": {
+          "perfume for men": 39,
+          "attar": 34,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-15",
+        "values": {
+          "perfume for men": 36,
+          "attar": 31,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-22",
+        "values": {
+          "perfume for men": 37,
+          "attar": 31,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-29",
+        "values": {
+          "perfume for men": 36,
+          "attar": 31,
+          "long lasting perfume": 3,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-05",
+        "values": {
+          "perfume for men": 39,
+          "attar": 29,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-12",
+        "values": {
+          "perfume for men": 38,
+          "attar": 30,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-19",
+        "values": {
+          "perfume for men": 37,
+          "attar": 31,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-26",
+        "values": {
+          "perfume for men": 36,
+          "attar": 29,
+          "long lasting perfume": 3,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-03",
+        "values": {
+          "perfume for men": 40,
+          "attar": 32,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-10",
+        "values": {
+          "perfume for men": 34,
+          "attar": 32,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-17",
+        "values": {
+          "perfume for men": 39,
+          "attar": 30,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-24",
+        "values": {
+          "perfume for men": 40,
+          "attar": 32,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-31",
+        "values": {
+          "perfume for men": 41,
+          "attar": 32,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-07",
+        "values": {
+          "perfume for men": 40,
+          "attar": 31,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-14",
+        "values": {
+          "perfume for men": 41,
+          "attar": 34,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-21",
+        "values": {
+          "perfume for men": 40,
+          "attar": 35,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-28",
+        "values": {
+          "perfume for men": 41,
+          "attar": 33,
+          "long lasting perfume": 5,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-04",
+        "values": {
+          "perfume for men": 42,
+          "attar": 34,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-11",
+        "values": {
+          "perfume for men": 41,
+          "attar": 37,
+          "long lasting perfume": 5,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-18",
+        "values": {
+          "perfume for men": 44,
+          "attar": 36,
+          "long lasting perfume": 5,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-25",
+        "values": {
+          "perfume for men": 43,
+          "attar": 33,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-02",
+        "values": {
+          "perfume for men": 43,
+          "attar": 37,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-09",
+        "values": {
+          "perfume for men": 41,
+          "attar": 34,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-16",
+        "values": {
+          "perfume for men": 42,
+          "attar": 34,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-23",
+        "values": {
+          "perfume for men": 41,
+          "attar": 37,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-30",
+        "values": {
+          "perfume for men": 38,
+          "attar": 35,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-06",
+        "values": {
+          "perfume for men": 38,
+          "attar": 35,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-13",
+        "values": {
+          "perfume for men": 41,
+          "attar": 36,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-20",
+        "values": {
+          "perfume for men": 39,
+          "attar": 37,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-27",
+        "values": {
+          "perfume for men": 42,
+          "attar": 39,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-04",
+        "values": {
+          "perfume for men": 40,
+          "attar": 34,
+          "long lasting perfume": 3,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-11",
+        "values": {
+          "perfume for men": 42,
+          "attar": 38,
+          "long lasting perfume": 3,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-18",
+        "values": {
+          "perfume for men": 49,
+          "attar": 37,
+          "long lasting perfume": 3,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-25",
+        "values": {
+          "perfume for men": 43,
+          "attar": 37,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-01",
+        "values": {
+          "perfume for men": 39,
+          "attar": 38,
+          "long lasting perfume": 3,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-08",
+        "values": {
+          "perfume for men": 39,
+          "attar": 56,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-15",
+        "values": {
+          "perfume for men": 41,
+          "attar": 57,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-22",
+        "values": {
+          "perfume for men": 41,
+          "attar": 55,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-29",
+        "values": {
+          "perfume for men": 46,
+          "attar": 48,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-05",
+        "values": {
+          "perfume for men": 52,
+          "attar": 44,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-12",
+        "values": {
+          "perfume for men": 46,
+          "attar": 44,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-19",
+        "values": {
+          "perfume for men": 42,
+          "attar": 45,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-26",
+        "values": {
+          "perfume for men": 42,
+          "attar": 45,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-05",
+        "values": {
+          "perfume for men": 42,
+          "attar": 59,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-12",
+        "values": {
+          "perfume for men": 40,
+          "attar": 60,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-19",
+        "values": {
+          "perfume for men": 39,
+          "attar": 53,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-26",
+        "values": {
+          "perfume for men": 39,
+          "attar": 57,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-02",
+        "values": {
+          "perfume for men": 38,
+          "attar": 59,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-09",
+        "values": {
+          "perfume for men": 41,
+          "attar": 60,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-16",
+        "values": {
+          "perfume for men": 40,
+          "attar": 58,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-23",
+        "values": {
+          "perfume for men": 41,
+          "attar": 42,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-30",
+        "values": {
+          "perfume for men": 44,
+          "attar": 40,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-07",
+        "values": {
+          "perfume for men": 42,
+          "attar": 39,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-14",
+        "values": {
+          "perfume for men": 40,
+          "attar": 39,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-21",
+        "values": {
+          "perfume for men": 40,
+          "attar": 37,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-28",
+        "values": {
+          "perfume for men": 45,
+          "attar": 39,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-04",
+        "values": {
+          "perfume for men": 47,
+          "attar": 38,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-11",
+        "values": {
+          "perfume for men": 49,
+          "attar": 42,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-18",
+        "values": {
+          "perfume for men": 45,
+          "attar": 41,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-25",
+        "values": {
+          "perfume for men": 44,
+          "attar": 40,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-02",
+        "values": {
+          "perfume for men": 47,
+          "attar": 42,
+          "long lasting perfume": 5,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-09",
+        "values": {
+          "perfume for men": 45,
+          "attar": 40,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-16",
+        "values": {
+          "perfume for men": 46,
+          "attar": 43,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-23",
+        "values": {
+          "perfume for men": 47,
+          "attar": 44,
+          "long lasting perfume": 5,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-30",
+        "values": {
+          "perfume for men": 48,
+          "attar": 46,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-06",
+        "values": {
+          "perfume for men": 53,
+          "attar": 48,
+          "long lasting perfume": 6,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-13",
+        "values": {
+          "perfume for men": 50,
+          "attar": 47,
+          "long lasting perfume": 5,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-20",
+        "values": {
+          "perfume for men": 51,
+          "attar": 47,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-27",
+        "values": {
+          "perfume for men": 55,
+          "attar": 48,
+          "long lasting perfume": 6,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-03",
+        "values": {
+          "perfume for men": 49,
+          "attar": 47,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-10",
+        "values": {
+          "perfume for men": 49,
+          "attar": 52,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-17",
+        "values": {
+          "perfume for men": 46,
+          "attar": 54,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-24",
+        "values": {
+          "perfume for men": 46,
+          "attar": 47,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-01",
+        "values": {
+          "perfume for men": 53,
+          "attar": 49,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-08",
+        "values": {
+          "perfume for men": 54,
+          "attar": 45,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-15",
+        "values": {
+          "perfume for men": 49,
+          "attar": 45,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-22",
+        "values": {
+          "perfume for men": 46,
+          "attar": 49,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-29",
+        "values": {
+          "perfume for men": 43,
+          "attar": 45,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-05",
+        "values": {
+          "perfume for men": 50,
+          "attar": 47,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-12",
+        "values": {
+          "perfume for men": 47,
+          "attar": 46,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-19",
+        "values": {
+          "perfume for men": 46,
+          "attar": 46,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-26",
+        "values": {
+          "perfume for men": 46,
+          "attar": 48,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-03",
+        "values": {
+          "perfume for men": 45,
+          "attar": 47,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-10",
+        "values": {
+          "perfume for men": 57,
+          "attar": 48,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-17",
+        "values": {
+          "perfume for men": 52,
+          "attar": 48,
+          "long lasting perfume": 4,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-24",
+        "values": {
+          "perfume for men": 44,
+          "attar": 48,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-31",
+        "values": {
+          "perfume for men": 44,
+          "attar": 47,
+          "long lasting perfume": 3,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-07",
+        "values": {
+          "perfume for men": 45,
+          "attar": 49,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-14",
+        "values": {
+          "perfume for men": 43,
+          "attar": 49,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-21",
+        "values": {
+          "perfume for men": 45,
+          "attar": 56,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-28",
+        "values": {
+          "perfume for men": 45,
+          "attar": 59,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-04",
+        "values": {
+          "perfume for men": 51,
+          "attar": 59,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-11",
+        "values": {
+          "perfume for men": 45,
+          "attar": 56,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-18",
+        "values": {
+          "perfume for men": 43,
+          "attar": 59,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-25",
+        "values": {
+          "perfume for men": 41,
+          "attar": 59,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-03",
+        "values": {
+          "perfume for men": 45,
+          "attar": 56,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-10",
+        "values": {
+          "perfume for men": 43,
+          "attar": 59,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-17",
+        "values": {
+          "perfume for men": 41,
+          "attar": 64,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-24",
+        "values": {
+          "perfume for men": 42,
+          "attar": 71,
+          "long lasting perfume": 5,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-31",
+        "values": {
+          "perfume for men": 42,
+          "attar": 69,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-07",
+        "values": {
+          "perfume for men": 51,
+          "attar": 66,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-14",
+        "values": {
+          "perfume for men": 43,
+          "attar": 48,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-21",
+        "values": {
+          "perfume for men": 44,
+          "attar": 44,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-28",
+        "values": {
+          "perfume for men": 45,
+          "attar": 44,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-05",
+        "values": {
+          "perfume for men": 46,
+          "attar": 43,
+          "long lasting perfume": 6,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-12",
+        "values": {
+          "perfume for men": 42,
+          "attar": 47,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-19",
+        "values": {
+          "perfume for men": 43,
+          "attar": 44,
+          "long lasting perfume": 4,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-26",
+        "values": {
+          "perfume for men": 45,
+          "attar": 44,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-02",
+        "values": {
+          "perfume for men": 41,
+          "attar": 40,
+          "long lasting perfume": 4,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-09",
+        "values": {
+          "perfume for men": 46,
+          "attar": 45,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-16",
+        "values": {
+          "perfume for men": 48,
+          "attar": 51,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-23",
+        "values": {
+          "perfume for men": 46,
+          "attar": 47,
+          "long lasting perfume": 5,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-30",
+        "values": {
+          "perfume for men": 51,
+          "attar": 48,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-07",
+        "values": {
+          "perfume for men": 49,
+          "attar": 45,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-14",
+        "values": {
+          "perfume for men": 52,
+          "attar": 50,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-21",
+        "values": {
+          "perfume for men": 51,
+          "attar": 50,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-28",
+        "values": {
+          "perfume for men": 53,
+          "attar": 51,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-04",
+        "values": {
+          "perfume for men": 58,
+          "attar": 53,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-11",
+        "values": {
+          "perfume for men": 64,
+          "attar": 57,
+          "long lasting perfume": 7,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-18",
+        "values": {
+          "perfume for men": 67,
+          "attar": 63,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-25",
+        "values": {
+          "perfume for men": 62,
+          "attar": 54,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-01",
+        "values": {
+          "perfume for men": 62,
+          "attar": 57,
+          "long lasting perfume": 6,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-08",
+        "values": {
+          "perfume for men": 57,
+          "attar": 61,
+          "long lasting perfume": 6,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-15",
+        "values": {
+          "perfume for men": 58,
+          "attar": 60,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-22",
+        "values": {
+          "perfume for men": 64,
+          "attar": 59,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-29",
+        "values": {
+          "perfume for men": 67,
+          "attar": 70,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-06",
+        "values": {
+          "perfume for men": 60,
+          "attar": 62,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-13",
+        "values": {
+          "perfume for men": 59,
+          "attar": 63,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-20",
+        "values": {
+          "perfume for men": 59,
+          "attar": 62,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-27",
+        "values": {
+          "perfume for men": 64,
+          "attar": 71,
+          "long lasting perfume": 7,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-03",
+        "values": {
+          "perfume for men": 57,
+          "attar": 60,
+          "long lasting perfume": 6,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-10",
+        "values": {
+          "perfume for men": 59,
+          "attar": 61,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-17",
+        "values": {
+          "perfume for men": 58,
+          "attar": 58,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-24",
+        "values": {
+          "perfume for men": 61,
+          "attar": 60,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-01",
+        "values": {
+          "perfume for men": 56,
+          "attar": 58,
+          "long lasting perfume": 7,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-08",
+        "values": {
+          "perfume for men": 58,
+          "attar": 54,
+          "long lasting perfume": 6,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-15",
+        "values": {
+          "perfume for men": 60,
+          "attar": 57,
+          "long lasting perfume": 6,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-22",
+        "values": {
+          "perfume for men": 60,
+          "attar": 54,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-29",
+        "values": {
+          "perfume for men": 57,
+          "attar": 52,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-05",
+        "values": {
+          "perfume for men": 59,
+          "attar": 52,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-12",
+        "values": {
+          "perfume for men": 55,
+          "attar": 57,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-19",
+        "values": {
+          "perfume for men": 55,
+          "attar": 58,
+          "long lasting perfume": 6,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-26",
+        "values": {
+          "perfume for men": 61,
+          "attar": 62,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-02",
+        "values": {
+          "perfume for men": 68,
+          "attar": 60,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-09",
+        "values": {
+          "perfume for men": 68,
+          "attar": 64,
+          "long lasting perfume": 7,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-16",
+        "values": {
+          "perfume for men": 58,
+          "attar": 61,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-23",
+        "values": {
+          "perfume for men": 54,
+          "attar": 63,
+          "long lasting perfume": 5,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-02",
+        "values": {
+          "perfume for men": 55,
+          "attar": 73,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-09",
+        "values": {
+          "perfume for men": 58,
+          "attar": 76,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-16",
+        "values": {
+          "perfume for men": 56,
+          "attar": 82,
+          "long lasting perfume": 6,
+          "perfume under 500": 1
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-23",
+        "values": {
+          "perfume for men": 55,
+          "attar": 80,
+          "long lasting perfume": 6,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-30",
+        "values": {
+          "perfume for men": 55,
+          "attar": 63,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-06",
+        "values": {
+          "perfume for men": 56,
+          "attar": 53,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-13",
+        "values": {
+          "perfume for men": 57,
+          "attar": 57,
+          "long lasting perfume": 7,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-20",
+        "values": {
+          "perfume for men": 57,
+          "attar": 49,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-27",
+        "values": {
+          "perfume for men": 60,
+          "attar": 53,
+          "long lasting perfume": 8,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-04",
+        "values": {
+          "perfume for men": 58,
+          "attar": 50,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-11",
+        "values": {
+          "perfume for men": 62,
+          "attar": 51,
+          "long lasting perfume": 8,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-18",
+        "values": {
+          "perfume for men": 56,
+          "attar": 52,
+          "long lasting perfume": 7,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-25",
+        "values": {
+          "perfume for men": 56,
+          "attar": 54,
+          "long lasting perfume": 7,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-01",
+        "values": {
+          "perfume for men": 62,
+          "attar": 56,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-08",
+        "values": {
+          "perfume for men": 65,
+          "attar": 52,
+          "long lasting perfume": 8,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-15",
+        "values": {
+          "perfume for men": 60,
+          "attar": 51,
+          "long lasting perfume": 7,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-22",
+        "values": {
+          "perfume for men": 60,
+          "attar": 56,
+          "long lasting perfume": 8,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-29",
+        "values": {
+          "perfume for men": 67,
+          "attar": 57,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-06",
+        "values": {
+          "perfume for men": 66,
+          "attar": 59,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-13",
+        "values": {
+          "perfume for men": 69,
+          "attar": 62,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-20",
+        "values": {
+          "perfume for men": 64,
+          "attar": 59,
+          "long lasting perfume": 8,
+          "perfume under 500": 2
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-27",
+        "values": {
+          "perfume for men": 68,
+          "attar": 62,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-03",
+        "values": {
+          "perfume for men": 79,
+          "attar": 67,
+          "long lasting perfume": 10,
+          "perfume under 500": 5
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-10",
+        "values": {
+          "perfume for men": 74,
+          "attar": 67,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-17",
+        "values": {
+          "perfume for men": 71,
+          "attar": 65,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-24",
+        "values": {
+          "perfume for men": 70,
+          "attar": 66,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-31",
+        "values": {
+          "perfume for men": 71,
+          "attar": 67,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-07",
+        "values": {
+          "perfume for men": 73,
+          "attar": 59,
+          "long lasting perfume": 11,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-14",
+        "values": {
+          "perfume for men": 72,
+          "attar": 61,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-21",
+        "values": {
+          "perfume for men": 76,
+          "attar": 62,
+          "long lasting perfume": 11,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-28",
+        "values": {
+          "perfume for men": 78,
+          "attar": 69,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-05",
+        "values": {
+          "perfume for men": 75,
+          "attar": 63,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-12",
+        "values": {
+          "perfume for men": 72,
+          "attar": 66,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-19",
+        "values": {
+          "perfume for men": 73,
+          "attar": 67,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-26",
+        "values": {
+          "perfume for men": 69,
+          "attar": 62,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-02",
+        "values": {
+          "perfume for men": 73,
+          "attar": 63,
+          "long lasting perfume": 11,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-09",
+        "values": {
+          "perfume for men": 76,
+          "attar": 65,
+          "long lasting perfume": 12,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-16",
+        "values": {
+          "perfume for men": 74,
+          "attar": 65,
+          "long lasting perfume": 11,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-23",
+        "values": {
+          "perfume for men": 76,
+          "attar": 64,
+          "long lasting perfume": 11,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-30",
+        "values": {
+          "perfume for men": 73,
+          "attar": 58,
+          "long lasting perfume": 10,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-07",
+        "values": {
+          "perfume for men": 72,
+          "attar": 62,
+          "long lasting perfume": 10,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-14",
+        "values": {
+          "perfume for men": 77,
+          "attar": 58,
+          "long lasting perfume": 9,
+          "perfume under 500": 5
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-21",
+        "values": {
+          "perfume for men": 81,
+          "attar": 63,
+          "long lasting perfume": 8,
+          "perfume under 500": 5
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-28",
+        "values": {
+          "perfume for men": 75,
+          "attar": 63,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-04",
+        "values": {
+          "perfume for men": 70,
+          "attar": 63,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-11",
+        "values": {
+          "perfume for men": 67,
+          "attar": 61,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-18",
+        "values": {
+          "perfume for men": 70,
+          "attar": 67,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-25",
+        "values": {
+          "perfume for men": 74,
+          "attar": 61,
+          "long lasting perfume": 10,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-01",
+        "values": {
+          "perfume for men": 78,
+          "attar": 68,
+          "long lasting perfume": 11,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-08",
+        "values": {
+          "perfume for men": 86,
+          "attar": 76,
+          "long lasting perfume": 11,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-15",
+        "values": {
+          "perfume for men": 70,
+          "attar": 81,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-22",
+        "values": {
+          "perfume for men": 73,
+          "attar": 86,
+          "long lasting perfume": 11,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-01",
+        "values": {
+          "perfume for men": 72,
+          "attar": 82,
+          "long lasting perfume": 10,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-08",
+        "values": {
+          "perfume for men": 76,
+          "attar": 88,
+          "long lasting perfume": 11,
+          "perfume under 500": 5
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-15",
+        "values": {
+          "perfume for men": 69,
+          "attar": 97,
+          "long lasting perfume": 9,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-22",
+        "values": {
+          "perfume for men": 64,
+          "attar": 66,
+          "long lasting perfume": 9,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-29",
+        "values": {
+          "perfume for men": 65,
+          "attar": 60,
+          "long lasting perfume": 9,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-05",
+        "values": {
+          "perfume for men": 70,
+          "attar": 61,
+          "long lasting perfume": 11,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-12",
+        "values": {
+          "perfume for men": 68,
+          "attar": 60,
+          "long lasting perfume": 12,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-19",
+        "values": {
+          "perfume for men": 69,
+          "attar": 62,
+          "long lasting perfume": 10,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-26",
+        "values": {
+          "perfume for men": 70,
+          "attar": 58,
+          "long lasting perfume": 11,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-03",
+        "values": {
+          "perfume for men": 67,
+          "attar": 56,
+          "long lasting perfume": 11,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-10",
+        "values": {
+          "perfume for men": 68,
+          "attar": 58,
+          "long lasting perfume": 12,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-17",
+        "values": {
+          "perfume for men": 68,
+          "attar": 58,
+          "long lasting perfume": 13,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-24",
+        "values": {
+          "perfume for men": 68,
+          "attar": 57,
+          "long lasting perfume": 13,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-31",
+        "values": {
+          "perfume for men": 75,
+          "attar": 65,
+          "long lasting perfume": 14,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-07",
+        "values": {
+          "perfume for men": 68,
+          "attar": 72,
+          "long lasting perfume": 11,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-14",
+        "values": {
+          "perfume for men": 70,
+          "attar": 65,
+          "long lasting perfume": 11,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-21",
+        "values": {
+          "perfume for men": 71,
+          "attar": 69,
+          "long lasting perfume": 11,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-28",
+        "values": {
+          "perfume for men": 68,
+          "attar": 70,
+          "long lasting perfume": 11,
+          "perfume under 500": 3
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-07-05",
+        "values": {
+          "perfume for men": 76,
+          "attar": 78,
+          "long lasting perfume": 12,
+          "perfume under 500": 4
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-07-12",
+        "values": {
+          "perfume for men": 76,
+          "attar": 100,
+          "long lasting perfume": 12,
+          "perfume under 500": 4
+        },
+        "is_partial": true
+      }
+    ]
+  }
+}

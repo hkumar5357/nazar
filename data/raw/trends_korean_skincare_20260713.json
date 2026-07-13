@@ -1,0 +1,2162 @@
+{
+  "source": "trends",
+  "trend": "korean_skincare",
+  "retrieved_at": "2026-07-13T20:36:46.655269+05:30",
+  "provenance": "real",
+  "query_spec": {
+    "backend": "trendspy",
+    "terms": [
+      "korean skincare",
+      "glass skin",
+      "snail mucin"
+    ],
+    "geo": "IN",
+    "timeframe": "2022-01-01 2026-07-13"
+  },
+  "data": {
+    "series": [
+      {
+        "week_start": "2021-12-26",
+        "values": {
+          "korean skincare": 3,
+          "glass skin": 12,
+          "snail mucin": 5
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-02",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 13,
+          "snail mucin": 8
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-09",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 13,
+          "snail mucin": 8
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-16",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 14,
+          "snail mucin": 9
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-23",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 15,
+          "snail mucin": 8
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-01-30",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 17,
+          "snail mucin": 8
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-06",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 16,
+          "snail mucin": 10
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-13",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 18,
+          "snail mucin": 12
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-20",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 17,
+          "snail mucin": 8
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-02-27",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 18,
+          "snail mucin": 12
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-06",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 16,
+          "snail mucin": 13
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-13",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 16,
+          "snail mucin": 10
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-20",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 18,
+          "snail mucin": 11
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-03-27",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 16,
+          "snail mucin": 9
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-03",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 16,
+          "snail mucin": 12
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-10",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 18,
+          "snail mucin": 11
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-17",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 18,
+          "snail mucin": 12
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-04-24",
+        "values": {
+          "korean skincare": 3,
+          "glass skin": 16,
+          "snail mucin": 11
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-01",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 14,
+          "snail mucin": 13
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-08",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 16,
+          "snail mucin": 12
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-15",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 17,
+          "snail mucin": 11
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-22",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 18,
+          "snail mucin": 10
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-05-29",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 18,
+          "snail mucin": 8
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-05",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 18,
+          "snail mucin": 8
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-12",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 17,
+          "snail mucin": 8
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-19",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 17,
+          "snail mucin": 7
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-06-26",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 17,
+          "snail mucin": 8
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-03",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 17,
+          "snail mucin": 10
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-10",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 16,
+          "snail mucin": 11
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-17",
+        "values": {
+          "korean skincare": 3,
+          "glass skin": 16,
+          "snail mucin": 10
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-24",
+        "values": {
+          "korean skincare": 3,
+          "glass skin": 18,
+          "snail mucin": 12
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-07-31",
+        "values": {
+          "korean skincare": 7,
+          "glass skin": 14,
+          "snail mucin": 14
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-07",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 19,
+          "snail mucin": 19
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-14",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 17,
+          "snail mucin": 19
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-21",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 17,
+          "snail mucin": 17
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-08-28",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 19,
+          "snail mucin": 22
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-04",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 18,
+          "snail mucin": 20
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-11",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 19,
+          "snail mucin": 18
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-18",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 20,
+          "snail mucin": 21
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-09-25",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 19,
+          "snail mucin": 18
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-02",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 18,
+          "snail mucin": 17
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-09",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 18,
+          "snail mucin": 17
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-16",
+        "values": {
+          "korean skincare": 4,
+          "glass skin": 19,
+          "snail mucin": 16
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-23",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 19,
+          "snail mucin": 16
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-10-30",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 19,
+          "snail mucin": 16
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-06",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 19,
+          "snail mucin": 23
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-13",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 18,
+          "snail mucin": 28
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-20",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 16,
+          "snail mucin": 30
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-11-27",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 21,
+          "snail mucin": 24
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-04",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 16,
+          "snail mucin": 21
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-11",
+        "values": {
+          "korean skincare": 7,
+          "glass skin": 18,
+          "snail mucin": 22
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-18",
+        "values": {
+          "korean skincare": 5,
+          "glass skin": 18,
+          "snail mucin": 25
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2022-12-25",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 22,
+          "snail mucin": 28
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-01",
+        "values": {
+          "korean skincare": 7,
+          "glass skin": 25,
+          "snail mucin": 37
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-08",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 18,
+          "snail mucin": 39
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-15",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 24,
+          "snail mucin": 31
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-22",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 23,
+          "snail mucin": 33
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-01-29",
+        "values": {
+          "korean skincare": 7,
+          "glass skin": 19,
+          "snail mucin": 37
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-05",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 26,
+          "snail mucin": 34
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-12",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 23,
+          "snail mucin": 39
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-19",
+        "values": {
+          "korean skincare": 7,
+          "glass skin": 27,
+          "snail mucin": 47
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-02-26",
+        "values": {
+          "korean skincare": 7,
+          "glass skin": 26,
+          "snail mucin": 40
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-05",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 27,
+          "snail mucin": 40
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-12",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 25,
+          "snail mucin": 43
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-19",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 25,
+          "snail mucin": 43
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-03-26",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 26,
+          "snail mucin": 43
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-02",
+        "values": {
+          "korean skincare": 7,
+          "glass skin": 26,
+          "snail mucin": 39
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-09",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 25,
+          "snail mucin": 42
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-16",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 25,
+          "snail mucin": 47
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-23",
+        "values": {
+          "korean skincare": 7,
+          "glass skin": 23,
+          "snail mucin": 40
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-04-30",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 27,
+          "snail mucin": 45
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-07",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 31,
+          "snail mucin": 42
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-14",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 30,
+          "snail mucin": 38
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-21",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 31,
+          "snail mucin": 42
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-05-28",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 31,
+          "snail mucin": 41
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-04",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 29,
+          "snail mucin": 44
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-11",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 33,
+          "snail mucin": 53
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-18",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 33,
+          "snail mucin": 47
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-06-25",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 31,
+          "snail mucin": 44
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-02",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 31,
+          "snail mucin": 48
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-09",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 27,
+          "snail mucin": 45
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-16",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 27,
+          "snail mucin": 43
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-23",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 28,
+          "snail mucin": 43
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-07-30",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 32,
+          "snail mucin": 40
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-06",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 30,
+          "snail mucin": 35
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-13",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 30,
+          "snail mucin": 44
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-20",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 31,
+          "snail mucin": 49
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-08-27",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 39,
+          "snail mucin": 44
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-03",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 26,
+          "snail mucin": 44
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-10",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 29,
+          "snail mucin": 43
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-17",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 28,
+          "snail mucin": 52
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-09-24",
+        "values": {
+          "korean skincare": 14,
+          "glass skin": 28,
+          "snail mucin": 48
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-01",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 28,
+          "snail mucin": 54
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-08",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 28,
+          "snail mucin": 54
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-15",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 32,
+          "snail mucin": 53
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-22",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 29,
+          "snail mucin": 56
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-10-29",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 37,
+          "snail mucin": 54
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-05",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 30,
+          "snail mucin": 52
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-12",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 32,
+          "snail mucin": 54
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-19",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 35,
+          "snail mucin": 66
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-11-26",
+        "values": {
+          "korean skincare": 16,
+          "glass skin": 40,
+          "snail mucin": 71
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-03",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 33,
+          "snail mucin": 59
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-10",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 36,
+          "snail mucin": 57
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-17",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 31,
+          "snail mucin": 69
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-24",
+        "values": {
+          "korean skincare": 14,
+          "glass skin": 38,
+          "snail mucin": 85
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2023-12-31",
+        "values": {
+          "korean skincare": 14,
+          "glass skin": 34,
+          "snail mucin": 69
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-07",
+        "values": {
+          "korean skincare": 14,
+          "glass skin": 31,
+          "snail mucin": 73
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-14",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 27,
+          "snail mucin": 64
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-21",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 32,
+          "snail mucin": 69
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-01-28",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 31,
+          "snail mucin": 82
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-04",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 29,
+          "snail mucin": 75
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-11",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 26,
+          "snail mucin": 75
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-18",
+        "values": {
+          "korean skincare": 16,
+          "glass skin": 31,
+          "snail mucin": 100
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-02-25",
+        "values": {
+          "korean skincare": 17,
+          "glass skin": 35,
+          "snail mucin": 99
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-03",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 31,
+          "snail mucin": 91
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-10",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 35,
+          "snail mucin": 82
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-17",
+        "values": {
+          "korean skincare": 14,
+          "glass skin": 30,
+          "snail mucin": 79
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-24",
+        "values": {
+          "korean skincare": 15,
+          "glass skin": 29,
+          "snail mucin": 99
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-03-31",
+        "values": {
+          "korean skincare": 16,
+          "glass skin": 29,
+          "snail mucin": 92
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-07",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 29,
+          "snail mucin": 85
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-14",
+        "values": {
+          "korean skincare": 15,
+          "glass skin": 29,
+          "snail mucin": 76
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-21",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 30,
+          "snail mucin": 80
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-04-28",
+        "values": {
+          "korean skincare": 15,
+          "glass skin": 30,
+          "snail mucin": 83
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-05",
+        "values": {
+          "korean skincare": 14,
+          "glass skin": 30,
+          "snail mucin": 90
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-12",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 28,
+          "snail mucin": 87
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-19",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 31,
+          "snail mucin": 90
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-05-26",
+        "values": {
+          "korean skincare": 15,
+          "glass skin": 35,
+          "snail mucin": 85
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-02",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 28,
+          "snail mucin": 75
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-09",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 34,
+          "snail mucin": 70
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-16",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 31,
+          "snail mucin": 76
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-23",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 27,
+          "snail mucin": 61
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-06-30",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 26,
+          "snail mucin": 61
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-07",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 28,
+          "snail mucin": 67
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-14",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 27,
+          "snail mucin": 73
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-21",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 27,
+          "snail mucin": 68
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-07-28",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 28,
+          "snail mucin": 65
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-04",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 29,
+          "snail mucin": 65
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-11",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 33,
+          "snail mucin": 57
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-18",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 27,
+          "snail mucin": 60
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-08-25",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 30,
+          "snail mucin": 55
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-01",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 31,
+          "snail mucin": 53
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-08",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 31,
+          "snail mucin": 56
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-15",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 31,
+          "snail mucin": 55
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-22",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 27,
+          "snail mucin": 49
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-09-29",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 30,
+          "snail mucin": 54
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-06",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 27,
+          "snail mucin": 46
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-13",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 31,
+          "snail mucin": 50
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-20",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 30,
+          "snail mucin": 51
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-10-27",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 28,
+          "snail mucin": 50
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-03",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 29,
+          "snail mucin": 50
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-10",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 30,
+          "snail mucin": 49
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-17",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 29,
+          "snail mucin": 60
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-11-24",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 30,
+          "snail mucin": 65
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-01",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 30,
+          "snail mucin": 60
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-08",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 30,
+          "snail mucin": 61
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-15",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 29,
+          "snail mucin": 52
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-22",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 29,
+          "snail mucin": 52
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2024-12-29",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 31,
+          "snail mucin": 52
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-05",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 32,
+          "snail mucin": 49
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-12",
+        "values": {
+          "korean skincare": 14,
+          "glass skin": 34,
+          "snail mucin": 59
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-19",
+        "values": {
+          "korean skincare": 16,
+          "glass skin": 30,
+          "snail mucin": 50
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-01-26",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 32,
+          "snail mucin": 59
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-02",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 31,
+          "snail mucin": 48
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-09",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 33,
+          "snail mucin": 53
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-16",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 32,
+          "snail mucin": 49
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-02-23",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 36,
+          "snail mucin": 46
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-02",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 39,
+          "snail mucin": 51
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-09",
+        "values": {
+          "korean skincare": 14,
+          "glass skin": 38,
+          "snail mucin": 46
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-16",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 35,
+          "snail mucin": 46
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-23",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 33,
+          "snail mucin": 39
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-03-30",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 34,
+          "snail mucin": 40
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-06",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 36,
+          "snail mucin": 40
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-13",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 36,
+          "snail mucin": 40
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-20",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 38,
+          "snail mucin": 37
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-04-27",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 33,
+          "snail mucin": 36
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-04",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 37,
+          "snail mucin": 37
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-11",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 34,
+          "snail mucin": 35
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-18",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 32,
+          "snail mucin": 35
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-05-25",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 34,
+          "snail mucin": 32
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-01",
+        "values": {
+          "korean skincare": 14,
+          "glass skin": 32,
+          "snail mucin": 33
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-08",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 36,
+          "snail mucin": 35
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-15",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 35,
+          "snail mucin": 32
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-22",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 29,
+          "snail mucin": 30
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-06-29",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 29,
+          "snail mucin": 29
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-06",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 32,
+          "snail mucin": 30
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-13",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 31,
+          "snail mucin": 30
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-20",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 32,
+          "snail mucin": 28
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-07-27",
+        "values": {
+          "korean skincare": 6,
+          "glass skin": 29,
+          "snail mucin": 29
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-03",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 35,
+          "snail mucin": 30
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-10",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 39,
+          "snail mucin": 29
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-17",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 34,
+          "snail mucin": 29
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-24",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 28,
+          "snail mucin": 26
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-08-31",
+        "values": {
+          "korean skincare": 11,
+          "glass skin": 30,
+          "snail mucin": 28
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-07",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 29,
+          "snail mucin": 25
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-14",
+        "values": {
+          "korean skincare": 7,
+          "glass skin": 29,
+          "snail mucin": 22
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-21",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 32,
+          "snail mucin": 24
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-09-28",
+        "values": {
+          "korean skincare": 10,
+          "glass skin": 31,
+          "snail mucin": 25
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-05",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 35,
+          "snail mucin": 29
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-12",
+        "values": {
+          "korean skincare": 7,
+          "glass skin": 37,
+          "snail mucin": 25
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-19",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 29,
+          "snail mucin": 27
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-10-26",
+        "values": {
+          "korean skincare": 13,
+          "glass skin": 43,
+          "snail mucin": 28
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-02",
+        "values": {
+          "korean skincare": 19,
+          "glass skin": 47,
+          "snail mucin": 30
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-09",
+        "values": {
+          "korean skincare": 19,
+          "glass skin": 49,
+          "snail mucin": 32
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-16",
+        "values": {
+          "korean skincare": 20,
+          "glass skin": 49,
+          "snail mucin": 36
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-23",
+        "values": {
+          "korean skincare": 26,
+          "glass skin": 57,
+          "snail mucin": 39
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-11-30",
+        "values": {
+          "korean skincare": 32,
+          "glass skin": 56,
+          "snail mucin": 35
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-07",
+        "values": {
+          "korean skincare": 24,
+          "glass skin": 48,
+          "snail mucin": 38
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-14",
+        "values": {
+          "korean skincare": 20,
+          "glass skin": 47,
+          "snail mucin": 33
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-21",
+        "values": {
+          "korean skincare": 17,
+          "glass skin": 42,
+          "snail mucin": 32
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2025-12-28",
+        "values": {
+          "korean skincare": 20,
+          "glass skin": 45,
+          "snail mucin": 34
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-04",
+        "values": {
+          "korean skincare": 16,
+          "glass skin": 43,
+          "snail mucin": 31
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-11",
+        "values": {
+          "korean skincare": 23,
+          "glass skin": 42,
+          "snail mucin": 36
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-18",
+        "values": {
+          "korean skincare": 23,
+          "glass skin": 44,
+          "snail mucin": 32
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-01-25",
+        "values": {
+          "korean skincare": 26,
+          "glass skin": 46,
+          "snail mucin": 33
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-01",
+        "values": {
+          "korean skincare": 19,
+          "glass skin": 46,
+          "snail mucin": 30
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-08",
+        "values": {
+          "korean skincare": 20,
+          "glass skin": 60,
+          "snail mucin": 33
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-15",
+        "values": {
+          "korean skincare": 16,
+          "glass skin": 62,
+          "snail mucin": 29
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-02-22",
+        "values": {
+          "korean skincare": 21,
+          "glass skin": 50,
+          "snail mucin": 31
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-01",
+        "values": {
+          "korean skincare": 23,
+          "glass skin": 47,
+          "snail mucin": 32
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-08",
+        "values": {
+          "korean skincare": 27,
+          "glass skin": 52,
+          "snail mucin": 37
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-15",
+        "values": {
+          "korean skincare": 22,
+          "glass skin": 53,
+          "snail mucin": 30
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-22",
+        "values": {
+          "korean skincare": 18,
+          "glass skin": 47,
+          "snail mucin": 30
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-03-29",
+        "values": {
+          "korean skincare": 20,
+          "glass skin": 47,
+          "snail mucin": 27
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-05",
+        "values": {
+          "korean skincare": 24,
+          "glass skin": 51,
+          "snail mucin": 29
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-12",
+        "values": {
+          "korean skincare": 17,
+          "glass skin": 44,
+          "snail mucin": 35
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-19",
+        "values": {
+          "korean skincare": 15,
+          "glass skin": 45,
+          "snail mucin": 27
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-04-26",
+        "values": {
+          "korean skincare": 18,
+          "glass skin": 45,
+          "snail mucin": 28
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-03",
+        "values": {
+          "korean skincare": 16,
+          "glass skin": 44,
+          "snail mucin": 26
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-10",
+        "values": {
+          "korean skincare": 15,
+          "glass skin": 48,
+          "snail mucin": 36
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-17",
+        "values": {
+          "korean skincare": 16,
+          "glass skin": 54,
+          "snail mucin": 35
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-24",
+        "values": {
+          "korean skincare": 16,
+          "glass skin": 47,
+          "snail mucin": 33
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-05-31",
+        "values": {
+          "korean skincare": 16,
+          "glass skin": 50,
+          "snail mucin": 28
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-07",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 37,
+          "snail mucin": 28
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-14",
+        "values": {
+          "korean skincare": 14,
+          "glass skin": 40,
+          "snail mucin": 27
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-21",
+        "values": {
+          "korean skincare": 17,
+          "glass skin": 45,
+          "snail mucin": 24
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-06-28",
+        "values": {
+          "korean skincare": 8,
+          "glass skin": 38,
+          "snail mucin": 22
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-07-05",
+        "values": {
+          "korean skincare": 9,
+          "glass skin": 39,
+          "snail mucin": 21
+        },
+        "is_partial": false
+      },
+      {
+        "week_start": "2026-07-12",
+        "values": {
+          "korean skincare": 12,
+          "glass skin": 43,
+          "snail mucin": 21
+        },
+        "is_partial": true
+      }
+    ]
+  }
+}

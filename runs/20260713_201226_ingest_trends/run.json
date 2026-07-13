@@ -1,0 +1,31 @@
+{
+  "command": "ingest_trends",
+  "notes": "Google Trends weekly pulls, geo=IN",
+  "started_at": "2026-07-13T20:12:26.658313+05:30",
+  "finished_at": "2026-07-13T20:35:56.420893+05:30",
+  "git_commit": "4b979cdec60315f5d3e42f6eb3e69813f78a33a2",
+  "config_hash": "134732239aade675269c1cd8bc8d36f306070da2b30bef8811abeff32535488c",
+  "thresholds_frozen": false,
+  "inputs": [],
+  "outputs": [
+    {
+      "path": "data/raw/trends_matcha_20260713.json",
+      "sha256": "549df8bbd13366847a1149ee13fc8c916dc592ebcc1456d1e7882b97ac8ca7b0"
+    },
+    {
+      "path": "data/raw/trends_protein_snacks_20260713.json",
+      "sha256": "eebd98b7efd51a5b0f4a25a3d540dccf1d721f060d80dcd056f8298318c5c0a7"
+    }
+  ],
+  "extra": {
+    "backend": "pytrends",
+    "trends": [
+      "matcha",
+      "protein_snacks",
+      "genz_fragrance",
+      "korean_skincare"
+    ]
+  },
+  "status": "failed",
+  "error": "Traceback (most recent call last):\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/pipeline/runlog.py\", line 130, in run\n    yield ctx\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/pipeline/ingest/trends.py\", line 208, in pull_all\n    path = base.save_raw(fetch(trend))\n                         ^^^^^^^^^^^^\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/pipeline/ingest/trends.py\", line 171, in fetch\n    df = _retrying(pull_once, label=f\"{backend}:{trend}\")\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/pipeline/ingest/trends.py\", line 126, in _retrying\n    return pull_once()\n           ^^^^^^^^^^^\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/pipeline/ingest/trends.py\", line 164, in pull_once\n    df = _fetch_pytrends(terms, timeframe)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/pipeline/ingest/trends.py\", line 76, in _fetch_pytrends\n    return client.interest_over_time()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/venv/lib/python3.12/site-packages/pytrends/request.py\", line 232, in interest_over_time\n    req_json = self._get_data(\n               ^^^^^^^^^^^^^^^\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/venv/lib/python3.12/site-packages/pytrends/request.py\", line 159, in _get_data\n    raise exceptions.TooManyRequestsError.from_response(response)\npytrends.exceptions.TooManyRequestsError: The request failed: Google returned a response with code 429\n"
+}

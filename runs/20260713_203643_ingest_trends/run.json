@@ -1,0 +1,24 @@
+{
+  "command": "ingest_trends",
+  "notes": "Google Trends weekly pulls, geo=IN",
+  "started_at": "2026-07-13T20:36:43.862604+05:30",
+  "finished_at": "2026-07-13T20:36:46.668514+05:30",
+  "git_commit": "0727f010e537082c0a55afe96c3d2ef0e4c4c46a",
+  "config_hash": "134732239aade675269c1cd8bc8d36f306070da2b30bef8811abeff32535488c",
+  "thresholds_frozen": false,
+  "inputs": [],
+  "outputs": [
+    {
+      "path": "data/raw/trends_korean_skincare_20260713.json",
+      "sha256": "422023eaf6a29766190eb7181b7b6a5ec286078630aa69783d2b05a348c11f34"
+    }
+  ],
+  "extra": {
+    "backend": "trendspy",
+    "trends": [
+      "korean_skincare"
+    ]
+  },
+  "status": "ok",
+  "error": null
+}

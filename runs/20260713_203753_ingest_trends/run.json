@@ -1,0 +1,24 @@
+{
+  "command": "ingest_trends",
+  "notes": "Google Trends weekly pulls, geo=IN",
+  "started_at": "2026-07-13T20:37:53.469059+05:30",
+  "finished_at": "2026-07-13T20:39:11.667059+05:30",
+  "git_commit": "0727f010e537082c0a55afe96c3d2ef0e4c4c46a",
+  "config_hash": "134732239aade675269c1cd8bc8d36f306070da2b30bef8811abeff32535488c",
+  "thresholds_frozen": false,
+  "inputs": [],
+  "outputs": [
+    {
+      "path": "data/raw/trends_genz_fragrance_20260713.json",
+      "sha256": "60c1dfe3f7ab16c09a13c16acd0b03f1465eb251df15c5ba9a14e79cf501452f"
+    }
+  ],
+  "extra": {
+    "backend": "trendspy",
+    "trends": [
+      "genz_fragrance"
+    ]
+  },
+  "status": "ok",
+  "error": null
+}
