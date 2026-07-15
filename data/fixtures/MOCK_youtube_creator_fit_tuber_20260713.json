@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_fit_tuber",
+  "channel_title": "Fit Tuber",
+  "subscribers": 11000000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_fit_tuber_000",
+      "published_at": "2026-07-09T21:30:00+05:30",
+      "title": "Whey Protein Review: Best Macros For The Price",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 277957
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_001",
+      "published_at": "2026-07-03T21:30:00+05:30",
+      "title": "5 High Protein Snacks For Busy Weekdays",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 880877
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_002",
+      "published_at": "2026-06-25T21:30:00+05:30",
+      "title": "Protein Bar Taste Test: 3 Brands Ranked",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 446163
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_003",
+      "published_at": "2026-06-16T21:30:00+05:30",
+      "title": "Gym Workout Split For Beginners | Full Routine",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 236965
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_004",
+      "published_at": "2026-06-12T21:30:00+05:30",
+      "title": "Gym Workout Split For Beginners | Full Routine",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 665752
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_005",
+      "published_at": "2026-06-05T21:30:00+05:30",
+      "title": "HIIT Workout At Home | No Equipment Needed",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 457016
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_006",
+      "published_at": "2026-05-27T21:30:00+05:30",
+      "title": "7-Day Muscle Building Meal Plan",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 490158
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_007",
+      "published_at": "2026-05-19T21:30:00+05:30",
+      "title": "14 High Protein Snacks For Busy Weekdays",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 978067
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_008",
+      "published_at": "2026-05-14T21:30:00+05:30",
+      "title": "Bodybuilding Diet Myths Busted | Nutrition Q&A",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 985781
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_009",
+      "published_at": "2026-05-08T21:30:00+05:30",
+      "title": "Bodybuilding Diet Myths Busted | Nutrition Q&A",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 663383
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_010",
+      "published_at": "2026-05-01T21:30:00+05:30",
+      "title": "Protein Bar Taste Test: 30 Brands Ranked",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 1395424
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_011",
+      "published_at": "2026-04-27T21:30:00+05:30",
+      "title": "Full Day Of Eating | High Protein Edition",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 447559
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_012",
+      "published_at": "2026-04-19T21:30:00+05:30",
+      "title": "5-Day Muscle Building Meal Plan",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 553942
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_013",
+      "published_at": "2026-04-15T21:30:00+05:30",
+      "title": "Full Day Of Eating | High Protein Edition",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 220533
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_014",
+      "published_at": "2026-04-06T21:30:00+05:30",
+      "title": "HIIT Workout At Home | No Equipment Needed",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 381545
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_015",
+      "published_at": "2026-03-28T21:30:00+05:30",
+      "title": "Gym Workout Split For Beginners | Full Routine",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 647078
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_016",
+      "published_at": "2026-03-19T21:30:00+05:30",
+      "title": "Whey Protein Review: Best Macros For The Price",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 526579
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_017",
+      "published_at": "2026-03-14T21:30:00+05:30",
+      "title": "30-Day Muscle Building Meal Plan",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 1194771
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_018",
+      "published_at": "2026-03-06T21:30:00+05:30",
+      "title": "21-Day Muscle Building Meal Plan",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 571118
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_019",
+      "published_at": "2026-02-25T21:30:00+05:30",
+      "title": "5-Day Muscle Building Meal Plan",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 670535
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_020",
+      "published_at": "2026-02-19T21:30:00+05:30",
+      "title": "Post Workout Protein Shake Recipe | Gym Nutrition",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 1317604
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_021",
+      "published_at": "2026-02-11T21:30:00+05:30",
+      "title": "Full Day Of Eating | High Protein Edition",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 645030
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_022",
+      "published_at": "2026-02-05T21:30:00+05:30",
+      "title": "Full Day Of Eating | High Protein Edition",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 343635
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_023",
+      "published_at": "2026-01-28T21:30:00+05:30",
+      "title": "Cardio Vs Weights For Fat Loss: What The Macros Say",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 517503
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_024",
+      "published_at": "2026-01-22T21:30:00+05:30",
+      "title": "Cardio Vs Weights For Fat Loss: What The Macros Say",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 430373
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_025",
+      "published_at": "2026-01-16T21:30:00+05:30",
+      "title": "30 High Protein Snacks For Busy Weekdays",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 1910752
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_026",
+      "published_at": "2026-01-10T21:30:00+05:30",
+      "title": "Full Day Of Eating | High Protein Edition",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 450312
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_027",
+      "published_at": "2026-01-02T21:30:00+05:30",
+      "title": "HIIT Workout At Home | No Equipment Needed",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 470880
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_028",
+      "published_at": "2025-12-24T21:30:00+05:30",
+      "title": "Protein Bar Taste Test: 30 Brands Ranked",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 645827
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_029",
+      "published_at": "2025-12-17T21:30:00+05:30",
+      "title": "Full Day Of Eating | High Protein Edition",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 957444
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_030",
+      "published_at": "2025-12-13T21:30:00+05:30",
+      "title": "Full Day Of Eating | High Protein Edition",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 482626
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_031",
+      "published_at": "2025-12-09T21:30:00+05:30",
+      "title": "Gym Workout Split For Beginners | Full Routine",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 939910
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_032",
+      "published_at": "2025-12-03T21:30:00+05:30",
+      "title": "Bodybuilding Diet Myths Busted | Nutrition Q&A",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 279208
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_033",
+      "published_at": "2025-11-27T21:30:00+05:30",
+      "title": "HIIT Workout At Home | No Equipment Needed",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 1653020
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_034",
+      "published_at": "2025-11-22T21:30:00+05:30",
+      "title": "Whey Protein Review: Best Macros For The Price",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 502880
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_035",
+      "published_at": "2025-11-17T21:30:00+05:30",
+      "title": "Full Day Of Eating | High Protein Edition",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 494631
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_036",
+      "published_at": "2025-11-12T21:30:00+05:30",
+      "title": "Bodybuilding Diet Myths Busted | Nutrition Q&A",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 990157
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_037",
+      "published_at": "2025-11-03T21:30:00+05:30",
+      "title": "Gym Workout Split For Beginners | Full Routine",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 1105594
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_038",
+      "published_at": "2025-10-25T21:30:00+05:30",
+      "title": "Protein Bar Taste Test: 21 Brands Ranked",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 577567
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_039",
+      "published_at": "2025-10-16T21:30:00+05:30",
+      "title": "HIIT Workout At Home | No Equipment Needed",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 616359
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_040",
+      "published_at": "2025-10-11T21:30:00+05:30",
+      "title": "Full Day Of Eating | High Protein Edition",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 818729
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_041",
+      "published_at": "2025-10-04T21:30:00+05:30",
+      "title": "21 High Protein Snacks For Busy Weekdays",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 974939
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_042",
+      "published_at": "2025-09-26T21:30:00+05:30",
+      "title": "Gym Workout Split For Beginners | Full Routine",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 1393304
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_043",
+      "published_at": "2025-09-18T21:30:00+05:30",
+      "title": "Post Workout Protein Shake Recipe | Gym Nutrition",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 414677
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_044",
+      "published_at": "2025-09-12T21:30:00+05:30",
+      "title": "3 High Protein Snacks For Busy Weekdays",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 376126
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_045",
+      "published_at": "2025-09-07T21:30:00+05:30",
+      "title": "Bodybuilding Diet Myths Busted | Nutrition Q&A",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 1599188
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_046",
+      "published_at": "2025-08-29T21:30:00+05:30",
+      "title": "HIIT Workout At Home | No Equipment Needed",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 543497
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_047",
+      "published_at": "2025-08-20T21:30:00+05:30",
+      "title": "HIIT Workout At Home | No Equipment Needed",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 960386
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_048",
+      "published_at": "2025-08-12T21:30:00+05:30",
+      "title": "Cardio Vs Weights For Fat Loss: What The Macros Say",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 961048
+    },
+    {
+      "video_id": "MOCKCR_fit_tuber_049",
+      "published_at": "2025-08-05T21:30:00+05:30",
+      "title": "Post Workout Protein Shake Recipe | Gym Nutrition",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 1055157
+    }
+  ]
+}

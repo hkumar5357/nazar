@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_bake_with_shivesh",
+  "channel_title": "Bake with Shivesh",
+  "subscribers": 2800000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_000",
+      "published_at": "2026-07-10T21:30:00+05:30",
+      "title": "Baking Chef's Guide To Better Bread Texture",
+      "description": "Full recipe and ingredient list in the description below.",
+      "view_count": 131439
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_001",
+      "published_at": "2026-07-02T21:30:00+05:30",
+      "title": "Kitchen Hacks Every Home Baker Should Know",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 57179
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_002",
+      "published_at": "2026-06-28T21:30:00+05:30",
+      "title": "How To Bake The Perfect Cake At Home",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 162927
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_003",
+      "published_at": "2026-06-20T21:30:00+05:30",
+      "title": "My Go-To Kitchen Recipe For A Quick Dessert",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 124957
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_004",
+      "published_at": "2026-06-16T21:30:00+05:30",
+      "title": "Kitchen Hacks Every Home Baker Should Know",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 79192
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_005",
+      "published_at": "2026-06-10T21:30:00+05:30",
+      "title": "Kitchen Hacks Every Home Baker Should Know",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 178161
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_006",
+      "published_at": "2026-06-02T21:30:00+05:30",
+      "title": "Baking Ingredients Explained: Flour, Sugar, Butter",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 87540
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_007",
+      "published_at": "2026-05-26T21:30:00+05:30",
+      "title": "Baking Ingredients Explained: Flour, Sugar, Butter",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 73925
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_008",
+      "published_at": "2026-05-22T21:30:00+05:30",
+      "title": "5-Ingredient Bread Recipe From My Kitchen",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 216917
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_009",
+      "published_at": "2026-05-14T21:30:00+05:30",
+      "title": "Baking Ingredients Explained: Flour, Sugar, Butter",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 226381
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_010",
+      "published_at": "2026-05-09T21:30:00+05:30",
+      "title": "Baking Chef's Guide To Better Bread Texture",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 208988
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_011",
+      "published_at": "2026-05-05T21:30:00+05:30",
+      "title": "Dessert Recipe: No-Bake Cake In 3 Minutes",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 116262
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_012",
+      "published_at": "2026-04-30T21:30:00+05:30",
+      "title": "Baking Dessert Basics: Cookies Without An Oven",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 147939
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_013",
+      "published_at": "2026-04-23T21:30:00+05:30",
+      "title": "Baking Ingredients Explained: Flour, Sugar, Butter",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 115104
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_014",
+      "published_at": "2026-04-18T21:30:00+05:30",
+      "title": "Easy Chocolate Cake Recipe | Baking For Beginners",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 222728
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_015",
+      "published_at": "2026-04-12T21:30:00+05:30",
+      "title": "Dessert Recipe: No-Bake Cake In 10 Minutes",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 218198
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_016",
+      "published_at": "2026-04-05T21:30:00+05:30",
+      "title": "How To Bake The Perfect Cake At Home",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 578624
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_017",
+      "published_at": "2026-03-29T21:30:00+05:30",
+      "title": "3-Ingredient Bread Recipe From My Kitchen",
+      "description": "Full recipe and ingredient list in the description below.",
+      "view_count": 108584
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_018",
+      "published_at": "2026-03-25T21:30:00+05:30",
+      "title": "Baking Chef's Guide To Better Bread Texture",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 68521
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_019",
+      "published_at": "2026-03-21T21:30:00+05:30",
+      "title": "Bakery Style Bread Recipe You Can Make At Home",
+      "description": "Full recipe and ingredient list in the description below.",
+      "view_count": 176180
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_020",
+      "published_at": "2026-03-16T21:30:00+05:30",
+      "title": "Easy Chocolate Cake Recipe | Baking For Beginners",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 107810
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_021",
+      "published_at": "2026-03-11T21:30:00+05:30",
+      "title": "30-Ingredient Bread Recipe From My Kitchen",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 137215
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_022",
+      "published_at": "2026-03-04T21:30:00+05:30",
+      "title": "Easy Chocolate Cake Recipe | Baking For Beginners",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 70188
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_023",
+      "published_at": "2026-02-27T21:30:00+05:30",
+      "title": "Baking Dessert Basics: Cookies Without An Oven",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 174111
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_024",
+      "published_at": "2026-02-19T21:30:00+05:30",
+      "title": "Baking Chef's Guide To Better Bread Texture",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 158647
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_025",
+      "published_at": "2026-02-10T21:30:00+05:30",
+      "title": "My Go-To Kitchen Recipe For A Quick Dessert",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 496416
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_026",
+      "published_at": "2026-02-06T21:30:00+05:30",
+      "title": "My Go-To Kitchen Recipe For A Quick Dessert",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 71831
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_027",
+      "published_at": "2026-02-01T21:30:00+05:30",
+      "title": "How To Bake The Perfect Cake At Home",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 172654
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_028",
+      "published_at": "2026-01-24T21:30:00+05:30",
+      "title": "My Go-To Kitchen Recipe For A Quick Dessert",
+      "description": "Full recipe and ingredient list in the description below.",
+      "view_count": 58844
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_029",
+      "published_at": "2026-01-16T21:30:00+05:30",
+      "title": "7-Ingredient Bread Recipe From My Kitchen",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 73494
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_030",
+      "published_at": "2026-01-08T21:30:00+05:30",
+      "title": "Baking Dessert Basics: Cookies Without An Oven",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 259149
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_031",
+      "published_at": "2025-12-31T21:30:00+05:30",
+      "title": "Kitchen Hacks Every Home Baker Should Know",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 194425
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_032",
+      "published_at": "2025-12-26T21:30:00+05:30",
+      "title": "Baking Ingredients Explained: Flour, Sugar, Butter",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 147965
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_033",
+      "published_at": "2025-12-22T21:30:00+05:30",
+      "title": "How To Bake The Perfect Cake At Home",
+      "description": "Full recipe and ingredient list in the description below.",
+      "view_count": 177322
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_034",
+      "published_at": "2025-12-15T21:30:00+05:30",
+      "title": "Baking Ingredients Explained: Flour, Sugar, Butter",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 120020
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_035",
+      "published_at": "2025-12-11T21:30:00+05:30",
+      "title": "How To Bake The Perfect Cake At Home",
+      "description": "Full recipe and ingredient list in the description below.",
+      "view_count": 102000
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_036",
+      "published_at": "2025-12-06T21:30:00+05:30",
+      "title": "Easy Chocolate Cake Recipe | Baking For Beginners",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 96738
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_037",
+      "published_at": "2025-11-30T21:30:00+05:30",
+      "title": "Easy Chocolate Cake Recipe | Baking For Beginners",
+      "description": "Full recipe and ingredient list in the description below.",
+      "view_count": 259448
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_038",
+      "published_at": "2025-11-26T21:30:00+05:30",
+      "title": "Dessert Recipe: No-Bake Cake In 5 Minutes",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 94605
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_039",
+      "published_at": "2025-11-19T21:30:00+05:30",
+      "title": "How To Bake The Perfect Cake At Home",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 63142
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_040",
+      "published_at": "2025-11-10T21:30:00+05:30",
+      "title": "Baking Ingredients Explained: Flour, Sugar, Butter",
+      "description": "Full recipe and ingredient list in the description below.",
+      "view_count": 104479
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_041",
+      "published_at": "2025-11-01T21:30:00+05:30",
+      "title": "Baking Ingredients Explained: Flour, Sugar, Butter",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 129016
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_042",
+      "published_at": "2025-10-27T21:30:00+05:30",
+      "title": "Baking Chef's Guide To Better Bread Texture",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 329787
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_043",
+      "published_at": "2025-10-22T21:30:00+05:30",
+      "title": "Kitchen Hacks Every Home Baker Should Know",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 162713
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_044",
+      "published_at": "2025-10-17T21:30:00+05:30",
+      "title": "Baking Chef's Guide To Better Bread Texture",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 307404
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_045",
+      "published_at": "2025-10-11T21:30:00+05:30",
+      "title": "Baking Chef's Guide To Better Bread Texture",
+      "description": "Full recipe and ingredient list in the description below.",
+      "view_count": 67017
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_046",
+      "published_at": "2025-10-02T21:30:00+05:30",
+      "title": "Baking Dessert Basics: Cookies Without An Oven",
+      "description": "Baked this in my home kitchen, nothing fancy, just practice.",
+      "view_count": 61609
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_047",
+      "published_at": "2025-09-26T21:30:00+05:30",
+      "title": "Baking Dessert Basics: Cookies Without An Oven",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 126189
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_048",
+      "published_at": "2025-09-20T21:30:00+05:30",
+      "title": "3-Ingredient Bread Recipe From My Kitchen",
+      "description": "Full recipe and ingredient list in the description below.",
+      "view_count": 93548
+    },
+    {
+      "video_id": "MOCKCR_bake_with_shivesh_049",
+      "published_at": "2025-09-11T21:30:00+05:30",
+      "title": "3-Ingredient Bread Recipe From My Kitchen",
+      "description": "New baking videos every week, tell me what to bake next.",
+      "view_count": 61091
+    }
+  ]
+}

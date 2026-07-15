@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_geeky_ranjit",
+  "channel_title": "Geeky Ranjit",
+  "subscribers": 5200000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_geeky_ranjit_000",
+      "published_at": "2026-07-09T21:30:00+05:30",
+      "title": "Gadget Roundup: Best Smartphones This Quarter",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 486564
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_001",
+      "published_at": "2026-07-02T21:30:00+05:30",
+      "title": "Laptop Benchmark Comparison: 7 Models Tested",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 92103
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_002",
+      "published_at": "2026-06-24T21:30:00+05:30",
+      "title": "Processor Benchmark Deep Dive: Full Specs Test",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 164145
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_003",
+      "published_at": "2026-06-15T21:30:00+05:30",
+      "title": "Gadget Review: Specs, Benchmark, Camera Test",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 300973
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_004",
+      "published_at": "2026-06-11T21:30:00+05:30",
+      "title": "Unboxing The Latest Gadget: Worth The Hype?",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 263208
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_005",
+      "published_at": "2026-06-03T21:30:00+05:30",
+      "title": "Phone Camera Review Under 5,000 Rupees",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 213682
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_006",
+      "published_at": "2026-05-25T21:30:00+05:30",
+      "title": "Smartphone Unboxing And First Impressions",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 298229
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_007",
+      "published_at": "2026-05-17T21:30:00+05:30",
+      "title": "Smartphone Unboxing And First Impressions",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 121277
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_008",
+      "published_at": "2026-05-10T21:30:00+05:30",
+      "title": "Tech Gadget Q&A: Specs Explained Simply",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 117726
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_009",
+      "published_at": "2026-05-02T21:30:00+05:30",
+      "title": "Smartphone Unboxing And First Impressions",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 228503
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_010",
+      "published_at": "2026-04-26T21:30:00+05:30",
+      "title": "Gadget Review: Specs, Benchmark, Camera Test",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 836520
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_011",
+      "published_at": "2026-04-19T21:30:00+05:30",
+      "title": "Laptop Benchmark Comparison: 7 Models Tested",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 287153
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_012",
+      "published_at": "2026-04-10T21:30:00+05:30",
+      "title": "Tech News: New Chipset Announced This Week",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 183461
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_013",
+      "published_at": "2026-04-04T21:30:00+05:30",
+      "title": "Phone Camera Review Under 14,000 Rupees",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 110007
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_014",
+      "published_at": "2026-03-28T21:30:00+05:30",
+      "title": "Gadget Roundup: Best Smartphones This Quarter",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 180558
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_015",
+      "published_at": "2026-03-21T21:30:00+05:30",
+      "title": "Tech Gadget Q&A: Specs Explained Simply",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 201084
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_016",
+      "published_at": "2026-03-14T21:30:00+05:30",
+      "title": "Unboxing The Latest Gadget: Worth The Hype?",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 284488
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_017",
+      "published_at": "2026-03-09T21:30:00+05:30",
+      "title": "Unboxing The Latest Gadget: Worth The Hype?",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 221966
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_018",
+      "published_at": "2026-03-04T21:30:00+05:30",
+      "title": "Smartphone Unboxing And First Impressions",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 179792
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_019",
+      "published_at": "2026-02-28T21:30:00+05:30",
+      "title": "Laptop Review: Real World Benchmark Numbers",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 195831
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_020",
+      "published_at": "2026-02-22T21:30:00+05:30",
+      "title": "Gadget Review: Specs, Benchmark, Camera Test",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 214432
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_021",
+      "published_at": "2026-02-18T21:30:00+05:30",
+      "title": "Tech News: New Chipset Announced This Week",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 393438
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_022",
+      "published_at": "2026-02-09T21:30:00+05:30",
+      "title": "Processor Benchmark Deep Dive: Full Specs Test",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 367158
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_023",
+      "published_at": "2026-02-02T21:30:00+05:30",
+      "title": "Gadget Review: Specs, Benchmark, Camera Test",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 230181
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_024",
+      "published_at": "2026-01-26T21:30:00+05:30",
+      "title": "Laptop Review: Real World Benchmark Numbers",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 439625
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_025",
+      "published_at": "2026-01-19T21:30:00+05:30",
+      "title": "Gadget Review: Specs, Benchmark, Camera Test",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 181400
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_026",
+      "published_at": "2026-01-10T21:30:00+05:30",
+      "title": "Smartphone Unboxing And First Impressions",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 199187
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_027",
+      "published_at": "2026-01-03T21:30:00+05:30",
+      "title": "Phone Camera Review Under 10,000 Rupees",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 266159
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_028",
+      "published_at": "2025-12-27T21:30:00+05:30",
+      "title": "Laptop Review: Real World Benchmark Numbers",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 165547
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_029",
+      "published_at": "2025-12-22T21:30:00+05:30",
+      "title": "Processor Benchmark Deep Dive: Full Specs Test",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 265410
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_030",
+      "published_at": "2025-12-17T21:30:00+05:30",
+      "title": "Laptop Benchmark Comparison: 14 Models Tested",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 256998
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_031",
+      "published_at": "2025-12-13T21:30:00+05:30",
+      "title": "Unboxing The Latest Gadget: Worth The Hype?",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 211663
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_032",
+      "published_at": "2025-12-07T21:30:00+05:30",
+      "title": "Tech News: New Chipset Announced This Week",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 164218
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_033",
+      "published_at": "2025-11-30T21:30:00+05:30",
+      "title": "Tech News: New Chipset Announced This Week",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 178032
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_034",
+      "published_at": "2025-11-24T21:30:00+05:30",
+      "title": "Gadget Review: Specs, Benchmark, Camera Test",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 151023
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_035",
+      "published_at": "2025-11-18T21:30:00+05:30",
+      "title": "Unboxing The Latest Gadget: Worth The Hype?",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 356454
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_036",
+      "published_at": "2025-11-10T21:30:00+05:30",
+      "title": "Laptop Review: Real World Benchmark Numbers",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 148369
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_037",
+      "published_at": "2025-11-04T21:30:00+05:30",
+      "title": "Smartphone Unboxing And First Impressions",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 207305
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_038",
+      "published_at": "2025-10-28T21:30:00+05:30",
+      "title": "Processor Benchmark Deep Dive: Full Specs Test",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 384735
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_039",
+      "published_at": "2025-10-21T21:30:00+05:30",
+      "title": "Smartphone Unboxing And First Impressions",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 452475
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_040",
+      "published_at": "2025-10-14T21:30:00+05:30",
+      "title": "Gadget Review: Specs, Benchmark, Camera Test",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 439401
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_041",
+      "published_at": "2025-10-09T21:30:00+05:30",
+      "title": "Gadget Review: Specs, Benchmark, Camera Test",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 415483
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_042",
+      "published_at": "2025-10-04T21:30:00+05:30",
+      "title": "Smartphone Unboxing And First Impressions",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 123007
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_043",
+      "published_at": "2025-09-30T21:30:00+05:30",
+      "title": "Processor Benchmark Deep Dive: Full Specs Test",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 354573
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_044",
+      "published_at": "2025-09-23T21:30:00+05:30",
+      "title": "Gadget Roundup: Best Smartphones This Quarter",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 134761
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_045",
+      "published_at": "2025-09-16T21:30:00+05:30",
+      "title": "Tech News: New Chipset Announced This Week",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 97022
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_046",
+      "published_at": "2025-09-07T21:30:00+05:30",
+      "title": "Gadget Review: Specs, Benchmark, Camera Test",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 260002
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_047",
+      "published_at": "2025-09-02T21:30:00+05:30",
+      "title": "Laptop Review: Real World Benchmark Numbers",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 299020
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_048",
+      "published_at": "2025-08-25T21:30:00+05:30",
+      "title": "Laptop Review: Real World Benchmark Numbers",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 425290
+    },
+    {
+      "video_id": "MOCKCR_geeky_ranjit_049",
+      "published_at": "2025-08-19T21:30:00+05:30",
+      "title": "Unboxing The Latest Gadget: Worth The Hype?",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 279887
+    }
+  ]
+}

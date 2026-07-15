@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_yoga_with_anjali",
+  "channel_title": "Yoga With Anjali",
+  "subscribers": 620000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_000",
+      "published_at": "2026-07-10T21:30:00+05:30",
+      "title": "Yoga For Beginners: Building A Home Practice",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 39607
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_001",
+      "published_at": "2026-07-01T21:30:00+05:30",
+      "title": "Yoga For Stress Relief: Breathwork Basics",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 17140
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_002",
+      "published_at": "2026-06-23T21:30:00+05:30",
+      "title": "Wellness Routine: Yoga And Mental Health Tips",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 35133
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_003",
+      "published_at": "2026-06-16T21:30:00+05:30",
+      "title": "Asana Breakdown: Improve Your Yoga Practice",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 25844
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_004",
+      "published_at": "2026-06-08T21:30:00+05:30",
+      "title": "Asana Breakdown: Improve Your Yoga Practice",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 37789
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_005",
+      "published_at": "2026-06-02T21:30:00+05:30",
+      "title": "3-Minute Morning Yoga Routine For Beginners",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 22568
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_006",
+      "published_at": "2026-05-28T21:30:00+05:30",
+      "title": "Yoga For Stress Relief: Breathwork Basics",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 24216
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_007",
+      "published_at": "2026-05-23T21:30:00+05:30",
+      "title": "Meditation And Breathwork For Mental Health",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 43387
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_008",
+      "published_at": "2026-05-14T21:30:00+05:30",
+      "title": "Wellness Q&A: Yoga, Mindfulness And Self Care",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 29142
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_009",
+      "published_at": "2026-05-09T21:30:00+05:30",
+      "title": "Yoga For Beginners: Building A Home Practice",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 42014
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_010",
+      "published_at": "2026-04-30T21:30:00+05:30",
+      "title": "Meditation And Breathwork For Mental Health",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 32625
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_011",
+      "published_at": "2026-04-25T21:30:00+05:30",
+      "title": "Stretching Routine For Better Wellness",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 54224
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_012",
+      "published_at": "2026-04-16T21:30:00+05:30",
+      "title": "Yoga For Beginners: Building A Home Practice",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 29132
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_013",
+      "published_at": "2026-04-07T21:30:00+05:30",
+      "title": "Stretching Routine For Better Wellness",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 10261
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_014",
+      "published_at": "2026-03-31T21:30:00+05:30",
+      "title": "Meditation And Breathwork For Mental Health",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 23648
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_015",
+      "published_at": "2026-03-27T21:30:00+05:30",
+      "title": "3-Minute Morning Yoga Routine For Beginners",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 33362
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_016",
+      "published_at": "2026-03-21T21:30:00+05:30",
+      "title": "Wellness Q&A: Yoga, Mindfulness And Self Care",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 16059
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_017",
+      "published_at": "2026-03-13T21:30:00+05:30",
+      "title": "Yoga For Beginners: Building A Home Practice",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 17244
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_018",
+      "published_at": "2026-03-06T21:30:00+05:30",
+      "title": "Asana Breakdown: Improve Your Yoga Practice",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 31882
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_019",
+      "published_at": "2026-02-25T21:30:00+05:30",
+      "title": "Yoga For Beginners: Building A Home Practice",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 11789
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_020",
+      "published_at": "2026-02-18T21:30:00+05:30",
+      "title": "Wellness Q&A: Yoga, Mindfulness And Self Care",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 16328
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_021",
+      "published_at": "2026-02-13T21:30:00+05:30",
+      "title": "Meditation And Breathwork For Mental Health",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 67933
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_022",
+      "published_at": "2026-02-08T21:30:00+05:30",
+      "title": "Meditation And Breathwork For Mental Health",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 22901
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_023",
+      "published_at": "2026-02-03T21:30:00+05:30",
+      "title": "21-Minute Morning Yoga Routine For Beginners",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 7663
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_024",
+      "published_at": "2026-01-28T21:30:00+05:30",
+      "title": "Self Care Sunday: Yoga And Meditation Guide",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 25137
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_025",
+      "published_at": "2026-01-24T21:30:00+05:30",
+      "title": "21-Minute Morning Yoga Routine For Beginners",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 32708
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_026",
+      "published_at": "2026-01-18T21:30:00+05:30",
+      "title": "30-Minute Morning Yoga Routine For Beginners",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 13427
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_027",
+      "published_at": "2026-01-14T21:30:00+05:30",
+      "title": "Wellness Q&A: Yoga, Mindfulness And Self Care",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 17047
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_028",
+      "published_at": "2026-01-05T21:30:00+05:30",
+      "title": "Yoga For Beginners: Building A Home Practice",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 37276
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_029",
+      "published_at": "2026-01-01T21:30:00+05:30",
+      "title": "Wellness Q&A: Yoga, Mindfulness And Self Care",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 32557
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_030",
+      "published_at": "2025-12-23T21:30:00+05:30",
+      "title": "Mindfulness Meditation: 5 Minutes To Calm Down",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 32531
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_031",
+      "published_at": "2025-12-19T21:30:00+05:30",
+      "title": "Yoga For Stress Relief: Breathwork Basics",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 40778
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_032",
+      "published_at": "2025-12-12T21:30:00+05:30",
+      "title": "Meditation And Breathwork For Mental Health",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 23482
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_033",
+      "published_at": "2025-12-07T21:30:00+05:30",
+      "title": "Self Care Sunday: Yoga And Meditation Guide",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 23593
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_034",
+      "published_at": "2025-12-01T21:30:00+05:30",
+      "title": "Self Care Sunday: Yoga And Meditation Guide",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 7485
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_035",
+      "published_at": "2025-11-23T21:30:00+05:30",
+      "title": "Wellness Q&A: Yoga, Mindfulness And Self Care",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 16798
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_036",
+      "published_at": "2025-11-18T21:30:00+05:30",
+      "title": "Yoga For Stress Relief: Breathwork Basics",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 12323
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_037",
+      "published_at": "2025-11-12T21:30:00+05:30",
+      "title": "Yoga For Beginners: Building A Home Practice",
+      "description": "Full yoga routine and breathwork steps in the description.",
+      "view_count": 23739
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_038",
+      "published_at": "2025-11-06T21:30:00+05:30",
+      "title": "10-Minute Morning Yoga Routine For Beginners",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 37541
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_039",
+      "published_at": "2025-10-30T21:30:00+05:30",
+      "title": "Self Care Sunday: Yoga And Meditation Guide",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 10709
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_040",
+      "published_at": "2025-10-26T21:30:00+05:30",
+      "title": "Asana Breakdown: Improve Your Yoga Practice",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 27808
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_041",
+      "published_at": "2025-10-22T21:30:00+05:30",
+      "title": "Mindfulness Meditation: 7 Minutes To Calm Down",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 19291
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_042",
+      "published_at": "2025-10-13T21:30:00+05:30",
+      "title": "Asana Breakdown: Improve Your Yoga Practice",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 21015
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_043",
+      "published_at": "2025-10-06T21:30:00+05:30",
+      "title": "Asana Breakdown: Improve Your Yoga Practice",
+      "description": "Recorded this wellness session at home, take it at your pace.",
+      "view_count": 20368
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_044",
+      "published_at": "2025-09-28T21:30:00+05:30",
+      "title": "Wellness Routine: Yoga And Mental Health Tips",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 55627
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_045",
+      "published_at": "2025-09-21T21:30:00+05:30",
+      "title": "Meditation And Breathwork For Mental Health",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 21220
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_046",
+      "published_at": "2025-09-15T21:30:00+05:30",
+      "title": "Wellness Routine: Yoga And Mental Health Tips",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 16459
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_047",
+      "published_at": "2025-09-08T21:30:00+05:30",
+      "title": "Yoga For Stress Relief: Breathwork Basics",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 16323
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_048",
+      "published_at": "2025-09-04T21:30:00+05:30",
+      "title": "30-Minute Morning Yoga Routine For Beginners",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 23234
+    },
+    {
+      "video_id": "MOCKCR_yoga_with_anjali_049",
+      "published_at": "2025-08-31T21:30:00+05:30",
+      "title": "Wellness Routine: Yoga And Mental Health Tips",
+      "description": "New yoga and mindfulness videos every week.",
+      "view_count": 12059
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_technical_guruji",
+  "channel_title": "Technical Guruji",
+  "subscribers": 23000000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_technical_guruji_000",
+      "published_at": "2026-07-09T21:30:00+05:30",
+      "title": "Gadget Unboxing: Latest Laptop Benchmark Test",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 1905489
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_001",
+      "published_at": "2026-07-03T21:30:00+05:30",
+      "title": "Mumbai Launch Unboxing: New Smartphone First Look",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 591409
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_002",
+      "published_at": "2026-06-28T21:30:00+05:30",
+      "title": "Tech Gadget Roundup: Best Phones This Month",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 496408
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_003",
+      "published_at": "2026-06-23T21:30:00+05:30",
+      "title": "Unboxing The Newest Gadget From My Mailbox",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 776688
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_004",
+      "published_at": "2026-06-19T21:30:00+05:30",
+      "title": "Gadget Unboxing: Latest Laptop Benchmark Test",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1437697
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_005",
+      "published_at": "2026-06-13T21:30:00+05:30",
+      "title": "Tech Gadget Roundup: Best Phones This Month",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1283179
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_006",
+      "published_at": "2026-06-09T21:30:00+05:30",
+      "title": "Processor Benchmark Comparison: 30 Phones Tested",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1396888
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_007",
+      "published_at": "2026-05-31T21:30:00+05:30",
+      "title": "Smartphone Camera Review: Real World Test",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 917559
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_008",
+      "published_at": "2026-05-23T21:30:00+05:30",
+      "title": "Unboxing The Newest Gadget From My Mailbox",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 768127
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_009",
+      "published_at": "2026-05-16T21:30:00+05:30",
+      "title": "Processor Benchmark Comparison: 5 Phones Tested",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 2208362
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_010",
+      "published_at": "2026-05-08T21:30:00+05:30",
+      "title": "Full Specs Review: Is This Phone Worth It?",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 3507099
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_011",
+      "published_at": "2026-05-03T21:30:00+05:30",
+      "title": "Processor Benchmark Comparison: 30 Phones Tested",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 2361178
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_012",
+      "published_at": "2026-04-28T21:30:00+05:30",
+      "title": "Phone Camera Review Comparison: 7 Devices",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1017944
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_013",
+      "published_at": "2026-04-21T21:30:00+05:30",
+      "title": "Chipset Explained: What The Specs Actually Mean",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 1869570
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_014",
+      "published_at": "2026-04-12T21:30:00+05:30",
+      "title": "Laptop Review: Specs, Benchmark And Verdict",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 1168273
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_015",
+      "published_at": "2026-04-06T21:30:00+05:30",
+      "title": "Chennai Launch Unboxing: New Smartphone First Look",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 1541798
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_016",
+      "published_at": "2026-03-29T21:30:00+05:30",
+      "title": "Gadget Unboxing: Latest Laptop Benchmark Test",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 2958283
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_017",
+      "published_at": "2026-03-22T21:30:00+05:30",
+      "title": "Phone Camera Review Comparison: 7 Devices",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 931995
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_018",
+      "published_at": "2026-03-14T21:30:00+05:30",
+      "title": "Processor Benchmark Comparison: 3 Phones Tested",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 1581367
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_019",
+      "published_at": "2026-03-05T21:30:00+05:30",
+      "title": "Chipset Explained: What The Specs Actually Mean",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 1497692
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_020",
+      "published_at": "2026-02-25T21:30:00+05:30",
+      "title": "Phone Camera Review Comparison: 30 Devices",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 813818
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_021",
+      "published_at": "2026-02-21T21:30:00+05:30",
+      "title": "Hyderabad Launch Unboxing: New Smartphone First Look",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 1503383
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_022",
+      "published_at": "2026-02-16T21:30:00+05:30",
+      "title": "Bangalore Launch Unboxing: New Smartphone First Look",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 1199156
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_023",
+      "published_at": "2026-02-12T21:30:00+05:30",
+      "title": "Laptop Review: Specs, Benchmark And Verdict",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 1432268
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_024",
+      "published_at": "2026-02-04T21:30:00+05:30",
+      "title": "Unboxing The Newest Gadget From My Mailbox",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 2020915
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_025",
+      "published_at": "2026-01-31T21:30:00+05:30",
+      "title": "Tech Gadget Roundup: Best Phones This Month",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 1284582
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_026",
+      "published_at": "2026-01-22T21:30:00+05:30",
+      "title": "Unboxing The Newest Gadget From My Mailbox",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1545099
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_027",
+      "published_at": "2026-01-17T21:30:00+05:30",
+      "title": "Processor Benchmark Comparison: 10 Phones Tested",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 1362993
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_028",
+      "published_at": "2026-01-10T21:30:00+05:30",
+      "title": "Chipset Explained: What The Specs Actually Mean",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 2075622
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_029",
+      "published_at": "2026-01-02T21:30:00+05:30",
+      "title": "Laptop Review: Specs, Benchmark And Verdict",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 2761004
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_030",
+      "published_at": "2025-12-24T21:30:00+05:30",
+      "title": "Chennai Launch Unboxing: New Smartphone First Look",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 2337979
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_031",
+      "published_at": "2025-12-15T21:30:00+05:30",
+      "title": "Unboxing The Newest Gadget From My Mailbox",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 1045272
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_032",
+      "published_at": "2025-12-11T21:30:00+05:30",
+      "title": "Processor Benchmark Comparison: 30 Phones Tested",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 3396061
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_033",
+      "published_at": "2025-12-06T21:30:00+05:30",
+      "title": "Full Specs Review: Is This Phone Worth It?",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 2181397
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_034",
+      "published_at": "2025-11-27T21:30:00+05:30",
+      "title": "Full Specs Review: Is This Phone Worth It?",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 3524695
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_035",
+      "published_at": "2025-11-18T21:30:00+05:30",
+      "title": "Processor Benchmark Comparison: 14 Phones Tested",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 679204
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_036",
+      "published_at": "2025-11-13T21:30:00+05:30",
+      "title": "Chipset Explained: What The Specs Actually Mean",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 850346
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_037",
+      "published_at": "2025-11-05T21:30:00+05:30",
+      "title": "Phone Camera Review Comparison: 5 Devices",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1100283
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_038",
+      "published_at": "2025-10-31T21:30:00+05:30",
+      "title": "Laptop Review: Specs, Benchmark And Verdict",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 2127227
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_039",
+      "published_at": "2025-10-24T21:30:00+05:30",
+      "title": "Full Specs Review: Is This Phone Worth It?",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 1302604
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_040",
+      "published_at": "2025-10-18T21:30:00+05:30",
+      "title": "Chipset Explained: What The Specs Actually Mean",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 3093072
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_041",
+      "published_at": "2025-10-11T21:30:00+05:30",
+      "title": "Unboxing The Newest Gadget From My Mailbox",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1821770
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_042",
+      "published_at": "2025-10-06T21:30:00+05:30",
+      "title": "Chipset Explained: What The Specs Actually Mean",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 763381
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_043",
+      "published_at": "2025-10-02T21:30:00+05:30",
+      "title": "Chipset Explained: What The Specs Actually Mean",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1499374
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_044",
+      "published_at": "2025-09-28T21:30:00+05:30",
+      "title": "Laptop Review: Specs, Benchmark And Verdict",
+      "description": "Unit purchased for review, not sponsored by the brand.",
+      "view_count": 1127100
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_045",
+      "published_at": "2025-09-20T21:30:00+05:30",
+      "title": "Smartphone Camera Review: Real World Test",
+      "description": "New gadget review videos every week, subscribe for more.",
+      "view_count": 2194161
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_046",
+      "published_at": "2025-09-15T21:30:00+05:30",
+      "title": "Smartphone Camera Review: Real World Test",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1494417
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_047",
+      "published_at": "2025-09-09T21:30:00+05:30",
+      "title": "Processor Benchmark Comparison: 7 Phones Tested",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1685054
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_048",
+      "published_at": "2025-09-05T21:30:00+05:30",
+      "title": "Gurgaon Launch Unboxing: New Smartphone First Look",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 1540402
+    },
+    {
+      "video_id": "MOCKCR_technical_guruji_049",
+      "published_at": "2025-08-30T21:30:00+05:30",
+      "title": "Phone Camera Review Comparison: 30 Devices",
+      "description": "Full specs and benchmark numbers linked in the description.",
+      "view_count": 3163380
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_fitness_by_rahul",
+  "channel_title": "Fitness by Rahul",
+  "subscribers": 850000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_000",
+      "published_at": "2026-07-08T21:30:00+05:30",
+      "title": "Gym Workout Log Week 30 | Progressive Overload",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 80112
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_001",
+      "published_at": "2026-07-01T21:30:00+05:30",
+      "title": "Gym Workout Log Week 7 | Progressive Overload",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 66768
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_002",
+      "published_at": "2026-06-23T21:30:00+05:30",
+      "title": "Full Body Workout Routine For Muscle Gain",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 70810
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_003",
+      "published_at": "2026-06-14T21:30:00+05:30",
+      "title": "Best Protein Snacks To Keep In Your Gym Bag",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 50499
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_004",
+      "published_at": "2026-06-09T21:30:00+05:30",
+      "title": "Gym Workout Log Week 10 | Progressive Overload",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 68790
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_005",
+      "published_at": "2026-06-01T21:30:00+05:30",
+      "title": "Gym Nutrition Explained: Protein Timing Myths",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 22860
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_006",
+      "published_at": "2026-05-26T21:30:00+05:30",
+      "title": "Whey Protein Vs Plant Protein: Which Fits Your Macros?",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 60358
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_007",
+      "published_at": "2026-05-20T21:30:00+05:30",
+      "title": "Gym Workout Log Week 10 | Progressive Overload",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 62680
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_008",
+      "published_at": "2026-05-16T21:30:00+05:30",
+      "title": "Fitness Q&A: Cardio, Macros And Bodybuilding Basics",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 103931
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_009",
+      "published_at": "2026-05-12T21:30:00+05:30",
+      "title": "High Protein Meal Prep For The Week",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 47030
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_010",
+      "published_at": "2026-05-06T21:30:00+05:30",
+      "title": "10-Minute HIIT Workout For Busy Days",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 41240
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_011",
+      "published_at": "2026-04-28T21:30:00+05:30",
+      "title": "Gym Nutrition Explained: Protein Timing Myths",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 25890
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_012",
+      "published_at": "2026-04-23T21:30:00+05:30",
+      "title": "Fitness Q&A: Cardio, Macros And Bodybuilding Basics",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 49122
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_013",
+      "published_at": "2026-04-18T21:30:00+05:30",
+      "title": "High Protein Meal Prep For The Week",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 34232
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_014",
+      "published_at": "2026-04-11T21:30:00+05:30",
+      "title": "Fitness Q&A: Cardio, Macros And Bodybuilding Basics",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 59116
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_015",
+      "published_at": "2026-04-02T21:30:00+05:30",
+      "title": "Gym Nutrition Explained: Protein Timing Myths",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 62542
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_016",
+      "published_at": "2026-03-25T21:30:00+05:30",
+      "title": "Muscle Recovery Tips After Leg Day Workout",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 10401
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_017",
+      "published_at": "2026-03-20T21:30:00+05:30",
+      "title": "Gym Nutrition Explained: Protein Timing Myths",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 38469
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_018",
+      "published_at": "2026-03-15T21:30:00+05:30",
+      "title": "Gym Workout Log Week 21 | Progressive Overload",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 77696
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_019",
+      "published_at": "2026-03-10T21:30:00+05:30",
+      "title": "Gym Workout Log Week 21 | Progressive Overload",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 30572
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_020",
+      "published_at": "2026-03-03T21:30:00+05:30",
+      "title": "Calisthenics Progress Update: 3 Months In",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 42444
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_021",
+      "published_at": "2026-02-24T21:30:00+05:30",
+      "title": "Fitness Q&A: Cardio, Macros And Bodybuilding Basics",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 34708
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_022",
+      "published_at": "2026-02-15T21:30:00+05:30",
+      "title": "Fitness Q&A: Cardio, Macros And Bodybuilding Basics",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 26735
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_023",
+      "published_at": "2026-02-11T21:30:00+05:30",
+      "title": "Muscle Recovery Tips After Leg Day Workout",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 40087
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_024",
+      "published_at": "2026-02-02T21:30:00+05:30",
+      "title": "Full Body Workout Routine For Muscle Gain",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 39043
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_025",
+      "published_at": "2026-01-28T21:30:00+05:30",
+      "title": "Fitness Q&A: Cardio, Macros And Bodybuilding Basics",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 22899
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_026",
+      "published_at": "2026-01-21T21:30:00+05:30",
+      "title": "Gym Workout Log Week 10 | Progressive Overload",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 47176
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_027",
+      "published_at": "2026-01-17T21:30:00+05:30",
+      "title": "Gym Nutrition Explained: Protein Timing Myths",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 37892
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_028",
+      "published_at": "2026-01-10T21:30:00+05:30",
+      "title": "Fitness Q&A: Cardio, Macros And Bodybuilding Basics",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 54021
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_029",
+      "published_at": "2026-01-05T21:30:00+05:30",
+      "title": "Best Protein Snacks To Keep In Your Gym Bag",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 59220
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_030",
+      "published_at": "2026-01-01T21:30:00+05:30",
+      "title": "Whey Protein Vs Plant Protein: Which Fits Your Macros?",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 90169
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_031",
+      "published_at": "2025-12-24T21:30:00+05:30",
+      "title": "Gym Nutrition Explained: Protein Timing Myths",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 50590
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_032",
+      "published_at": "2025-12-19T21:30:00+05:30",
+      "title": "High Protein Meal Prep For The Week",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 58554
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_033",
+      "published_at": "2025-12-11T21:30:00+05:30",
+      "title": "Best Protein Snacks To Keep In Your Gym Bag",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 41469
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_034",
+      "published_at": "2025-12-02T21:30:00+05:30",
+      "title": "Gym Nutrition Explained: Protein Timing Myths",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 26052
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_035",
+      "published_at": "2025-11-27T21:30:00+05:30",
+      "title": "5-Minute HIIT Workout For Busy Days",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 71319
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_036",
+      "published_at": "2025-11-20T21:30:00+05:30",
+      "title": "Calisthenics Progress Update: 21 Months In",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 34654
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_037",
+      "published_at": "2025-11-16T21:30:00+05:30",
+      "title": "High Protein Meal Prep For The Week",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 95606
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_038",
+      "published_at": "2025-11-07T21:30:00+05:30",
+      "title": "7-Minute HIIT Workout For Busy Days",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 64076
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_039",
+      "published_at": "2025-11-03T21:30:00+05:30",
+      "title": "Best Protein Snacks To Keep In Your Gym Bag",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 136584
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_040",
+      "published_at": "2025-10-26T21:30:00+05:30",
+      "title": "Muscle Recovery Tips After Leg Day Workout",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 44305
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_041",
+      "published_at": "2025-10-21T21:30:00+05:30",
+      "title": "Calisthenics Progress Update: 30 Months In",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 30703
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_042",
+      "published_at": "2025-10-17T21:30:00+05:30",
+      "title": "Best Protein Snacks To Keep In Your Gym Bag",
+      "description": "Sharing my honest gym and nutrition notes in this one.",
+      "view_count": 30595
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_043",
+      "published_at": "2025-10-13T21:30:00+05:30",
+      "title": "Full Body Workout Routine For Muscle Gain",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 54028
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_044",
+      "published_at": "2025-10-06T21:30:00+05:30",
+      "title": "Calisthenics Progress Update: 30 Months In",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 30965
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_045",
+      "published_at": "2025-09-27T21:30:00+05:30",
+      "title": "Fitness Q&A: Cardio, Macros And Bodybuilding Basics",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 35238
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_046",
+      "published_at": "2025-09-18T21:30:00+05:30",
+      "title": "Whey Protein Vs Plant Protein: Which Fits Your Macros?",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 72172
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_047",
+      "published_at": "2025-09-10T21:30:00+05:30",
+      "title": "Gym Workout Log Week 5 | Progressive Overload",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 33214
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_048",
+      "published_at": "2025-09-02T21:30:00+05:30",
+      "title": "Fitness Q&A: Cardio, Macros And Bodybuilding Basics",
+      "description": "Not sponsored. Protein and macros breakdown in the pinned comment.",
+      "view_count": 51561
+    },
+    {
+      "video_id": "MOCKCR_fitness_by_rahul_049",
+      "published_at": "2025-08-24T21:30:00+05:30",
+      "title": "Gym Nutrition Explained: Protein Timing Myths",
+      "description": "New workout videos every week, full routine linked below.",
+      "view_count": 102401
+    }
+  ]
+}

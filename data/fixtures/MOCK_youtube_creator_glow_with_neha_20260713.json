@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_glow_with_neha",
+  "channel_title": "Glow With Neha",
+  "subscribers": 1400000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_glow_with_neha_000",
+      "published_at": "2026-07-09T21:30:00+05:30",
+      "title": "Beauty Q&A: Building A Simple Skincare Routine",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 82978
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_001",
+      "published_at": "2026-07-04T21:30:00+05:30",
+      "title": "Skincare Ingredients Explained: Serum Edition",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 63868
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_002",
+      "published_at": "2026-06-25T21:30:00+05:30",
+      "title": "Sunscreen Review: Best Picks For Everyday Skin",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 30702
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_003",
+      "published_at": "2026-06-19T21:30:00+05:30",
+      "title": "Serum Vs Moisturiser: What Your Skin Actually Needs",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 55044
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_004",
+      "published_at": "2026-06-14T21:30:00+05:30",
+      "title": "Glow Up Routine: Skincare Tips That Actually Work",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 73535
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_005",
+      "published_at": "2026-06-08T21:30:00+05:30",
+      "title": "Serum Vs Moisturiser: What Your Skin Actually Needs",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 98196
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_006",
+      "published_at": "2026-06-01T21:30:00+05:30",
+      "title": "Skincare Routine Breakdown: Morning And Night",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 50058
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_007",
+      "published_at": "2026-05-28T21:30:00+05:30",
+      "title": "Skincare Ingredients Explained: Serum Edition",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 28653
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_008",
+      "published_at": "2026-05-22T21:30:00+05:30",
+      "title": "Serum Vs Moisturiser: What Your Skin Actually Needs",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 43077
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_009",
+      "published_at": "2026-05-18T21:30:00+05:30",
+      "title": "Skincare Routine Breakdown: Morning And Night",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 68931
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_010",
+      "published_at": "2026-05-11T21:30:00+05:30",
+      "title": "Beauty Haul: New Skincare And Makeup Picks",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 102590
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_011",
+      "published_at": "2026-05-02T21:30:00+05:30",
+      "title": "Glass Skin Routine: Serum And Moisturiser Guide",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 136451
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_012",
+      "published_at": "2026-04-28T21:30:00+05:30",
+      "title": "Skincare Ingredients Explained: Serum Edition",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 46613
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_013",
+      "published_at": "2026-04-19T21:30:00+05:30",
+      "title": "Glass Skin Routine: Serum And Moisturiser Guide",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 55508
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_014",
+      "published_at": "2026-04-11T21:30:00+05:30",
+      "title": "Sunscreen Review: Best Picks For Everyday Skin",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 119500
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_015",
+      "published_at": "2026-04-07T21:30:00+05:30",
+      "title": "Skincare Ingredients Explained: Serum Edition",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 37584
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_016",
+      "published_at": "2026-04-01T21:30:00+05:30",
+      "title": "Sunscreen Review: Best Picks For Everyday Skin",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 97574
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_017",
+      "published_at": "2026-03-27T21:30:00+05:30",
+      "title": "Beauty Haul: New Skincare And Makeup Picks",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 53544
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_018",
+      "published_at": "2026-03-23T21:30:00+05:30",
+      "title": "Skincare Ingredients Explained: Serum Edition",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 41711
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_019",
+      "published_at": "2026-03-17T21:30:00+05:30",
+      "title": "Skincare Ingredients Explained: Serum Edition",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 86611
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_020",
+      "published_at": "2026-03-10T21:30:00+05:30",
+      "title": "Sunscreen Review: Best Picks For Everyday Skin",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 26653
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_021",
+      "published_at": "2026-03-06T21:30:00+05:30",
+      "title": "Glass Skin Routine: Serum And Moisturiser Guide",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 51187
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_022",
+      "published_at": "2026-03-02T21:30:00+05:30",
+      "title": "Makeup Look Using Only 30 Beauty Products",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 154136
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_023",
+      "published_at": "2026-02-23T21:30:00+05:30",
+      "title": "Skincare Routine Breakdown: Morning And Night",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 40294
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_024",
+      "published_at": "2026-02-18T21:30:00+05:30",
+      "title": "Sunscreen Review: Best Picks For Everyday Skin",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 125259
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_025",
+      "published_at": "2026-02-13T21:30:00+05:30",
+      "title": "Sunscreen Review: Best Picks For Everyday Skin",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 37179
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_026",
+      "published_at": "2026-02-09T21:30:00+05:30",
+      "title": "Sunscreen Review: Best Picks For Everyday Skin",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 55536
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_027",
+      "published_at": "2026-02-03T21:30:00+05:30",
+      "title": "30-Step Skincare Routine For Glowing Skin",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 40728
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_028",
+      "published_at": "2026-01-26T21:30:00+05:30",
+      "title": "Glow Up Routine: Skincare Tips That Actually Work",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 70380
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_029",
+      "published_at": "2026-01-18T21:30:00+05:30",
+      "title": "Glass Skin Routine: Serum And Moisturiser Guide",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 60202
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_030",
+      "published_at": "2026-01-12T21:30:00+05:30",
+      "title": "Skincare Ingredients Explained: Serum Edition",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 51384
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_031",
+      "published_at": "2026-01-08T21:30:00+05:30",
+      "title": "Makeup Look Using Only 10 Beauty Products",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 39820
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_032",
+      "published_at": "2025-12-31T21:30:00+05:30",
+      "title": "Beauty Haul: New Skincare And Makeup Picks",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 29350
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_033",
+      "published_at": "2025-12-27T21:30:00+05:30",
+      "title": "Beauty Q&A: Building A Simple Skincare Routine",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 40750
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_034",
+      "published_at": "2025-12-21T21:30:00+05:30",
+      "title": "Glow Up Routine: Skincare Tips That Actually Work",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 69846
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_035",
+      "published_at": "2025-12-17T21:30:00+05:30",
+      "title": "Serum Vs Moisturiser: What Your Skin Actually Needs",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 93772
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_036",
+      "published_at": "2025-12-10T21:30:00+05:30",
+      "title": "Makeup Look Using Only 21 Beauty Products",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 67471
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_037",
+      "published_at": "2025-12-02T21:30:00+05:30",
+      "title": "Makeup Look Using Only 14 Beauty Products",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 53417
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_038",
+      "published_at": "2025-11-26T21:30:00+05:30",
+      "title": "Serum Vs Moisturiser: What Your Skin Actually Needs",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 37210
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_039",
+      "published_at": "2025-11-19T21:30:00+05:30",
+      "title": "Serum Vs Moisturiser: What Your Skin Actually Needs",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 43232
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_040",
+      "published_at": "2025-11-15T21:30:00+05:30",
+      "title": "30-Step Skincare Routine For Glowing Skin",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 95981
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_041",
+      "published_at": "2025-11-11T21:30:00+05:30",
+      "title": "Sunscreen Review: Best Picks For Everyday Skin",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 69695
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_042",
+      "published_at": "2025-11-06T21:30:00+05:30",
+      "title": "Sunscreen Review: Best Picks For Everyday Skin",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 27446
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_043",
+      "published_at": "2025-10-29T21:30:00+05:30",
+      "title": "Makeup Look Using Only 30 Beauty Products",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 56785
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_044",
+      "published_at": "2025-10-23T21:30:00+05:30",
+      "title": "Beauty Haul: New Skincare And Makeup Picks",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 110045
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_045",
+      "published_at": "2025-10-18T21:30:00+05:30",
+      "title": "Makeup Look Using Only 10 Beauty Products",
+      "description": "Full skincare routine and product list in the description.",
+      "view_count": 127737
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_046",
+      "published_at": "2025-10-13T21:30:00+05:30",
+      "title": "Skincare Routine Breakdown: Morning And Night",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 99453
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_047",
+      "published_at": "2025-10-07T21:30:00+05:30",
+      "title": "Glow Up Routine: Skincare Tips That Actually Work",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 44396
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_048",
+      "published_at": "2025-10-03T21:30:00+05:30",
+      "title": "Beauty Haul: New Skincare And Makeup Picks",
+      "description": "New skincare and beauty videos every week.",
+      "view_count": 43897
+    },
+    {
+      "video_id": "MOCKCR_glow_with_neha_049",
+      "published_at": "2025-09-28T21:30:00+05:30",
+      "title": "Sunscreen Review: Best Picks For Everyday Skin",
+      "description": "Not sponsored, this beauty haul was bought with my own money.",
+      "view_count": 43586
+    }
+  ]
+}

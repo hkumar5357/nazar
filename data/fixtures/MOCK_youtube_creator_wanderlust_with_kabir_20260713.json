@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_wanderlust_with_kabir",
+  "channel_title": "Wanderlust with Kabir",
+  "subscribers": 3100000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_000",
+      "published_at": "2026-07-08T21:30:00+05:30",
+      "title": "Backpacking Trip: Budget Travel Tips",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 270315
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_001",
+      "published_at": "2026-07-02T21:30:00+05:30",
+      "title": "Flight Booking Hacks For Budget Travel",
+      "description": "New travel and destination guides every week.",
+      "view_count": 268899
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_002",
+      "published_at": "2026-06-27T21:30:00+05:30",
+      "title": "Hyderabad Travel Vlog: 7-Day Itinerary",
+      "description": "New travel and destination guides every week.",
+      "view_count": 154417
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_003",
+      "published_at": "2026-06-23T21:30:00+05:30",
+      "title": "Roadtrip Diaries: Backpacking Through The Hills",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 114663
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_004",
+      "published_at": "2026-06-16T21:30:00+05:30",
+      "title": "Tourism Guide: 14 Places To Visit This Trip",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 162696
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_005",
+      "published_at": "2026-06-11T21:30:00+05:30",
+      "title": "Flight Booking Hacks For Budget Travel",
+      "description": "New travel and destination guides every week.",
+      "view_count": 192173
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_006",
+      "published_at": "2026-06-04T21:30:00+05:30",
+      "title": "Vacation Planning: Itinerary For A Weekend Trip",
+      "description": "New travel and destination guides every week.",
+      "view_count": 93048
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_007",
+      "published_at": "2026-05-26T21:30:00+05:30",
+      "title": "Travel Vlog: Mumbai Destination Guide",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 154522
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_008",
+      "published_at": "2026-05-20T21:30:00+05:30",
+      "title": "Bangalore Travel Vlog: 3-Day Itinerary",
+      "description": "New travel and destination guides every week.",
+      "view_count": 154207
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_009",
+      "published_at": "2026-05-14T21:30:00+05:30",
+      "title": "Travel Vlog: Pune Destination Guide",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 101900
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_010",
+      "published_at": "2026-05-05T21:30:00+05:30",
+      "title": "Tourism Guide: 5 Places To Visit This Trip",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 91811
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_011",
+      "published_at": "2026-04-27T21:30:00+05:30",
+      "title": "Mumbai Travel Vlog: 14-Day Itinerary",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 193233
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_012",
+      "published_at": "2026-04-23T21:30:00+05:30",
+      "title": "Hotel Review: Best Stays For A Vacation Destination",
+      "description": "New travel and destination guides every week.",
+      "view_count": 86102
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_013",
+      "published_at": "2026-04-16T21:30:00+05:30",
+      "title": "Vacation Planning: Itinerary For A Weekend Trip",
+      "description": "New travel and destination guides every week.",
+      "view_count": 203203
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_014",
+      "published_at": "2026-04-07T21:30:00+05:30",
+      "title": "Travel Itinerary: Roadtrip Through Pune",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 100757
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_015",
+      "published_at": "2026-03-31T21:30:00+05:30",
+      "title": "Delhi Travel Vlog: 5-Day Itinerary",
+      "description": "New travel and destination guides every week.",
+      "view_count": 171057
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_016",
+      "published_at": "2026-03-22T21:30:00+05:30",
+      "title": "Travel Itinerary: Roadtrip Through Mumbai",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 315306
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_017",
+      "published_at": "2026-03-15T21:30:00+05:30",
+      "title": "Pune Travel Vlog: 14-Day Itinerary",
+      "description": "New travel and destination guides every week.",
+      "view_count": 78098
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_018",
+      "published_at": "2026-03-09T21:30:00+05:30",
+      "title": "Vacation Vlog: Exploring A New Destination",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 114462
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_019",
+      "published_at": "2026-02-28T21:30:00+05:30",
+      "title": "Vacation Vlog: Exploring A New Destination",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 155854
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_020",
+      "published_at": "2026-02-24T21:30:00+05:30",
+      "title": "Vacation Vlog: Exploring A New Destination",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 147947
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_021",
+      "published_at": "2026-02-15T21:30:00+05:30",
+      "title": "Roadtrip Diaries: Backpacking Through The Hills",
+      "description": "New travel and destination guides every week.",
+      "view_count": 92530
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_022",
+      "published_at": "2026-02-09T21:30:00+05:30",
+      "title": "Roadtrip Diaries: Backpacking Through The Hills",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 56834
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_023",
+      "published_at": "2026-02-05T21:30:00+05:30",
+      "title": "Travel Vlog: Bangalore Destination Guide",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 299724
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_024",
+      "published_at": "2026-01-30T21:30:00+05:30",
+      "title": "Vacation Planning: Itinerary For A Weekend Trip",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 167395
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_025",
+      "published_at": "2026-01-23T21:30:00+05:30",
+      "title": "Travel Vlog: Pune Destination Guide",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 69965
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_026",
+      "published_at": "2026-01-19T21:30:00+05:30",
+      "title": "Travel Vlog: Hyderabad Destination Guide",
+      "description": "New travel and destination guides every week.",
+      "view_count": 193401
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_027",
+      "published_at": "2026-01-12T21:30:00+05:30",
+      "title": "Travel Itinerary: Roadtrip Through Bangalore",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 144862
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_028",
+      "published_at": "2026-01-08T21:30:00+05:30",
+      "title": "Vacation Vlog: Exploring A New Destination",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 118218
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_029",
+      "published_at": "2026-01-03T21:30:00+05:30",
+      "title": "Hotel Review: Best Stays For A Vacation Destination",
+      "description": "New travel and destination guides every week.",
+      "view_count": 145556
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_030",
+      "published_at": "2025-12-26T21:30:00+05:30",
+      "title": "Flight Booking Hacks For Budget Travel",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 239224
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_031",
+      "published_at": "2025-12-17T21:30:00+05:30",
+      "title": "Gurgaon Travel Vlog: 30-Day Itinerary",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 142545
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_032",
+      "published_at": "2025-12-10T21:30:00+05:30",
+      "title": "Flight Booking Hacks For Budget Travel",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 79176
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_033",
+      "published_at": "2025-12-02T21:30:00+05:30",
+      "title": "Flight Booking Hacks For Budget Travel",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 253435
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_034",
+      "published_at": "2025-11-28T21:30:00+05:30",
+      "title": "Roadtrip Diaries: Backpacking Through The Hills",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 232982
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_035",
+      "published_at": "2025-11-19T21:30:00+05:30",
+      "title": "Travel Vlog: Pune Destination Guide",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 242815
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_036",
+      "published_at": "2025-11-11T21:30:00+05:30",
+      "title": "Hyderabad Travel Vlog: 7-Day Itinerary",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 137506
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_037",
+      "published_at": "2025-11-04T21:30:00+05:30",
+      "title": "Flight Booking Hacks For Budget Travel",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 84325
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_038",
+      "published_at": "2025-10-27T21:30:00+05:30",
+      "title": "Travel Vlog: Delhi Destination Guide",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 88480
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_039",
+      "published_at": "2025-10-19T21:30:00+05:30",
+      "title": "Travel Itinerary: Roadtrip Through Hyderabad",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 278131
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_040",
+      "published_at": "2025-10-10T21:30:00+05:30",
+      "title": "Flight Booking Hacks For Budget Travel",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 97459
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_041",
+      "published_at": "2025-10-05T21:30:00+05:30",
+      "title": "Vacation Planning: Itinerary For A Weekend Trip",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 73340
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_042",
+      "published_at": "2025-09-26T21:30:00+05:30",
+      "title": "Vacation Vlog: Exploring A New Destination",
+      "description": "New travel and destination guides every week.",
+      "view_count": 146232
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_043",
+      "published_at": "2025-09-19T21:30:00+05:30",
+      "title": "Flight Booking Hacks For Budget Travel",
+      "description": "New travel and destination guides every week.",
+      "view_count": 155674
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_044",
+      "published_at": "2025-09-12T21:30:00+05:30",
+      "title": "Roadtrip Diaries: Backpacking Through The Hills",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 66974
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_045",
+      "published_at": "2025-09-05T21:30:00+05:30",
+      "title": "Mumbai Travel Vlog: 5-Day Itinerary",
+      "description": "New travel and destination guides every week.",
+      "view_count": 442878
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_046",
+      "published_at": "2025-08-29T21:30:00+05:30",
+      "title": "Bangalore Travel Vlog: 10-Day Itinerary",
+      "description": "Full itinerary and hotel details linked in the description.",
+      "view_count": 180209
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_047",
+      "published_at": "2025-08-22T21:30:00+05:30",
+      "title": "Roadtrip Diaries: Backpacking Through The Hills",
+      "description": "Self-funded trip, no sponsorship for this travel vlog.",
+      "view_count": 56292
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_048",
+      "published_at": "2025-08-17T21:30:00+05:30",
+      "title": "Roadtrip Diaries: Backpacking Through The Hills",
+      "description": "New travel and destination guides every week.",
+      "view_count": 158297
+    },
+    {
+      "video_id": "MOCKCR_wanderlust_with_kabir_049",
+      "published_at": "2025-08-12T21:30:00+05:30",
+      "title": "Flight Booking Hacks For Budget Travel",
+      "description": "New travel and destination guides every week.",
+      "view_count": 251845
+    }
+  ]
+}

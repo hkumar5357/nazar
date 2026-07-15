@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_urban_desi_vlogs",
+  "channel_title": "Urban Desi Vlogs",
+  "subscribers": 950000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_000",
+      "published_at": "2026-07-09T21:30:00+05:30",
+      "title": "Style Diaries: Fashion On A Budget",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 44804
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_001",
+      "published_at": "2026-07-01T21:30:00+05:30",
+      "title": "Weekend Lifestyle Vlog In Hyderabad",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 37671
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_002",
+      "published_at": "2026-06-25T21:30:00+05:30",
+      "title": "Lifestyle Aesthetic Vlog: Weekend Edition",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 18862
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_003",
+      "published_at": "2026-06-21T21:30:00+05:30",
+      "title": "Shopping Haul: Building A Better Wardrobe",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 39549
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_004",
+      "published_at": "2026-06-14T21:30:00+05:30",
+      "title": "Style Diaries: Fashion On A Budget",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 56624
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_005",
+      "published_at": "2026-06-07T21:30:00+05:30",
+      "title": "Weekend Lifestyle Vlog In Delhi",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 46868
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_006",
+      "published_at": "2026-05-29T21:30:00+05:30",
+      "title": "Ootd Lookbook: My Everyday Fashion Style",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 79500
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_007",
+      "published_at": "2026-05-23T21:30:00+05:30",
+      "title": "Wardrobe Rebuild: Style Tips For Beginners",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 87190
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_008",
+      "published_at": "2026-05-14T21:30:00+05:30",
+      "title": "Fashion Haul: 5 Outfits For The Season",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 39104
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_009",
+      "published_at": "2026-05-05T21:30:00+05:30",
+      "title": "A Day In My Chennai Life | Lifestyle Vlog",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 44696
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_010",
+      "published_at": "2026-04-30T21:30:00+05:30",
+      "title": "Weekend Lifestyle Vlog In Bangalore",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 25856
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_011",
+      "published_at": "2026-04-22T21:30:00+05:30",
+      "title": "Wardrobe Rebuild: Style Tips For Beginners",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 23923
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_012",
+      "published_at": "2026-04-14T21:30:00+05:30",
+      "title": "Cafe Hopping And Outfit Diaries In Gurgaon",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 19578
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_013",
+      "published_at": "2026-04-07T21:30:00+05:30",
+      "title": "A Day In My Hyderabad Life | Lifestyle Vlog",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 31835
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_014",
+      "published_at": "2026-03-29T21:30:00+05:30",
+      "title": "Wardrobe Rebuild: Style Tips For Beginners",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 36398
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_015",
+      "published_at": "2026-03-21T21:30:00+05:30",
+      "title": "Weekend Lifestyle Vlog In Gurgaon",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 28894
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_016",
+      "published_at": "2026-03-17T21:30:00+05:30",
+      "title": "A Day In My Gurgaon Life | Lifestyle Vlog",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 25565
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_017",
+      "published_at": "2026-03-08T21:30:00+05:30",
+      "title": "Ootd Lookbook: My Everyday Fashion Style",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 63568
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_018",
+      "published_at": "2026-03-03T21:30:00+05:30",
+      "title": "Cafe Hopping And Outfit Diaries In Mumbai",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 30329
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_019",
+      "published_at": "2026-02-24T21:30:00+05:30",
+      "title": "Lifestyle Aesthetic Vlog: Weekend Edition",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 70660
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_020",
+      "published_at": "2026-02-16T21:30:00+05:30",
+      "title": "Ootd Lookbook: My Everyday Fashion Style",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 44224
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_021",
+      "published_at": "2026-02-08T21:30:00+05:30",
+      "title": "Ootd Lookbook: My Everyday Fashion Style",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 7049
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_022",
+      "published_at": "2026-01-31T21:30:00+05:30",
+      "title": "Closet Essentials For A Minimal Aesthetic",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 95989
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_023",
+      "published_at": "2026-01-24T21:30:00+05:30",
+      "title": "Closet Essentials For A Minimal Aesthetic",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 69793
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_024",
+      "published_at": "2026-01-15T21:30:00+05:30",
+      "title": "Closet Essentials For A Minimal Aesthetic",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 32468
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_025",
+      "published_at": "2026-01-10T21:30:00+05:30",
+      "title": "Lifestyle Aesthetic Vlog: Weekend Edition",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 41270
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_026",
+      "published_at": "2026-01-03T21:30:00+05:30",
+      "title": "Fashion Haul: 30 Outfits For The Season",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 16512
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_027",
+      "published_at": "2025-12-29T21:30:00+05:30",
+      "title": "Wardrobe Rebuild: Style Tips For Beginners",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 38540
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_028",
+      "published_at": "2025-12-21T21:30:00+05:30",
+      "title": "Closet Essentials For A Minimal Aesthetic",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 16972
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_029",
+      "published_at": "2025-12-16T21:30:00+05:30",
+      "title": "A Day In My Kolkata Life | Lifestyle Vlog",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 21209
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_030",
+      "published_at": "2025-12-07T21:30:00+05:30",
+      "title": "Ootd Lookbook: My Everyday Fashion Style",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 12667
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_031",
+      "published_at": "2025-12-01T21:30:00+05:30",
+      "title": "Closet Essentials For A Minimal Aesthetic",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 18256
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_032",
+      "published_at": "2025-11-27T21:30:00+05:30",
+      "title": "Style Diaries: Fashion On A Budget",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 41340
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_033",
+      "published_at": "2025-11-22T21:30:00+05:30",
+      "title": "Fashion Haul: 10 Outfits For The Season",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 54993
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_034",
+      "published_at": "2025-11-16T21:30:00+05:30",
+      "title": "Weekend Lifestyle Vlog In Kolkata",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 42825
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_035",
+      "published_at": "2025-11-12T21:30:00+05:30",
+      "title": "Ootd Lookbook: My Everyday Fashion Style",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 60045
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_036",
+      "published_at": "2025-11-04T21:30:00+05:30",
+      "title": "Lifestyle Aesthetic Vlog: Weekend Edition",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 78736
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_037",
+      "published_at": "2025-10-28T21:30:00+05:30",
+      "title": "A Day In My Pune Life | Lifestyle Vlog",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 27382
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_038",
+      "published_at": "2025-10-20T21:30:00+05:30",
+      "title": "Shopping Haul: Building A Better Wardrobe",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 32315
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_039",
+      "published_at": "2025-10-11T21:30:00+05:30",
+      "title": "Ootd Lookbook: My Everyday Fashion Style",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 15966
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_040",
+      "published_at": "2025-10-04T21:30:00+05:30",
+      "title": "Cafe Hopping And Outfit Diaries In Delhi",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 39146
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_041",
+      "published_at": "2025-09-28T21:30:00+05:30",
+      "title": "Style Diaries: Fashion On A Budget",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 64930
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_042",
+      "published_at": "2025-09-21T21:30:00+05:30",
+      "title": "Cafe Hopping And Outfit Diaries In Gurgaon",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 20863
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_043",
+      "published_at": "2025-09-12T21:30:00+05:30",
+      "title": "Style Diaries: Fashion On A Budget",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 47693
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_044",
+      "published_at": "2025-09-05T21:30:00+05:30",
+      "title": "Shopping Haul: Building A Better Wardrobe",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 70638
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_045",
+      "published_at": "2025-08-27T21:30:00+05:30",
+      "title": "Cafe Hopping And Outfit Diaries In Bangalore",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 22597
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_046",
+      "published_at": "2025-08-21T21:30:00+05:30",
+      "title": "Lifestyle Aesthetic Vlog: Weekend Edition",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 19493
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_047",
+      "published_at": "2025-08-16T21:30:00+05:30",
+      "title": "Cafe Hopping And Outfit Diaries In Delhi",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 18946
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_048",
+      "published_at": "2025-08-08T21:30:00+05:30",
+      "title": "Lifestyle Aesthetic Vlog: Weekend Edition",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 71244
+    },
+    {
+      "video_id": "MOCKCR_urban_desi_vlogs_049",
+      "published_at": "2025-08-03T21:30:00+05:30",
+      "title": "A Day In My Bangalore Life | Lifestyle Vlog",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 26030
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_komal_pandey",
+  "channel_title": "Komal Pandey",
+  "subscribers": 1800000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_komal_pandey_000",
+      "published_at": "2026-07-09T21:30:00+05:30",
+      "title": "Closet Tour: My Go-To Fashion Pieces",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 69100
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_001",
+      "published_at": "2026-07-03T21:30:00+05:30",
+      "title": "Shopping Haul And Outfit Styling Session",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 60683
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_002",
+      "published_at": "2026-06-29T21:30:00+05:30",
+      "title": "Closet Tour: My Go-To Fashion Pieces",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 51515
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_003",
+      "published_at": "2026-06-23T21:30:00+05:30",
+      "title": "Building A Wardrobe On A Budget | Style Tips",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 32215
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_004",
+      "published_at": "2026-06-18T21:30:00+05:30",
+      "title": "Closet Tour: My Go-To Fashion Pieces",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 141048
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_005",
+      "published_at": "2026-06-11T21:30:00+05:30",
+      "title": "Closet Tour: My Go-To Fashion Pieces",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 67778
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_006",
+      "published_at": "2026-06-02T21:30:00+05:30",
+      "title": "Shopping Haul And Outfit Styling Session",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 100141
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_007",
+      "published_at": "2026-05-27T21:30:00+05:30",
+      "title": "Lifestyle Vlog: Fashion Week Diaries",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 225702
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_008",
+      "published_at": "2026-05-21T21:30:00+05:30",
+      "title": "Style Experiment: Reworking My Wardrobe",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 80995
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_009",
+      "published_at": "2026-05-14T21:30:00+05:30",
+      "title": "30 Outfit Ideas For A Cafe Day Out",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 207323
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_010",
+      "published_at": "2026-05-05T21:30:00+05:30",
+      "title": "Ootd Aesthetic Guide For Mumbai Weather",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 41852
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_011",
+      "published_at": "2026-04-26T21:30:00+05:30",
+      "title": "Cafe Aesthetic Outfit Of The Day",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 125799
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_012",
+      "published_at": "2026-04-17T21:30:00+05:30",
+      "title": "Style Experiment: Reworking My Wardrobe",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 91668
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_013",
+      "published_at": "2026-04-10T21:30:00+05:30",
+      "title": "Building A Wardrobe On A Budget | Style Tips",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 63168
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_014",
+      "published_at": "2026-04-01T21:30:00+05:30",
+      "title": "Style Q&A: Fashion Trends I Am Loving This Season",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 57704
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_015",
+      "published_at": "2026-03-23T21:30:00+05:30",
+      "title": "Lifestyle Vlog: Fashion Week Diaries",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 48300
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_016",
+      "published_at": "2026-03-19T21:30:00+05:30",
+      "title": "Ootd Aesthetic Guide For Mumbai Weather",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 67956
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_017",
+      "published_at": "2026-03-10T21:30:00+05:30",
+      "title": "14 Outfit Ideas For A Cafe Day Out",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 50533
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_018",
+      "published_at": "2026-03-05T21:30:00+05:30",
+      "title": "Cafe Aesthetic Outfit Of The Day",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 173524
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_019",
+      "published_at": "2026-03-01T21:30:00+05:30",
+      "title": "Closet Tour: My Go-To Fashion Pieces",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 46023
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_020",
+      "published_at": "2026-02-25T21:30:00+05:30",
+      "title": "Closet Tour: My Go-To Fashion Pieces",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 33814
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_021",
+      "published_at": "2026-02-18T21:30:00+05:30",
+      "title": "Cafe Aesthetic Outfit Of The Day",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 45473
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_022",
+      "published_at": "2026-02-09T21:30:00+05:30",
+      "title": "Style Q&A: Fashion Trends I Am Loving This Season",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 44627
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_023",
+      "published_at": "2026-01-31T21:30:00+05:30",
+      "title": "Shopping Haul And Outfit Styling Session",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 45015
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_024",
+      "published_at": "2026-01-26T21:30:00+05:30",
+      "title": "Cafe Aesthetic Outfit Of The Day",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 91631
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_025",
+      "published_at": "2026-01-21T21:30:00+05:30",
+      "title": "Building A Wardrobe On A Budget | Style Tips",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 81989
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_026",
+      "published_at": "2026-01-16T21:30:00+05:30",
+      "title": "Shopping Haul And Outfit Styling Session",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 37959
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_027",
+      "published_at": "2026-01-10T21:30:00+05:30",
+      "title": "5 Outfit Ideas For A Cafe Day Out",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 29025
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_028",
+      "published_at": "2026-01-06T21:30:00+05:30",
+      "title": "21 Outfit Ideas For A Cafe Day Out",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 66506
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_029",
+      "published_at": "2025-12-29T21:30:00+05:30",
+      "title": "Fashion Lookbook: Streetwear Meets Ethnic",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 132254
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_030",
+      "published_at": "2025-12-25T21:30:00+05:30",
+      "title": "Closet Tour: My Go-To Fashion Pieces",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 68580
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_031",
+      "published_at": "2025-12-17T21:30:00+05:30",
+      "title": "Closet Tour: My Go-To Fashion Pieces",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 27958
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_032",
+      "published_at": "2025-12-10T21:30:00+05:30",
+      "title": "21 Outfit Ideas For A Cafe Day Out",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 28882
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_033",
+      "published_at": "2025-12-01T21:30:00+05:30",
+      "title": "Shopping Haul And Outfit Styling Session",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 95560
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_034",
+      "published_at": "2025-11-27T21:30:00+05:30",
+      "title": "30 Outfit Ideas For A Cafe Day Out",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 148656
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_035",
+      "published_at": "2025-11-22T21:30:00+05:30",
+      "title": "Shopping Haul And Outfit Styling Session",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 55297
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_036",
+      "published_at": "2025-11-17T21:30:00+05:30",
+      "title": "14 Outfit Ideas For A Cafe Day Out",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 37769
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_037",
+      "published_at": "2025-11-09T21:30:00+05:30",
+      "title": "Style Experiment: Reworking My Wardrobe",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 103288
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_038",
+      "published_at": "2025-11-03T21:30:00+05:30",
+      "title": "Style Q&A: Fashion Trends I Am Loving This Season",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 111618
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_039",
+      "published_at": "2025-10-27T21:30:00+05:30",
+      "title": "Ootd Aesthetic Guide For Chennai Weather",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 63865
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_040",
+      "published_at": "2025-10-19T21:30:00+05:30",
+      "title": "Ootd Aesthetic Guide For Gurgaon Weather",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 60924
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_041",
+      "published_at": "2025-10-12T21:30:00+05:30",
+      "title": "Cafe Aesthetic Outfit Of The Day",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 100629
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_042",
+      "published_at": "2025-10-08T21:30:00+05:30",
+      "title": "Building A Wardrobe On A Budget | Style Tips",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 107893
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_043",
+      "published_at": "2025-09-30T21:30:00+05:30",
+      "title": "Cafe Aesthetic Outfit Of The Day",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 48601
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_044",
+      "published_at": "2025-09-21T21:30:00+05:30",
+      "title": "Building A Wardrobe On A Budget | Style Tips",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 25892
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_045",
+      "published_at": "2025-09-15T21:30:00+05:30",
+      "title": "Ootd Aesthetic Guide For Hyderabad Weather",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 73552
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_046",
+      "published_at": "2025-09-08T21:30:00+05:30",
+      "title": "Lifestyle Vlog: Fashion Week Diaries",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 105739
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_047",
+      "published_at": "2025-08-30T21:30:00+05:30",
+      "title": "Shopping Haul And Outfit Styling Session",
+      "description": "Not sponsored, everything shown was bought with my own money.",
+      "view_count": 42852
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_048",
+      "published_at": "2025-08-21T21:30:00+05:30",
+      "title": "Lifestyle Vlog: Fashion Week Diaries",
+      "description": "New style and lifestyle videos every week.",
+      "view_count": 112214
+    },
+    {
+      "video_id": "MOCKCR_komal_pandey_049",
+      "published_at": "2025-08-16T21:30:00+05:30",
+      "title": "Lifestyle Vlog: Fashion Week Diaries",
+      "description": "Outfit details and wardrobe links in the description below.",
+      "view_count": 133356
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "channel_id": "MOCK_UC_cafe_hopper_diaries",
+  "channel_title": "Cafe Hopper Diaries",
+  "subscribers": 510000,
+  "retrieved_at": "2026-07-13T21:30:00+05:30",
+  "provenance": "fixture",
+  "videos": [
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_000",
+      "published_at": "2026-07-11T21:30:00+05:30",
+      "title": "Weekend Cafe Vlog: Coffee And Matcha Diaries",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 59495
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_001",
+      "published_at": "2026-07-03T21:30:00+05:30",
+      "title": "Espresso Bar Review: Is The Hype Real?",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 18276
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_002",
+      "published_at": "2026-06-26T21:30:00+05:30",
+      "title": "Chai Vs Matcha Latte: Cafe Taste Test",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 16910
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_003",
+      "published_at": "2026-06-21T21:30:00+05:30",
+      "title": "Barista Made Me A Cappuccino, Honest Review",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 15335
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_004",
+      "published_at": "2026-06-15T21:30:00+05:30",
+      "title": "Weekend Cafe Vlog: Coffee And Matcha Diaries",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 15675
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_005",
+      "published_at": "2026-06-11T21:30:00+05:30",
+      "title": "Cafe Vlog: Iced Tea And Espresso Tasting Day",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 29391
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_006",
+      "published_at": "2026-06-06T21:30:00+05:30",
+      "title": "Cafe Crawl: Brew Reviews From 14 Coffee Shops",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 11527
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_007",
+      "published_at": "2026-06-02T21:30:00+05:30",
+      "title": "Cafe Vlog: Iced Tea And Espresso Tasting Day",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 181735
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_008",
+      "published_at": "2026-05-24T21:30:00+05:30",
+      "title": "Matcha Latte Taste Test: 21 Cafes Reviewed",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 12813
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_009",
+      "published_at": "2026-05-15T21:30:00+05:30",
+      "title": "Best Coffee And Matcha Spots In Mumbai",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 7147
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_010",
+      "published_at": "2026-05-09T21:30:00+05:30",
+      "title": "Chai Vs Matcha Latte: Cafe Taste Test",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 15978
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_011",
+      "published_at": "2026-05-04T21:30:00+05:30",
+      "title": "Matcha Latte Taste Test: 30 Cafes Reviewed",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 23784
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_012",
+      "published_at": "2026-04-27T21:30:00+05:30",
+      "title": "Best Coffee And Matcha Spots In Delhi",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 21454
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_013",
+      "published_at": "2026-04-20T21:30:00+05:30",
+      "title": "Cafe Hopping In Kolkata: Best Coffee Spots",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 32893
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_014",
+      "published_at": "2026-04-13T21:30:00+05:30",
+      "title": "Espresso Bar Review: Is The Hype Real?",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 24523
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_015",
+      "published_at": "2026-04-04T21:30:00+05:30",
+      "title": "Cafe Crawl: Brew Reviews From 14 Coffee Shops",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 29592
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_016",
+      "published_at": "2026-03-26T21:30:00+05:30",
+      "title": "Cafe Hopping In Delhi: Best Coffee Spots",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 40101
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_017",
+      "published_at": "2026-03-22T21:30:00+05:30",
+      "title": "Cafe Hopping In Kolkata: Best Coffee Spots",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 31146
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_018",
+      "published_at": "2026-03-17T21:30:00+05:30",
+      "title": "Cafe Crawl: Brew Reviews From 21 Coffee Shops",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 19851
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_019",
+      "published_at": "2026-03-09T21:30:00+05:30",
+      "title": "Cafe Crawl: Brew Reviews From 30 Coffee Shops",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 27389
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_020",
+      "published_at": "2026-03-05T21:30:00+05:30",
+      "title": "Chai Vs Matcha Latte: Cafe Taste Test",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 20625
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_021",
+      "published_at": "2026-02-25T21:30:00+05:30",
+      "title": "New Cafe Alert In Gurgaon | Coffee Vlog",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 21779
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_022",
+      "published_at": "2026-02-16T21:30:00+05:30",
+      "title": "Barista Made Me A Cappuccino, Honest Review",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 35141
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_023",
+      "published_at": "2026-02-12T21:30:00+05:30",
+      "title": "Best Coffee And Matcha Spots In Pune",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 42086
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_024",
+      "published_at": "2026-02-08T21:30:00+05:30",
+      "title": "Weekend Cafe Vlog: Coffee And Matcha Diaries",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 24075
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_025",
+      "published_at": "2026-02-01T21:30:00+05:30",
+      "title": "Cafe Vlog: Iced Tea And Espresso Tasting Day",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 24600
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_026",
+      "published_at": "2026-01-24T21:30:00+05:30",
+      "title": "Barista Made Me A Cappuccino, Honest Review",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 12273
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_027",
+      "published_at": "2026-01-19T21:30:00+05:30",
+      "title": "Cafe Vlog: Iced Tea And Espresso Tasting Day",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 14663
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_028",
+      "published_at": "2026-01-11T21:30:00+05:30",
+      "title": "Cafe Hopping In Chennai: Best Coffee Spots",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 27600
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_029",
+      "published_at": "2026-01-05T21:30:00+05:30",
+      "title": "New Cafe Alert In Mumbai | Coffee Vlog",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 21841
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_030",
+      "published_at": "2025-12-29T21:30:00+05:30",
+      "title": "Chai Vs Matcha Latte: Cafe Taste Test",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 22788
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_031",
+      "published_at": "2025-12-21T21:30:00+05:30",
+      "title": "Weekend Cafe Vlog: Coffee And Matcha Diaries",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 32999
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_032",
+      "published_at": "2025-12-13T21:30:00+05:30",
+      "title": "Chai Vs Matcha Latte: Cafe Taste Test",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 40419
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_033",
+      "published_at": "2025-12-04T21:30:00+05:30",
+      "title": "New Cafe Alert In Kolkata | Coffee Vlog",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 62440
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_034",
+      "published_at": "2025-11-25T21:30:00+05:30",
+      "title": "Espresso Bar Review: Is The Hype Real?",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 44071
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_035",
+      "published_at": "2025-11-20T21:30:00+05:30",
+      "title": "Espresso Bar Review: Is The Hype Real?",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 33561
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_036",
+      "published_at": "2025-11-14T21:30:00+05:30",
+      "title": "Best Coffee And Matcha Spots In Hyderabad",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 18569
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_037",
+      "published_at": "2025-11-08T21:30:00+05:30",
+      "title": "Best Coffee And Matcha Spots In Pune",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 28019
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_038",
+      "published_at": "2025-11-04T21:30:00+05:30",
+      "title": "Espresso Bar Review: Is The Hype Real?",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 19800
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_039",
+      "published_at": "2025-10-28T21:30:00+05:30",
+      "title": "Best Coffee And Matcha Spots In Pune",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 44057
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_040",
+      "published_at": "2025-10-24T21:30:00+05:30",
+      "title": "Weekend Cafe Vlog: Coffee And Matcha Diaries",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 10184
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_041",
+      "published_at": "2025-10-16T21:30:00+05:30",
+      "title": "Espresso Bar Review: Is The Hype Real?",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 43958
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_042",
+      "published_at": "2025-10-12T21:30:00+05:30",
+      "title": "Weekend Cafe Vlog: Coffee And Matcha Diaries",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 25855
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_043",
+      "published_at": "2025-10-03T21:30:00+05:30",
+      "title": "Cafe Hopping In Kolkata: Best Coffee Spots",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 12638
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_044",
+      "published_at": "2025-09-26T21:30:00+05:30",
+      "title": "Weekend Cafe Vlog: Coffee And Matcha Diaries",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 16267
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_045",
+      "published_at": "2025-09-21T21:30:00+05:30",
+      "title": "Cafe Crawl: Brew Reviews From 30 Coffee Shops",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 16682
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_046",
+      "published_at": "2025-09-17T21:30:00+05:30",
+      "title": "Cafe Hopping In Kolkata: Best Coffee Spots",
+      "description": "Cafe location and menu details in the description below.",
+      "view_count": 19357
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_047",
+      "published_at": "2025-09-11T21:30:00+05:30",
+      "title": "Best Coffee And Matcha Spots In Delhi",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 25789
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_048",
+      "published_at": "2025-09-02T21:30:00+05:30",
+      "title": "Chai Vs Matcha Latte: Cafe Taste Test",
+      "description": "Paid for this visit myself, honest matcha and coffee review.",
+      "view_count": 24098
+    },
+    {
+      "video_id": "MOCKCR_cafe_hopper_diaries_049",
+      "published_at": "2025-08-28T21:30:00+05:30",
+      "title": "Weekend Cafe Vlog: Coffee And Matcha Diaries",
+      "description": "New cafe vlog every week, tell me which spot to try next.",
+      "view_count": 45453
+    }
+  ]
+}
