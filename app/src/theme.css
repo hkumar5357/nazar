@@ -1,0 +1,89 @@
+/* NAZAR identity — dark indigo, warm amber. Single deliberate dark theme.
+ *
+ * Chart mark colors were validated with the six-check palette validator
+ * against surface #1a1d3f (OKLCH dark band L 0.48–0.67, chroma ≥ 0.10,
+ * CVD separation, ≥3:1 contrast):
+ *   intent series  #c98500 / #199e70 / #9085e9      → ALL PASS
+ *   state palette  #c98500 #d95926 #9085e9 #199e70 #5f6bb3 → PASS with one
+ *   WARN (amber↔orange ΔE 11.4 deutan, floor band) — legal because every
+ *   radar dot always carries a direct text label (secondary encoding).
+ * Brand amber #f0a830 is UI chrome (wordmark, accents, banner), not a mark.
+ */
+
+:root {
+  --bg: #12142e;
+  --surface: #1a1d3f;
+  --surface-2: #232752;
+  --line: rgba(255, 255, 255, 0.08);
+
+  --ink: #eef0ff;
+  --ink-2: #b9bede;
+  --muted: #8a8fb8;
+
+  --amber: #f0a830; /* brand accent — UI chrome only */
+  --amber-soft: rgba(240, 168, 48, 0.14);
+
+  /* chart marks (validated) */
+  --mark-amber: #c98500;
+  --mark-teal: #199e70;
+  --mark-violet: #9085e9;
+  --mark-orange: #d95926;
+  --mark-slate: #5f6bb3;
+
+  /* lifecycle states — fixed assignment, never cycled */
+  --state-emerging: var(--mark-teal);
+  --state-heating: var(--mark-amber);
+  --state-peaked: var(--mark-orange);
+  --state-mature: var(--mark-violet);
+  --state-undetermined: var(--mark-slate);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    "Noto Sans", "Noto Sans Devanagari", "Devanagari MT", sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+a {
+  color: var(--amber);
+}
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  font-weight: 600;
+  border: 1px solid var(--line);
+}
