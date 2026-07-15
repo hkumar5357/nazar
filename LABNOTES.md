@@ -189,3 +189,18 @@ the amber/orange CVD floor pair), a flag label moved from a mark color
 to an ink token, and the intent-split chart moved from whipsawing
 weekly shares to honest 4-week-bucket sums (stated on its axis).
 `vite build` clean. Tag: m4-app — two days ahead of the Friday target.
+
+**M5, same session — final verification.** Clean clone from GitHub into a
+scratch dir: 168/168 tests, backtest byte-identical (sha256), npm ci +
+build clean. verify_protocol_order.sh written and all-green (first
+commit = PROTOCOL.md alone; all demo scoring postdates m1-freeze; no
+secret patterns anywhere in history) — one honest wrinkle: the script's
+first version flagged the scaffold commit because pipeline/backtest.py
+existed pre-freeze as a docstring stub; the check now verifies the
+pre-freeze file contained no scoring logic, which is the actual claim.
+Honest costs: 7.5 hours, ₹0 API spend (nothing paid has been called).
+Label QA remains key-blocked by design. Tag: m5-final. The repo is
+demo-ready; the keys-arrival playbook is in CHECKPOINTS M5. Remaining
+known debts: intent labels + creator affinity are fixture-backed until
+keys land, and the three demo trends currently sit in undetermined —
+both shown honestly in the app rather than papered over.

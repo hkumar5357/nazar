@@ -183,3 +183,46 @@ months got a shape cue; flag label moved to an ink token).
 
 **Next (M5).** Clean-clone reproduction, README final, secrets sweep,
 honest costs, DoD checklist.
+
+---
+
+## M5 — Final verification (`m5-final`) — 2026-07-15
+
+**Clean-clone proof (the DoD centerpiece):** fresh `git clone` from GitHub
+into a scratch directory → README steps verbatim → **168/168 tests pass →
+`python -m pipeline.backtest` reproduces all four committed artifacts
+byte-for-byte (sha256 diff empty) → `npm ci && npm run build` clean.**
+
+**Git-history verification** (`scripts/verify_protocol_order.sh`, all PASS):
+first commit contains only PROTOCOL.md; `m1-freeze` exists; every commit
+touching demo-scoring outputs or code postdates the freeze; no secret
+patterns in any blob in history.
+
+**Definition of done (BRIEF §8), honest per-item status:**
+- ✅ Clean clone reproduces every number and chart from committed data.
+- ✅ All five screens working locally. ⚠ Two slices (intent labels, creator
+  affinity) still run on provenance-marked fixtures pending API keys — they
+  are bannered "FIXTURE DATA — NOT REAL" in the app and `export --final`
+  refuses them; nothing fixture-derived is presented as real. All
+  Trends-derived numbers are real.
+- ✅ `runs/` holds the full history including failures (the 429-exhausted
+  pull, the refused `--final` export, every calibration run).
+- ✅ LABNOTES complete through M5; PROTOCOL amendments A1–A5 dated and
+  reasoned.
+- ✅ No secrets in git history; `.env.example` documented.
+- ⏳ Label QA sample + agreement rate: blocked on the LLM key by design —
+  the generator refuses to QA heuristic placeholders as if they were the
+  model. Runs the moment real labels exist.
+- ✅ Honest costs: 7.5 build hours (git-timestamp session spans), API spend
+  ₹0 so far (`data/costs.json`; the labeler already meters tokens for the
+  future LLM cost line).
+
+**When keys arrive (the standing playbook):** real Reddit/YouTube pulls →
+re-calibrate on multi-source real data (if cutoffs change: new freeze file +
+dated amendment + `m1-freeze-real` tag) → rerun backtest → real LLM labels +
+50-item QA sample for hand-checking → affinity on real creator data
+(validation pairs re-checked) → `export --final` must pass → rerun
+`verify_protocol_order.sh` and the clean-clone check → update costs.
+
+Repo is demo-ready as of Wed Jul 15 — three days ahead of the Sat Jul 18
+video. (Video script, PDF, email are outside this repo per BRIEF §9.)
