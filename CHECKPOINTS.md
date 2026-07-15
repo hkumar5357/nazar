@@ -144,3 +144,42 @@ fixtures verified byte-identical.
 
 **Next (M4).** Five-screen dashboard reading only committed
 `app/public/data/*.json`.
+
+---
+
+## M4 — Dashboard (`m4-app`) — 2026-07-15
+
+All five screens live, reading ONLY committed `app/public/data/*.json`
+(`npm ci && npm run dev`; `vite build` passes). Dark-indigo/amber NAZAR
+identity; chart colors machine-validated against the dark surface (six-check
+palette validator; notes in `app/src/theme.css`).
+
+- **Radar** — five state lanes, dots by current state (all three honestly in
+  Dormant/Undetermined today), velocity as vertical position, breadth as
+  size, full feature tooltip; 19-month walk-forward strip per trend (circles
+  mark Heating months — a non-color cue); the calibration note is always
+  visible.
+- **Golden Thread** — the money shot: weekly composite 2022→2026 with amber
+  Heating-flag dots, the conservative first-in-window flag line, three event
+  markers, and lead badges (345/382/471 days) with the censoring caveat in
+  plain text. Below: café-vs-CPG intent shares in honest 4-week buckets
+  (binning stated on the axis), inline fixture chip, whitespace annotation
+  (~9%→~16%) computed from the data, with an automatic honest-opposite
+  branch if the shift disappears.
+- **Map** — ranked affinity board per trend, control creators marked, both
+  A3 validation checks rendered with PASS badges, fixture chip.
+- **Math** — 9 sliders with benchmark source notes, live client-side
+  recompute (verified by hand: ₹150→₹180 gives contribution ₹64→₹85), the
+  permanent not-a-forecast banner, and a self-check against the three
+  pipeline reference scenarios (rendered green today; renders an error panel
+  if client and pipeline math ever drift).
+- **Protocol** — frozen thresholds card with rationale, honest empty states
+  for Label QA and costs, the coverage table with FIXTURE badges, and the
+  full PROTOCOL.md (including amendments A1–A5) rendered.
+
+Verified in-browser: all screens screenshot-checked, zero console errors,
+tab nav, slider reactivity, tooltips. Craft-review findings fixed (Heating
+months got a shape cue; flag label moved to an ink token).
+
+**Next (M5).** Clean-clone reproduction, README final, secrets sweep,
+honest costs, DoD checklist.

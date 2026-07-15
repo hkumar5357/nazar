@@ -174,3 +174,18 @@ benchmarks_note. 168 tests passing. No LLM/YouTube keys yet: labels are
 heuristic (h1) and creator data is fixtures — every downstream artifact
 carries contains_fixture_data: true and the QA sample generator refuses
 to run until real labels exist.
+
+**M4, same session — dashboard shipped.** React+TS+Vite, five screens,
+committed-JSON only. Chart palette chosen by running the six-check
+validator against the dark surface (first candidates FAILED the dark
+lightness band and chroma floor; final marks are darker steps, notes in
+theme.css). Screen-by-screen browser verification with screenshots:
+radar lanes with all three trends honestly in Dormant/Undetermined, the
+money-shot chart with heating-flag dots and event markers, slider
+recompute hand-checked (price 180 → contribution 85), both validation
+PASSes rendered, protocol + amendments legible. Post-review fixes:
+heating months in the 19-month strip became circles (non-color cue for
+the amber/orange CVD floor pair), a flag label moved from a mark color
+to an ink token, and the intent-split chart moved from whipsawing
+weekly shares to honest 4-week-bucket sums (stated on its axis).
+`vite build` clean. Tag: m4-app — two days ahead of the Friday target.
