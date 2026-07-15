@@ -12,21 +12,25 @@ at-home/CPG intent); the lifecycle judgment is math, not a model's opinion.
 code, as this repo's first commit — that commit date is the pre-registration
 timestamp. Every deviation since is a dated amendment in its §7.
 
-> Status: under construction. This README's reproduction steps are finalized at
-> milestone `m5-final`.
-
-## Reproduce
+## Reproduce (clean clone → every number)
 
 ```bash
 python3 -m venv venv && ./venv/bin/pip install -r requirements.txt
-./venv/bin/python -m pipeline.backtest   # walk-forward backtest from committed data
-cd app && npm ci && npm run dev          # dashboard (reads committed JSON only)
+./venv/bin/pytest tests/ -q              # 168 tests: freeze guard, no-lookahead, provenance
+./venv/bin/python -m pipeline.backtest   # walk-forward backtest — reproduces data/backtest/*.json byte-for-byte
+./venv/bin/python -m pipeline.export     # refresh app/public/data (--final refuses fixture-derived data)
+cd app && npm ci && npm run dev          # dashboard at localhost:5173 (reads committed JSON only)
 ```
+
+Verify the pre-registration ordering and secrets hygiene straight from git
+history: `./scripts/verify_protocol_order.sh`.
 
 API keys are optional for reproduction: all charts render from committed data in
 `data/` and `app/public/data/`. To run fresh ingestion, copy `.env.example` to
-`.env` and fill in keys. Without keys, keyed sources fall back to `MOCK_*`
-fixtures which are clearly marked and never presented as real (see BRIEF.md).
+`.env` and fill in keys (`TRENDS_BACKEND=trendspy` is a working fallback when
+pytrends hits 429s). Without keys, keyed sources fall back to `MOCK_*` fixtures
+which are provenance-stamped, bannered in the app, and never presented as real
+(see BRIEF.md and Amendment log in PROTOCOL.md §7).
 
 ## Repo map
 

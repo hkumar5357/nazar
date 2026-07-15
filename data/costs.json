@@ -1,0 +1,6 @@
+{
+  "build_hours": 7.5,
+  "api_spend_inr": 0,
+  "notes": "Hours = wall-clock spans of the three build sessions, from git commit timestamps (Sun 12 Jul evening ~4h incl. after-midnight commits; Mon 13 Jul evening ~1h; Wed 15 Jul morning ~2.5h incl. M5 verification). Rate-limit backoffs and data pulls ran unattended and are not counted. API spend is genuinely zero so far: Google Trends is keyless and free, and no LLM/YouTube/Reddit call has been made (keys pending; labels are keyword-heuristic placeholders, clearly marked). When the LLM key arrives, real labeling cost will be computed from the cached per-item token counts and added here with a dated note.",
+  "as_of": "2026-07-15"
+}
