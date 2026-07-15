@@ -1,0 +1,25 @@
+{
+  "command": "launch_math",
+  "notes": "parameterized RTD-matcha launch-economics simulator (BRIEF §5.6)",
+  "started_at": "2026-07-15T09:18:13.995190+05:30",
+  "finished_at": "2026-07-15T09:18:14.010899+05:30",
+  "git_commit": "e30750f54ee9f4143c8e4c42200a09734236836b",
+  "config_hash": "36b688840c95db92d739633868079bc87f056b4397360945ca90e47f5affb1e5",
+  "thresholds_frozen": true,
+  "inputs": [],
+  "outputs": [
+    {
+      "path": "app/public/data/launch_math.json",
+      "sha256": "969366d23ee447af4b2b6537ade8ed1b8e13c6bf128fb5388ed581ff6eec7293"
+    }
+  ],
+  "extra": {
+    "reference_scenarios": [
+      "defaults",
+      "lean",
+      "favourable"
+    ]
+  },
+  "status": "ok",
+  "error": null
+}

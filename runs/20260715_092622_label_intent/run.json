@@ -1,0 +1,56 @@
+{
+  "command": "label_intent",
+  "notes": "trend=matcha",
+  "started_at": "2026-07-15T09:26:22.346647+05:30",
+  "finished_at": "2026-07-15T09:26:22.520100+05:30",
+  "git_commit": "e30750f54ee9f4143c8e4c42200a09734236836b",
+  "config_hash": "36b688840c95db92d739633868079bc87f056b4397360945ca90e47f5affb1e5",
+  "thresholds_frozen": true,
+  "inputs": [
+    {
+      "path": "data/fixtures/MOCK_reddit_matcha_20260712.json",
+      "sha256": "ad6ea75249f0eb5930071038aaf53be9a1856f01cc17ba30064fa8af0303559c"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_matcha_20260712.json",
+      "sha256": "e003867838d518ee5ce7653c9863bc0046b88ed4f54019f970bad035cde1f7c4"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "data/labels/intent_matcha_reddit.jsonl",
+      "sha256": "037daad8a8f147f413bfd36610344c8a134491a74dab51085723460439a3117c"
+    },
+    {
+      "path": "data/labels/intent_matcha_youtube.jsonl",
+      "sha256": "d618dff0949bb2d2c1f130e76cd45a0354a6ac5ae6247ceb56b54ad0dfb48d65"
+    },
+    {
+      "path": "data/labels/intent_split_matcha.json",
+      "sha256": "70ff06bc0248b756f66bfa4a8d865cbb9444044f4a95a3debaa68588c5532445"
+    }
+  ],
+  "extra": {
+    "labeled_reddit": {
+      "trend": "matcha",
+      "source": "reddit",
+      "method": "heuristic",
+      "items_total": 2186,
+      "items_new": 2186,
+      "calls_made": 0
+    },
+    "labeled_youtube": {
+      "trend": "matcha",
+      "source": "youtube",
+      "method": "heuristic",
+      "items_total": 718,
+      "items_new": 718,
+      "calls_made": 0
+    },
+    "method_used": "heuristic",
+    "label_provenance": "fixture_heuristic",
+    "weeks": 235
+  },
+  "status": "ok",
+  "error": null
+}

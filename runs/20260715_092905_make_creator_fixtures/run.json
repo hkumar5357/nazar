@@ -1,0 +1,76 @@
+{
+  "command": "make_creator_fixtures",
+  "notes": "MOCK_ creator fixtures, seed=20260713",
+  "started_at": "2026-07-15T09:29:05.780346+05:30",
+  "finished_at": "2026-07-15T09:29:05.809327+05:30",
+  "git_commit": "e30750f54ee9f4143c8e4c42200a09734236836b",
+  "config_hash": "36b688840c95db92d739633868079bc87f056b4397360945ca90e47f5affb1e5",
+  "thresholds_frozen": true,
+  "inputs": [],
+  "outputs": [
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_fit_tuber_20260713.json",
+      "sha256": "5d46207452cbd0b22fcb2ae98c845d79d2357720f9199822af5594adc8073764"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_bake_with_shivesh_20260713.json",
+      "sha256": "7ea85a9074307f15869b3748306f6645b612790a8beecba6976c72dc33ec69dc"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_your_food_lab_20260713.json",
+      "sha256": "4161a19ae58b988556aeb672d8cb1e10494957aa533ec4bfbeeab0eb92c027fd"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_kritika_khurana_20260713.json",
+      "sha256": "7c789ad0424c09fcf004dc0825170900f08448ca2aded10c7a0afe00fef4f6ab"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_komal_pandey_20260713.json",
+      "sha256": "78974eef043b14e4d61d769f2867f607f56b9015de14fee1622dc1cc1dcfef42"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_technical_guruji_20260713.json",
+      "sha256": "4ffaa6791b68ad4060dc1af734c3da58f7a3af1badf7d01c3be5052dace51ac5"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_geeky_ranjit_20260713.json",
+      "sha256": "e351f08992763ecc9021f4ce1a0cad939cdabc422abc06244c3c23e2b9eac647"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_fitness_by_rahul_20260713.json",
+      "sha256": "f5de74ca4cefac89bcc6c1f8489dd20b06f151692697e46e7f8f650fdbefa88d"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_yoga_with_anjali_20260713.json",
+      "sha256": "2b3b5f38912313d7f0b71f1359fc5a5a3296a5b5e23a4a1d407b9733ebc21b5e"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_cafe_hopper_diaries_20260713.json",
+      "sha256": "ec3fc51aad56020421b5da84d2eb4d76214aa38f83d0f613cb5839be56db6a4e"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_glow_with_neha_20260713.json",
+      "sha256": "d89cd155c1b8012316ed07c6e9b14919e59bba3c4bae143aa871c82fda3ffd59"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_wanderlust_with_kabir_20260713.json",
+      "sha256": "12df688b0642f839f2abb4e90183859cd160f43c5b00513fd249aaba719d94bb"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_desi_binge_reacts_20260713.json",
+      "sha256": "c263c1ed9454940fc69f90ee8b41885010b14bc698e36e576bdaeaa23d5284fa"
+    },
+    {
+      "path": "data/fixtures/MOCK_youtube_creator_urban_desi_vlogs_20260713.json",
+      "sha256": "ba6a6bb7bfe26255642a7a8731db3d665143f66971086664c2a30c9d6947b1ef"
+    }
+  ],
+  "extra": {
+    "seed": 20260713,
+    "retrieved_at": "2026-07-13T21:30:00+05:30",
+    "n_videos_per_creator": 50,
+    "total_videos": 700
+  },
+  "status": "ok",
+  "error": null
+}

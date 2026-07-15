@@ -1,0 +1,1425 @@
+{
+  "trend": "matcha",
+  "weekly": [
+    {
+      "week": "2022-01-02",
+      "cafe_experience": 0,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2022-01-09",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 0
+    },
+    {
+      "week": "2022-01-16",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-01-23",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-01-30",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2022-02-06",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2022-02-13",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-02-20",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-02-27",
+      "cafe_experience": 1,
+      "home_or_CPG": 1,
+      "other": 3
+    },
+    {
+      "week": "2022-03-06",
+      "cafe_experience": 3,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-03-13",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2022-03-20",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-03-27",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2022-04-03",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2022-04-10",
+      "cafe_experience": 2,
+      "home_or_CPG": 2,
+      "other": 2
+    },
+    {
+      "week": "2022-04-17",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2022-04-24",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 3
+    },
+    {
+      "week": "2022-05-01",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2022-05-08",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2022-05-15",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2022-05-22",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2022-05-29",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-06-05",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2022-06-12",
+      "cafe_experience": 3,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2022-06-19",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-06-26",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2022-07-03",
+      "cafe_experience": 0,
+      "home_or_CPG": 0,
+      "other": 3
+    },
+    {
+      "week": "2022-07-10",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-07-17",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2022-07-24",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 3
+    },
+    {
+      "week": "2022-07-31",
+      "cafe_experience": 3,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-08-07",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 3
+    },
+    {
+      "week": "2022-08-14",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-08-21",
+      "cafe_experience": 0,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-08-28",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2022-09-04",
+      "cafe_experience": 1,
+      "home_or_CPG": 2,
+      "other": 4
+    },
+    {
+      "week": "2022-09-11",
+      "cafe_experience": 4,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2022-09-18",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-09-25",
+      "cafe_experience": 3,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2022-10-02",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-10-09",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 0
+    },
+    {
+      "week": "2022-10-16",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2022-10-23",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 4
+    },
+    {
+      "week": "2022-10-30",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2022-11-06",
+      "cafe_experience": 3,
+      "home_or_CPG": 2,
+      "other": 1
+    },
+    {
+      "week": "2022-11-13",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2022-11-20",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2022-11-27",
+      "cafe_experience": 1,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2022-12-04",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2022-12-11",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2022-12-18",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 4
+    },
+    {
+      "week": "2022-12-25",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2023-01-01",
+      "cafe_experience": 4,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2023-01-08",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2023-01-15",
+      "cafe_experience": 1,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2023-01-22",
+      "cafe_experience": 0,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2023-01-29",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 4
+    },
+    {
+      "week": "2023-02-12",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 7
+    },
+    {
+      "week": "2023-02-19",
+      "cafe_experience": 1,
+      "home_or_CPG": 1,
+      "other": 4
+    },
+    {
+      "week": "2023-02-26",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2023-03-05",
+      "cafe_experience": 1,
+      "home_or_CPG": 2,
+      "other": 2
+    },
+    {
+      "week": "2023-03-12",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2023-03-19",
+      "cafe_experience": 2,
+      "home_or_CPG": 2,
+      "other": 1
+    },
+    {
+      "week": "2023-03-26",
+      "cafe_experience": 0,
+      "home_or_CPG": 2,
+      "other": 1
+    },
+    {
+      "week": "2023-04-02",
+      "cafe_experience": 0,
+      "home_or_CPG": 0,
+      "other": 4
+    },
+    {
+      "week": "2023-04-09",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 3
+    },
+    {
+      "week": "2023-04-16",
+      "cafe_experience": 0,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2023-04-23",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2023-04-30",
+      "cafe_experience": 0,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2023-05-07",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2023-05-14",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2023-05-21",
+      "cafe_experience": 3,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2023-05-28",
+      "cafe_experience": 1,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2023-06-04",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2023-06-11",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2023-06-18",
+      "cafe_experience": 1,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2023-06-25",
+      "cafe_experience": 0,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2023-07-02",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2023-07-09",
+      "cafe_experience": 1,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2023-07-16",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2023-07-23",
+      "cafe_experience": 3,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2023-07-30",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 3
+    },
+    {
+      "week": "2023-08-06",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 3
+    },
+    {
+      "week": "2023-08-13",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 0
+    },
+    {
+      "week": "2023-08-20",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2023-08-27",
+      "cafe_experience": 0,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2023-09-03",
+      "cafe_experience": 3,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2023-09-10",
+      "cafe_experience": 1,
+      "home_or_CPG": 1,
+      "other": 3
+    },
+    {
+      "week": "2023-09-17",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 3
+    },
+    {
+      "week": "2023-09-24",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2023-10-01",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2023-10-08",
+      "cafe_experience": 2,
+      "home_or_CPG": 2,
+      "other": 2
+    },
+    {
+      "week": "2023-10-15",
+      "cafe_experience": 0,
+      "home_or_CPG": 0,
+      "other": 3
+    },
+    {
+      "week": "2023-10-22",
+      "cafe_experience": 0,
+      "home_or_CPG": 0,
+      "other": 3
+    },
+    {
+      "week": "2023-10-29",
+      "cafe_experience": 6,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2023-11-05",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 4
+    },
+    {
+      "week": "2023-11-12",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 0
+    },
+    {
+      "week": "2023-11-19",
+      "cafe_experience": 0,
+      "home_or_CPG": 1,
+      "other": 6
+    },
+    {
+      "week": "2023-11-26",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 3
+    },
+    {
+      "week": "2023-12-03",
+      "cafe_experience": 4,
+      "home_or_CPG": 1,
+      "other": 4
+    },
+    {
+      "week": "2023-12-10",
+      "cafe_experience": 5,
+      "home_or_CPG": 0,
+      "other": 1
+    },
+    {
+      "week": "2023-12-17",
+      "cafe_experience": 2,
+      "home_or_CPG": 2,
+      "other": 2
+    },
+    {
+      "week": "2023-12-24",
+      "cafe_experience": 3,
+      "home_or_CPG": 2,
+      "other": 3
+    },
+    {
+      "week": "2023-12-31",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2024-01-07",
+      "cafe_experience": 4,
+      "home_or_CPG": 1,
+      "other": 0
+    },
+    {
+      "week": "2024-01-14",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2024-01-21",
+      "cafe_experience": 5,
+      "home_or_CPG": 2,
+      "other": 1
+    },
+    {
+      "week": "2024-01-28",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2024-02-04",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 4
+    },
+    {
+      "week": "2024-02-11",
+      "cafe_experience": 4,
+      "home_or_CPG": 1,
+      "other": 1
+    },
+    {
+      "week": "2024-02-18",
+      "cafe_experience": 5,
+      "home_or_CPG": 1,
+      "other": 3
+    },
+    {
+      "week": "2024-02-25",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2024-03-03",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 8
+    },
+    {
+      "week": "2024-03-10",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 2
+    },
+    {
+      "week": "2024-03-17",
+      "cafe_experience": 1,
+      "home_or_CPG": 1,
+      "other": 6
+    },
+    {
+      "week": "2024-03-24",
+      "cafe_experience": 5,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2024-03-31",
+      "cafe_experience": 0,
+      "home_or_CPG": 0,
+      "other": 6
+    },
+    {
+      "week": "2024-04-07",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 5
+    },
+    {
+      "week": "2024-04-14",
+      "cafe_experience": 1,
+      "home_or_CPG": 1,
+      "other": 5
+    },
+    {
+      "week": "2024-04-21",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 2
+    },
+    {
+      "week": "2024-04-28",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 3
+    },
+    {
+      "week": "2024-05-05",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 4
+    },
+    {
+      "week": "2024-05-12",
+      "cafe_experience": 5,
+      "home_or_CPG": 2,
+      "other": 9
+    },
+    {
+      "week": "2024-05-19",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 8
+    },
+    {
+      "week": "2024-05-26",
+      "cafe_experience": 5,
+      "home_or_CPG": 1,
+      "other": 4
+    },
+    {
+      "week": "2024-06-02",
+      "cafe_experience": 5,
+      "home_or_CPG": 0,
+      "other": 4
+    },
+    {
+      "week": "2024-06-09",
+      "cafe_experience": 3,
+      "home_or_CPG": 0,
+      "other": 4
+    },
+    {
+      "week": "2024-06-16",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 7
+    },
+    {
+      "week": "2024-06-23",
+      "cafe_experience": 1,
+      "home_or_CPG": 0,
+      "other": 6
+    },
+    {
+      "week": "2024-06-30",
+      "cafe_experience": 7,
+      "home_or_CPG": 0,
+      "other": 4
+    },
+    {
+      "week": "2024-07-07",
+      "cafe_experience": 5,
+      "home_or_CPG": 2,
+      "other": 8
+    },
+    {
+      "week": "2024-07-14",
+      "cafe_experience": 3,
+      "home_or_CPG": 3,
+      "other": 2
+    },
+    {
+      "week": "2024-07-21",
+      "cafe_experience": 0,
+      "home_or_CPG": 2,
+      "other": 13
+    },
+    {
+      "week": "2024-07-28",
+      "cafe_experience": 3,
+      "home_or_CPG": 3,
+      "other": 3
+    },
+    {
+      "week": "2024-08-04",
+      "cafe_experience": 0,
+      "home_or_CPG": 3,
+      "other": 4
+    },
+    {
+      "week": "2024-08-11",
+      "cafe_experience": 0,
+      "home_or_CPG": 0,
+      "other": 9
+    },
+    {
+      "week": "2024-08-18",
+      "cafe_experience": 5,
+      "home_or_CPG": 1,
+      "other": 6
+    },
+    {
+      "week": "2024-08-25",
+      "cafe_experience": 4,
+      "home_or_CPG": 1,
+      "other": 6
+    },
+    {
+      "week": "2024-09-01",
+      "cafe_experience": 5,
+      "home_or_CPG": 1,
+      "other": 6
+    },
+    {
+      "week": "2024-09-08",
+      "cafe_experience": 5,
+      "home_or_CPG": 3,
+      "other": 4
+    },
+    {
+      "week": "2024-09-15",
+      "cafe_experience": 7,
+      "home_or_CPG": 2,
+      "other": 5
+    },
+    {
+      "week": "2024-09-22",
+      "cafe_experience": 3,
+      "home_or_CPG": 0,
+      "other": 5
+    },
+    {
+      "week": "2024-09-29",
+      "cafe_experience": 4,
+      "home_or_CPG": 2,
+      "other": 4
+    },
+    {
+      "week": "2024-10-06",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 8
+    },
+    {
+      "week": "2024-10-13",
+      "cafe_experience": 4,
+      "home_or_CPG": 2,
+      "other": 5
+    },
+    {
+      "week": "2024-10-20",
+      "cafe_experience": 7,
+      "home_or_CPG": 1,
+      "other": 7
+    },
+    {
+      "week": "2024-10-27",
+      "cafe_experience": 7,
+      "home_or_CPG": 3,
+      "other": 2
+    },
+    {
+      "week": "2024-11-03",
+      "cafe_experience": 5,
+      "home_or_CPG": 0,
+      "other": 6
+    },
+    {
+      "week": "2024-11-10",
+      "cafe_experience": 5,
+      "home_or_CPG": 2,
+      "other": 4
+    },
+    {
+      "week": "2024-11-17",
+      "cafe_experience": 2,
+      "home_or_CPG": 1,
+      "other": 6
+    },
+    {
+      "week": "2024-11-24",
+      "cafe_experience": 3,
+      "home_or_CPG": 1,
+      "other": 4
+    },
+    {
+      "week": "2024-12-01",
+      "cafe_experience": 7,
+      "home_or_CPG": 1,
+      "other": 5
+    },
+    {
+      "week": "2024-12-08",
+      "cafe_experience": 7,
+      "home_or_CPG": 2,
+      "other": 9
+    },
+    {
+      "week": "2024-12-15",
+      "cafe_experience": 5,
+      "home_or_CPG": 1,
+      "other": 8
+    },
+    {
+      "week": "2024-12-22",
+      "cafe_experience": 6,
+      "home_or_CPG": 0,
+      "other": 4
+    },
+    {
+      "week": "2024-12-29",
+      "cafe_experience": 5,
+      "home_or_CPG": 2,
+      "other": 4
+    },
+    {
+      "week": "2025-01-05",
+      "cafe_experience": 4,
+      "home_or_CPG": 4,
+      "other": 3
+    },
+    {
+      "week": "2025-01-12",
+      "cafe_experience": 5,
+      "home_or_CPG": 2,
+      "other": 6
+    },
+    {
+      "week": "2025-01-19",
+      "cafe_experience": 2,
+      "home_or_CPG": 0,
+      "other": 6
+    },
+    {
+      "week": "2025-01-26",
+      "cafe_experience": 4,
+      "home_or_CPG": 2,
+      "other": 8
+    },
+    {
+      "week": "2025-02-02",
+      "cafe_experience": 4,
+      "home_or_CPG": 3,
+      "other": 8
+    },
+    {
+      "week": "2025-02-09",
+      "cafe_experience": 4,
+      "home_or_CPG": 3,
+      "other": 11
+    },
+    {
+      "week": "2025-02-16",
+      "cafe_experience": 8,
+      "home_or_CPG": 3,
+      "other": 9
+    },
+    {
+      "week": "2025-02-23",
+      "cafe_experience": 9,
+      "home_or_CPG": 2,
+      "other": 6
+    },
+    {
+      "week": "2025-03-02",
+      "cafe_experience": 2,
+      "home_or_CPG": 2,
+      "other": 6
+    },
+    {
+      "week": "2025-03-09",
+      "cafe_experience": 4,
+      "home_or_CPG": 3,
+      "other": 4
+    },
+    {
+      "week": "2025-03-16",
+      "cafe_experience": 5,
+      "home_or_CPG": 2,
+      "other": 10
+    },
+    {
+      "week": "2025-03-23",
+      "cafe_experience": 3,
+      "home_or_CPG": 4,
+      "other": 7
+    },
+    {
+      "week": "2025-03-30",
+      "cafe_experience": 4,
+      "home_or_CPG": 3,
+      "other": 11
+    },
+    {
+      "week": "2025-04-06",
+      "cafe_experience": 11,
+      "home_or_CPG": 5,
+      "other": 8
+    },
+    {
+      "week": "2025-04-13",
+      "cafe_experience": 8,
+      "home_or_CPG": 2,
+      "other": 12
+    },
+    {
+      "week": "2025-04-20",
+      "cafe_experience": 8,
+      "home_or_CPG": 2,
+      "other": 8
+    },
+    {
+      "week": "2025-04-27",
+      "cafe_experience": 5,
+      "home_or_CPG": 2,
+      "other": 13
+    },
+    {
+      "week": "2025-05-04",
+      "cafe_experience": 9,
+      "home_or_CPG": 4,
+      "other": 5
+    },
+    {
+      "week": "2025-05-11",
+      "cafe_experience": 9,
+      "home_or_CPG": 0,
+      "other": 7
+    },
+    {
+      "week": "2025-05-18",
+      "cafe_experience": 8,
+      "home_or_CPG": 4,
+      "other": 9
+    },
+    {
+      "week": "2025-05-25",
+      "cafe_experience": 4,
+      "home_or_CPG": 0,
+      "other": 8
+    },
+    {
+      "week": "2025-06-01",
+      "cafe_experience": 11,
+      "home_or_CPG": 0,
+      "other": 7
+    },
+    {
+      "week": "2025-06-08",
+      "cafe_experience": 7,
+      "home_or_CPG": 5,
+      "other": 12
+    },
+    {
+      "week": "2025-06-15",
+      "cafe_experience": 5,
+      "home_or_CPG": 2,
+      "other": 11
+    },
+    {
+      "week": "2025-06-22",
+      "cafe_experience": 6,
+      "home_or_CPG": 2,
+      "other": 8
+    },
+    {
+      "week": "2025-06-29",
+      "cafe_experience": 1,
+      "home_or_CPG": 5,
+      "other": 17
+    },
+    {
+      "week": "2025-07-06",
+      "cafe_experience": 10,
+      "home_or_CPG": 1,
+      "other": 13
+    },
+    {
+      "week": "2025-07-13",
+      "cafe_experience": 7,
+      "home_or_CPG": 4,
+      "other": 10
+    },
+    {
+      "week": "2025-07-20",
+      "cafe_experience": 9,
+      "home_or_CPG": 2,
+      "other": 11
+    },
+    {
+      "week": "2025-07-27",
+      "cafe_experience": 9,
+      "home_or_CPG": 4,
+      "other": 12
+    },
+    {
+      "week": "2025-08-03",
+      "cafe_experience": 8,
+      "home_or_CPG": 0,
+      "other": 14
+    },
+    {
+      "week": "2025-08-10",
+      "cafe_experience": 8,
+      "home_or_CPG": 5,
+      "other": 6
+    },
+    {
+      "week": "2025-08-17",
+      "cafe_experience": 6,
+      "home_or_CPG": 4,
+      "other": 18
+    },
+    {
+      "week": "2025-08-24",
+      "cafe_experience": 8,
+      "home_or_CPG": 4,
+      "other": 15
+    },
+    {
+      "week": "2025-08-31",
+      "cafe_experience": 7,
+      "home_or_CPG": 5,
+      "other": 6
+    },
+    {
+      "week": "2025-09-07",
+      "cafe_experience": 10,
+      "home_or_CPG": 3,
+      "other": 10
+    },
+    {
+      "week": "2025-09-14",
+      "cafe_experience": 8,
+      "home_or_CPG": 1,
+      "other": 20
+    },
+    {
+      "week": "2025-09-21",
+      "cafe_experience": 11,
+      "home_or_CPG": 2,
+      "other": 13
+    },
+    {
+      "week": "2025-09-28",
+      "cafe_experience": 5,
+      "home_or_CPG": 2,
+      "other": 10
+    },
+    {
+      "week": "2025-10-05",
+      "cafe_experience": 9,
+      "home_or_CPG": 2,
+      "other": 10
+    },
+    {
+      "week": "2025-10-12",
+      "cafe_experience": 6,
+      "home_or_CPG": 3,
+      "other": 11
+    },
+    {
+      "week": "2025-10-19",
+      "cafe_experience": 6,
+      "home_or_CPG": 5,
+      "other": 14
+    },
+    {
+      "week": "2025-10-26",
+      "cafe_experience": 14,
+      "home_or_CPG": 4,
+      "other": 8
+    },
+    {
+      "week": "2025-11-02",
+      "cafe_experience": 11,
+      "home_or_CPG": 2,
+      "other": 11
+    },
+    {
+      "week": "2025-11-09",
+      "cafe_experience": 13,
+      "home_or_CPG": 7,
+      "other": 16
+    },
+    {
+      "week": "2025-11-16",
+      "cafe_experience": 10,
+      "home_or_CPG": 5,
+      "other": 18
+    },
+    {
+      "week": "2025-11-23",
+      "cafe_experience": 16,
+      "home_or_CPG": 6,
+      "other": 17
+    },
+    {
+      "week": "2025-11-30",
+      "cafe_experience": 10,
+      "home_or_CPG": 5,
+      "other": 14
+    },
+    {
+      "week": "2025-12-07",
+      "cafe_experience": 5,
+      "home_or_CPG": 4,
+      "other": 15
+    },
+    {
+      "week": "2025-12-14",
+      "cafe_experience": 15,
+      "home_or_CPG": 4,
+      "other": 16
+    },
+    {
+      "week": "2025-12-21",
+      "cafe_experience": 8,
+      "home_or_CPG": 3,
+      "other": 12
+    },
+    {
+      "week": "2025-12-28",
+      "cafe_experience": 10,
+      "home_or_CPG": 4,
+      "other": 12
+    },
+    {
+      "week": "2026-01-04",
+      "cafe_experience": 7,
+      "home_or_CPG": 2,
+      "other": 16
+    },
+    {
+      "week": "2026-01-11",
+      "cafe_experience": 6,
+      "home_or_CPG": 5,
+      "other": 13
+    },
+    {
+      "week": "2026-01-18",
+      "cafe_experience": 9,
+      "home_or_CPG": 3,
+      "other": 23
+    },
+    {
+      "week": "2026-01-25",
+      "cafe_experience": 11,
+      "home_or_CPG": 3,
+      "other": 20
+    },
+    {
+      "week": "2026-02-01",
+      "cafe_experience": 10,
+      "home_or_CPG": 3,
+      "other": 12
+    },
+    {
+      "week": "2026-02-08",
+      "cafe_experience": 18,
+      "home_or_CPG": 5,
+      "other": 16
+    },
+    {
+      "week": "2026-02-15",
+      "cafe_experience": 7,
+      "home_or_CPG": 3,
+      "other": 13
+    },
+    {
+      "week": "2026-02-22",
+      "cafe_experience": 11,
+      "home_or_CPG": 9,
+      "other": 18
+    },
+    {
+      "week": "2026-03-01",
+      "cafe_experience": 12,
+      "home_or_CPG": 2,
+      "other": 17
+    },
+    {
+      "week": "2026-03-08",
+      "cafe_experience": 13,
+      "home_or_CPG": 4,
+      "other": 27
+    },
+    {
+      "week": "2026-03-15",
+      "cafe_experience": 7,
+      "home_or_CPG": 9,
+      "other": 19
+    },
+    {
+      "week": "2026-03-22",
+      "cafe_experience": 7,
+      "home_or_CPG": 5,
+      "other": 17
+    },
+    {
+      "week": "2026-03-29",
+      "cafe_experience": 11,
+      "home_or_CPG": 7,
+      "other": 12
+    },
+    {
+      "week": "2026-04-05",
+      "cafe_experience": 10,
+      "home_or_CPG": 6,
+      "other": 24
+    },
+    {
+      "week": "2026-04-12",
+      "cafe_experience": 9,
+      "home_or_CPG": 4,
+      "other": 15
+    },
+    {
+      "week": "2026-04-19",
+      "cafe_experience": 18,
+      "home_or_CPG": 2,
+      "other": 19
+    },
+    {
+      "week": "2026-04-26",
+      "cafe_experience": 7,
+      "home_or_CPG": 3,
+      "other": 11
+    },
+    {
+      "week": "2026-05-03",
+      "cafe_experience": 8,
+      "home_or_CPG": 4,
+      "other": 15
+    },
+    {
+      "week": "2026-05-10",
+      "cafe_experience": 12,
+      "home_or_CPG": 4,
+      "other": 18
+    },
+    {
+      "week": "2026-05-17",
+      "cafe_experience": 13,
+      "home_or_CPG": 10,
+      "other": 16
+    },
+    {
+      "week": "2026-05-24",
+      "cafe_experience": 5,
+      "home_or_CPG": 8,
+      "other": 10
+    },
+    {
+      "week": "2026-05-31",
+      "cafe_experience": 13,
+      "home_or_CPG": 7,
+      "other": 22
+    },
+    {
+      "week": "2026-06-07",
+      "cafe_experience": 7,
+      "home_or_CPG": 7,
+      "other": 17
+    },
+    {
+      "week": "2026-06-14",
+      "cafe_experience": 12,
+      "home_or_CPG": 4,
+      "other": 21
+    },
+    {
+      "week": "2026-06-21",
+      "cafe_experience": 7,
+      "home_or_CPG": 8,
+      "other": 16
+    },
+    {
+      "week": "2026-06-28",
+      "cafe_experience": 8,
+      "home_or_CPG": 5,
+      "other": 12
+    },
+    {
+      "week": "2026-07-05",
+      "cafe_experience": 13,
+      "home_or_CPG": 2,
+      "other": 26
+    }
+  ],
+  "method_used": "heuristic",
+  "label_provenance": "fixture_heuristic",
+  "input_provenance": "fixture",
+  "provenance": {
+    "sources": {
+      "labels": "fixture_heuristic",
+      "items": "fixture"
+    },
+    "contains_fixture_data": true
+  }
+}

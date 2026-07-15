@@ -1,0 +1,79 @@
+{
+  "events": [
+    {
+      "event_id": "matcha_costa_global",
+      "trend": "matcha",
+      "event_name": "Costa Coffee announces first nationwide matcha latte range (UK & Ireland) — global mainstream marker, not India-specific",
+      "event_date": "2026-01-06",
+      "first_heating_week": "2022-05-22",
+      "lead_days": 1325,
+      "boundary_censored": true,
+      "first_heating_week_in_backtest_window": "2025-01-26",
+      "lead_days_conservative": 345
+    },
+    {
+      "event_id": "matcha_starbucks_india",
+      "trend": "matcha",
+      "event_name": "Tata Starbucks puts Iced Matcha (banana cold foam) on its national India menu",
+      "event_date": "2026-02-12",
+      "first_heating_week": "2022-05-22",
+      "lead_days": 1362,
+      "boundary_censored": true,
+      "first_heating_week_in_backtest_window": "2025-01-26",
+      "lead_days_conservative": 382
+    },
+    {
+      "event_id": "matcha_media_india",
+      "trend": "matcha",
+      "event_name": "Mainstream India food media declares matcha a staple of Indian cafe menus",
+      "event_date": "2026-05-12",
+      "first_heating_week": "2022-05-22",
+      "lead_days": 1451,
+      "boundary_censored": true,
+      "first_heating_week_in_backtest_window": "2025-01-26",
+      "lead_days_conservative": 471
+    },
+    {
+      "event_id": "protein_farmley",
+      "trend": "protein_snacks",
+      "event_name": "Farmley Healthy Snacking Report 2026: 86% of Indian consumers prioritise protein in snacks",
+      "event_date": "2026-07-03",
+      "first_heating_week": "2022-05-15",
+      "lead_days": 1510,
+      "boundary_censored": true,
+      "first_heating_week_in_backtest_window": "2025-01-12",
+      "lead_days_conservative": 537
+    },
+    {
+      "event_id": "protein_fssai",
+      "trend": "protein_snacks",
+      "event_name": "FSSAI standardised scientific-evidence framework for food submissions takes effect (claims tightening relevant to protein marketing)",
+      "event_date": "2026-01-01",
+      "first_heating_week": "2022-05-15",
+      "lead_days": 1327,
+      "boundary_censored": true,
+      "first_heating_week_in_backtest_window": "2025-01-12",
+      "lead_days_conservative": 354
+    }
+  ],
+  "provenance": {
+    "matcha": {
+      "sources": {
+        "trends": "real"
+      },
+      "contains_fixture_data": false
+    },
+    "protein_snacks": {
+      "sources": {
+        "trends": "real"
+      },
+      "contains_fixture_data": false
+    },
+    "genz_fragrance": {
+      "sources": {
+        "trends": "real"
+      },
+      "contains_fixture_data": false
+    }
+  }
+}

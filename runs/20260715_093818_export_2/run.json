@@ -1,0 +1,52 @@
+{
+  "command": "export",
+  "notes": "final",
+  "started_at": "2026-07-15T09:38:18.461675+05:30",
+  "finished_at": "2026-07-15T09:38:18.497879+05:30",
+  "git_commit": "e30750f54ee9f4143c8e4c42200a09734236836b",
+  "config_hash": "36b688840c95db92d739633868079bc87f056b4397360945ca90e47f5affb1e5",
+  "thresholds_frozen": true,
+  "inputs": [
+    {
+      "path": "data/backtest/state_timeline.json",
+      "sha256": "2b704d69206cb9d5d55f1b653a9c28073eefd3775cd381faa1ac8e8f369d8404"
+    },
+    {
+      "path": "data/backtest/first_flags.json",
+      "sha256": "395a678ca888b13e6d4615d6bdb8a66adb220b15f3fac66f2719935d70c70acd"
+    },
+    {
+      "path": "data/backtest/lead_times.json",
+      "sha256": "91bfcaab698785979c12639e803ab0ddb9a04ef927f33f45b5ff039e2d3e0bce"
+    },
+    {
+      "path": "data/backtest/goldenthread_chart.json",
+      "sha256": "82aecf74b8dc5023901de954aaad02a951ca2bddfae9c45a01692e0104463291"
+    },
+    {
+      "path": "data/labels/intent_split_matcha.json",
+      "sha256": "70ff06bc0248b756f66bfa4a8d865cbb9444044f4a95a3debaa68588c5532445"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "app/public/data/state_timeline.json",
+      "sha256": "2b704d69206cb9d5d55f1b653a9c28073eefd3775cd381faa1ac8e8f369d8404"
+    },
+    {
+      "path": "app/public/data/first_flags.json",
+      "sha256": "395a678ca888b13e6d4615d6bdb8a66adb220b15f3fac66f2719935d70c70acd"
+    },
+    {
+      "path": "app/public/data/lead_times.json",
+      "sha256": "91bfcaab698785979c12639e803ab0ddb9a04ef927f33f45b5ff039e2d3e0bce"
+    },
+    {
+      "path": "app/public/data/goldenthread_chart.json",
+      "sha256": "82aecf74b8dc5023901de954aaad02a951ca2bddfae9c45a01692e0104463291"
+    }
+  ],
+  "extra": {},
+  "status": "failed",
+  "error": "Traceback (most recent call last):\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/pipeline/runlog.py\", line 130, in run\n    yield ctx\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/pipeline/export.py\", line 123, in main\n    if check_artifact(src, final=args.final):\n       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/pipeline/export.py\", line 79, in check_artifact\n    provenance.assert_all_real(b.get(\"sources\", {}), context=path.name)\n  File \"/Users/akanshabhatia/Documents/Claude/nazar/pipeline/provenance.py\", line 64, in assert_all_real\n    raise ProvenanceError(\npipeline.provenance.ProvenanceError: fixture-derived data may never appear in final outputs (intent_split_matcha.json): {'labels': 'fixture_heuristic', 'items': 'fixture'}\n"
+}

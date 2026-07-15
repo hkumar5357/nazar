@@ -1,0 +1,1256 @@
+{
+  "trend": "matcha",
+  "weekly": [
+    {
+      "week": "2021-12-26",
+      "composite": null,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-01-02",
+      "composite": null,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-01-09",
+      "composite": null,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-01-16",
+      "composite": null,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-01-23",
+      "composite": null,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-01-30",
+      "composite": null,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-02-06",
+      "composite": null,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-02-13",
+      "composite": -1.767767,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-02-20",
+      "composite": -0.333333,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-02-27",
+      "composite": -1.490788,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-03-06",
+      "composite": -1.710961,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-03-13",
+      "composite": -1.022044,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-03-20",
+      "composite": -1.403938,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-03-27",
+      "composite": -1.661214,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-04-03",
+      "composite": -1.81497,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-04-10",
+      "composite": -0.857306,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-04-17",
+      "composite": -0.814763,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-04-24",
+      "composite": -0.778083,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-05-01",
+      "composite": -0.746021,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-05-08",
+      "composite": -0.717677,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-05-15",
+      "composite": -0.692377,
+      "state": "emerging"
+    },
+    {
+      "week": "2022-05-22",
+      "composite": 0.270396,
+      "state": "heating"
+    },
+    {
+      "week": "2022-05-29",
+      "composite": -0.220351,
+      "state": "heating"
+    },
+    {
+      "week": "2022-06-05",
+      "composite": 0.28019,
+      "state": "heating"
+    },
+    {
+      "week": "2022-06-12",
+      "composite": -0.232223,
+      "state": "heating"
+    },
+    {
+      "week": "2022-06-19",
+      "composite": 0.289543,
+      "state": "heating"
+    },
+    {
+      "week": "2022-06-26",
+      "composite": -0.243432,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-07-03",
+      "composite": -0.768562,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-07-10",
+      "composite": -0.212961,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-07-17",
+      "composite": -0.754074,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-07-24",
+      "composite": -0.735281,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-07-31",
+      "composite": -0.162846,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-08-07",
+      "composite": -0.160371,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-08-14",
+      "composite": 0.420349,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-08-21",
+      "composite": 0.986785,
+      "state": "heating"
+    },
+    {
+      "week": "2022-08-28",
+      "composite": -0.78166,
+      "state": "heating"
+    },
+    {
+      "week": "2022-09-04",
+      "composite": -0.180438,
+      "state": "heating"
+    },
+    {
+      "week": "2022-09-11",
+      "composite": 0.419964,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-09-18",
+      "composite": -0.1913,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-09-25",
+      "composite": -1.381162,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-10-02",
+      "composite": 0.453679,
+      "state": "peaked"
+    },
+    {
+      "week": "2022-10-09",
+      "composite": -0.771392,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-10-16",
+      "composite": -1.904265,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-10-23",
+      "composite": -0.096909,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-10-30",
+      "composite": -0.694417,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-11-06",
+      "composite": -0.683344,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-11-13",
+      "composite": -0.672787,
+      "state": "emerging"
+    },
+    {
+      "week": "2022-11-20",
+      "composite": -1.257387,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-11-27",
+      "composite": -0.632375,
+      "state": "emerging"
+    },
+    {
+      "week": "2022-12-04",
+      "composite": -1.2204,
+      "state": "emerging"
+    },
+    {
+      "week": "2022-12-11",
+      "composite": -0.596033,
+      "state": "undetermined"
+    },
+    {
+      "week": "2022-12-18",
+      "composite": -0.588341,
+      "state": "emerging"
+    },
+    {
+      "week": "2022-12-25",
+      "composite": 0.651517,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-01-01",
+      "composite": -0.596569,
+      "state": "emerging"
+    },
+    {
+      "week": "2023-01-08",
+      "composite": -0.589283,
+      "state": "emerging"
+    },
+    {
+      "week": "2023-01-15",
+      "composite": -0.582259,
+      "state": "emerging"
+    },
+    {
+      "week": "2023-01-22",
+      "composite": -0.575481,
+      "state": "emerging"
+    },
+    {
+      "week": "2023-01-29",
+      "composite": 0.701736,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-02-05",
+      "composite": 0.055226,
+      "state": "emerging"
+    },
+    {
+      "week": "2023-02-12",
+      "composite": 0.05477,
+      "state": "emerging"
+    },
+    {
+      "week": "2023-02-19",
+      "composite": 2.515298,
+      "state": "heating"
+    },
+    {
+      "week": "2023-02-26",
+      "composite": 0.629368,
+      "state": "heating"
+    },
+    {
+      "week": "2023-03-05",
+      "composite": 0.622448,
+      "state": "heating"
+    },
+    {
+      "week": "2023-03-12",
+      "composite": 0.615753,
+      "state": "heating"
+    },
+    {
+      "week": "2023-03-19",
+      "composite": -0.019712,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-03-26",
+      "composite": 0.614458,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-04-02",
+      "composite": 0.608188,
+      "state": "peaked"
+    },
+    {
+      "week": "2023-04-09",
+      "composite": 1.231474,
+      "state": "peaked"
+    },
+    {
+      "week": "2023-04-16",
+      "composite": -0.056429,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-04-23",
+      "composite": 0.586824,
+      "state": "peaked"
+    },
+    {
+      "week": "2023-04-30",
+      "composite": 1.21695,
+      "state": "peaked"
+    },
+    {
+      "week": "2023-05-07",
+      "composite": 1.196175,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-05-14",
+      "composite": -0.098255,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-05-21",
+      "composite": 0.548944,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-05-28",
+      "composite": -0.105538,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-06-04",
+      "composite": 1.194112,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-06-11",
+      "composite": 1.175458,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-06-18",
+      "composite": 0.515386,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-06-25",
+      "composite": 1.783891,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-07-02",
+      "composite": 1.11836,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-07-09",
+      "composite": -0.177164,
+      "state": "emerging"
+    },
+    {
+      "week": "2023-07-16",
+      "composite": 1.111905,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-07-23",
+      "composite": 1.720329,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-07-30",
+      "composite": 1.063382,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-08-06",
+      "composite": -0.220499,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-08-13",
+      "composite": 1.058768,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-08-20",
+      "composite": 1.045941,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-08-27",
+      "composite": 0.39795,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-09-03",
+      "composite": -0.249077,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-09-10",
+      "composite": 0.400334,
+      "state": "peaked"
+    },
+    {
+      "week": "2023-09-17",
+      "composite": 0.397799,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-09-24",
+      "composite": -0.258878,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-10-01",
+      "composite": 0.400199,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-10-08",
+      "composite": 1.052798,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-10-15",
+      "composite": 1.04118,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-10-22",
+      "composite": 1.670835,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-10-29",
+      "composite": 1.002923,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-11-05",
+      "composite": -0.309986,
+      "state": "emerging"
+    },
+    {
+      "week": "2023-11-12",
+      "composite": 0.348445,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-11-19",
+      "composite": 2.859751,
+      "state": "heating"
+    },
+    {
+      "week": "2023-11-26",
+      "composite": 0.93593,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-12-03",
+      "composite": 0.927363,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-12-10",
+      "composite": 1.540521,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-12-17",
+      "composite": 0.897934,
+      "state": "peaked"
+    },
+    {
+      "week": "2023-12-24",
+      "composite": 0.261333,
+      "state": "undetermined"
+    },
+    {
+      "week": "2023-12-31",
+      "composite": 1.513461,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-01-07",
+      "composite": -0.386754,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-01-14",
+      "composite": 0.87926,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-01-21",
+      "composite": 2.09946,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-01-28",
+      "composite": 5.087776,
+      "state": "heating"
+    },
+    {
+      "week": "2024-02-04",
+      "composite": 2.275176,
+      "state": "heating"
+    },
+    {
+      "week": "2024-02-11",
+      "composite": 1.185273,
+      "state": "heating"
+    },
+    {
+      "week": "2024-02-18",
+      "composite": 0.643769,
+      "state": "heating"
+    },
+    {
+      "week": "2024-02-25",
+      "composite": 1.170255,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-03-03",
+      "composite": 0.628483,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-03-10",
+      "composite": 0.62472,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-03-17",
+      "composite": 1.678148,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-03-24",
+      "composite": 1.651326,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-03-31",
+      "composite": 2.13195,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-04-07",
+      "composite": 3.040549,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-04-14",
+      "composite": 1.503733,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-04-21",
+      "composite": 1.483808,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-04-28",
+      "composite": 2.869091,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-05-05",
+      "composite": 1.86482,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-05-12",
+      "composite": 2.28514,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-05-19",
+      "composite": 2.230021,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-05-26",
+      "composite": 3.027507,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-06-02",
+      "composite": 10.018466,
+      "state": "heating"
+    },
+    {
+      "week": "2024-06-09",
+      "composite": 1.67274,
+      "state": "heating"
+    },
+    {
+      "week": "2024-06-16",
+      "composite": 1.453491,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-06-23",
+      "composite": 1.63073,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-06-30",
+      "composite": 1.220482,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-07-07",
+      "composite": 1.59646,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-07-14",
+      "composite": 1.575512,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-07-21",
+      "composite": 0.978622,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-07-28",
+      "composite": 1.16498,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-08-04",
+      "composite": 1.155003,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-08-11",
+      "composite": 1.145278,
+      "state": "peaked"
+    },
+    {
+      "week": "2024-08-18",
+      "composite": 0.555117,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-08-25",
+      "composite": 0.74727,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-09-01",
+      "composite": 0.743154,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-09-08",
+      "composite": 0.543703,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-09-15",
+      "composite": 0.541248,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-09-22",
+      "composite": 0.735242,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-09-29",
+      "composite": 1.122911,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-10-06",
+      "composite": 0.329339,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-10-13",
+      "composite": 1.115487,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-10-20",
+      "composite": 0.320219,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-10-27",
+      "composite": 0.319039,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-11-03",
+      "composite": 0.912619,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-11-10",
+      "composite": 0.709227,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-11-17",
+      "composite": 0.506952,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-11-24",
+      "composite": 0.902888,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-12-01",
+      "composite": 0.698707,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-12-08",
+      "composite": 0.295425,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-12-15",
+      "composite": 0.495166,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-12-22",
+      "composite": 0.49321,
+      "state": "undetermined"
+    },
+    {
+      "week": "2024-12-29",
+      "composite": 0.692657,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-01-05",
+      "composite": 1.290806,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-01-12",
+      "composite": 1.0808,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-01-19",
+      "composite": 1.272791,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-01-26",
+      "composite": 1.460516,
+      "state": "heating"
+    },
+    {
+      "week": "2025-02-02",
+      "composite": 1.050934,
+      "state": "heating"
+    },
+    {
+      "week": "2025-02-09",
+      "composite": 2.217415,
+      "state": "heating"
+    },
+    {
+      "week": "2025-02-16",
+      "composite": 2.178312,
+      "state": "heating"
+    },
+    {
+      "week": "2025-02-23",
+      "composite": 2.14121,
+      "state": "heating"
+    },
+    {
+      "week": "2025-03-02",
+      "composite": 2.291243,
+      "state": "heating"
+    },
+    {
+      "week": "2025-03-09",
+      "composite": 2.967399,
+      "state": "heating"
+    },
+    {
+      "week": "2025-03-16",
+      "composite": 3.056096,
+      "state": "heating"
+    },
+    {
+      "week": "2025-03-23",
+      "composite": 3.298648,
+      "state": "heating"
+    },
+    {
+      "week": "2025-03-30",
+      "composite": 3.971802,
+      "state": "heating"
+    },
+    {
+      "week": "2025-04-06",
+      "composite": 4.224874,
+      "state": "heating"
+    },
+    {
+      "week": "2025-04-13",
+      "composite": 4.009784,
+      "state": "heating"
+    },
+    {
+      "week": "2025-04-20",
+      "composite": 4.47562,
+      "state": "heating"
+    },
+    {
+      "week": "2025-04-27",
+      "composite": 4.821568,
+      "state": "heating"
+    },
+    {
+      "week": "2025-05-04",
+      "composite": 3.472645,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-05-11",
+      "composite": 4.480406,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-05-18",
+      "composite": 4.234208,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-05-25",
+      "composite": 4.125091,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-06-01",
+      "composite": 5.2172,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-06-08",
+      "composite": 6.376335,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-06-15",
+      "composite": 5.336709,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-06-22",
+      "composite": 4.881954,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-06-29",
+      "composite": 4.644118,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-07-06",
+      "composite": 4.566337,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-07-13",
+      "composite": 3.530553,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-07-20",
+      "composite": 3.225878,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-07-27",
+      "composite": 3.310602,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-08-03",
+      "composite": 2.678925,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-08-10",
+      "composite": 2.385843,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-08-17",
+      "composite": 2.344757,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-08-24",
+      "composite": 1.895259,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-08-31",
+      "composite": 1.755374,
+      "state": "peaked"
+    },
+    {
+      "week": "2025-09-07",
+      "composite": 1.795599,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-09-14",
+      "composite": 1.542813,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-09-21",
+      "composite": 1.295515,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-09-28",
+      "composite": 1.345283,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-10-05",
+      "composite": 1.101649,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-10-12",
+      "composite": 1.154143,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-10-19",
+      "composite": 1.147434,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-10-26",
+      "composite": 1.199309,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-11-02",
+      "composite": 1.829949,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-11-09",
+      "composite": 2.15219,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-11-16",
+      "composite": 2.290957,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-11-23",
+      "composite": 1.922594,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-11-30",
+      "composite": 2.342765,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-12-07",
+      "composite": 2.14324,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-12-14",
+      "composite": 1.788136,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-12-21",
+      "composite": 1.387563,
+      "state": "undetermined"
+    },
+    {
+      "week": "2025-12-28",
+      "composite": 1.92258,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-01-04",
+      "composite": 1.631554,
+      "state": "peaked"
+    },
+    {
+      "week": "2026-01-11",
+      "composite": 1.832796,
+      "state": "peaked"
+    },
+    {
+      "week": "2026-01-18",
+      "composite": 1.760762,
+      "state": "peaked"
+    },
+    {
+      "week": "2026-01-25",
+      "composite": 2.167388,
+      "state": "peaked"
+    },
+    {
+      "week": "2026-02-01",
+      "composite": 1.929618,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-02-08",
+      "composite": 4.109663,
+      "state": "heating"
+    },
+    {
+      "week": "2026-02-15",
+      "composite": 5.015089,
+      "state": "heating"
+    },
+    {
+      "week": "2026-02-22",
+      "composite": 2.258492,
+      "state": "heating"
+    },
+    {
+      "week": "2026-03-01",
+      "composite": 1.476751,
+      "state": "heating"
+    },
+    {
+      "week": "2026-03-08",
+      "composite": 1.324232,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-03-15",
+      "composite": 1.504827,
+      "state": "peaked"
+    },
+    {
+      "week": "2026-03-22",
+      "composite": 1.211093,
+      "state": "peaked"
+    },
+    {
+      "week": "2026-03-29",
+      "composite": 1.298733,
+      "state": "peaked"
+    },
+    {
+      "week": "2026-04-05",
+      "composite": 1.572559,
+      "state": "peaked"
+    },
+    {
+      "week": "2026-04-12",
+      "composite": 1.560485,
+      "state": "peaked"
+    },
+    {
+      "week": "2026-04-19",
+      "composite": 1.268789,
+      "state": "peaked"
+    },
+    {
+      "week": "2026-04-26",
+      "composite": 1.448064,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-05-03",
+      "composite": 1.205513,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-05-10",
+      "composite": 1.385201,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-05-17",
+      "composite": 1.330055,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-05-24",
+      "composite": 1.507156,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-05-31",
+      "composite": 1.54262,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-06-07",
+      "composite": 1.347579,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-06-14",
+      "composite": 1.385462,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-06-21",
+      "composite": 1.376888,
+      "state": "undetermined"
+    },
+    {
+      "week": "2026-06-28",
+      "composite": 1.093148,
+      "state": "mature"
+    },
+    {
+      "week": "2026-07-05",
+      "composite": 1.179976,
+      "state": "mature"
+    }
+  ],
+  "heating_weeks": [
+    "2022-05-22",
+    "2022-05-29",
+    "2022-06-05",
+    "2022-06-12",
+    "2022-06-19",
+    "2022-08-21",
+    "2022-08-28",
+    "2022-09-04",
+    "2023-02-19",
+    "2023-02-26",
+    "2023-03-05",
+    "2023-03-12",
+    "2023-11-19",
+    "2024-01-28",
+    "2024-02-04",
+    "2024-02-11",
+    "2024-02-18",
+    "2024-06-02",
+    "2024-06-09",
+    "2025-01-26",
+    "2025-02-02",
+    "2025-02-09",
+    "2025-02-16",
+    "2025-02-23",
+    "2025-03-02",
+    "2025-03-09",
+    "2025-03-16",
+    "2025-03-23",
+    "2025-03-30",
+    "2025-04-06",
+    "2025-04-13",
+    "2025-04-20",
+    "2025-04-27",
+    "2026-02-08",
+    "2026-02-15",
+    "2026-02-22",
+    "2026-03-01"
+  ],
+  "first_heating_week": "2022-05-22",
+  "events": [
+    {
+      "event_id": "matcha_costa_global",
+      "event_name": "Costa Coffee announces first nationwide matcha latte range (UK & Ireland) — global mainstream marker, not India-specific",
+      "event_date": "2026-01-06",
+      "source_url": "https://www.worldcoffeeportal.com/news/costa-coffee-goes-with-the-flow-to-launch-new-matcha-range/"
+    },
+    {
+      "event_id": "matcha_starbucks_india",
+      "event_name": "Tata Starbucks puts Iced Matcha (banana cold foam) on its national India menu",
+      "event_date": "2026-02-12",
+      "source_url": "https://www.passionateinmarketing.com/tata-starbucks-unveils-valentines-day-menu-and-merchandise/"
+    },
+    {
+      "event_id": "matcha_media_india",
+      "event_name": "Mainstream India food media declares matcha a staple of Indian cafe menus",
+      "event_date": "2026-05-12",
+      "source_url": "https://www.indiafoodnetwork.in/features/asian-drinks-are-having-their-main-character-moment-in-indian-cafes-985423"
+    }
+  ],
+  "provenance": {
+    "sources": {
+      "trends": "real"
+    },
+    "contains_fixture_data": false
+  }
+}

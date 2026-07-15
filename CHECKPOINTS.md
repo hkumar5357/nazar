@@ -97,3 +97,50 @@ is a state, not a failure to render.
 **Next (M3).** Intent labeler (heuristic placeholder until the LLM key
 arrives — provenance-marked, never presented as real labels), creator
 affinity with the A3 validation pairs, launch-math JSON.
+
+---
+
+## M3 — Labeler + Map + Math slices (`m3-slices`) — 2026-07-15
+
+**Intent labeler (R5's only LLM territory).** Provider-agnostic REST client
+(gemini default | openai | anthropic, temp 0, pinned models, fixed committed
+prompt v1); cache-first JSONL in `data/labels/` — a warm re-run makes zero
+API calls, verified against the real caches. No LLM key exists yet, so
+matcha's 2,904 items are labeled by the committed keyword heuristic (h1) and
+everything downstream says so: `method_used: "heuristic"`,
+`label_provenance: "fixture_heuristic"`, `contains_fixture_data: true`. The
+50-item QA sample generator refuses to run until real LLM labels exist
+(honest exit 1). When the key lands: relabel, generate the QA sample for
+hand-checking, report agreement rate.
+
+**Map slice.** Keyword-taxonomy topic vectors (documented choice over
+embeddings: deterministic, zero keys, transparent), 14 creators (BRIEF §5.5
+starter list + two tech controls), affinity = cosine × clamped engagement
+factor, presented as ranks. **Both A3 validation pairs PASS on fixture
+data**: fitness×protein ranks #1 (expected top-3); Technical Guruji×matcha
+ranks 13/14 (expected bottom-3 — the LOW control that builds trust).
+⚠ Creator data is FIXTURES until the YouTube key arrives; the board is
+flagged `contains_fixture_data: true` and the app banners it. Validation
+must be re-run on real creator data before the demo. Final creator list
+flagged here for review (BRIEF: confirm at M1 — list is in
+`pipeline/map/creators.py`, substitutions welcome).
+
+**Math slice.** 9-slider simulator, every default a stated public benchmark
+RANGE (author-asserted, `benchmarks_note` says so in the artifact; no
+provenance pretension), three embedded reference scenarios the React UI must
+reproduce, permanent banner: "Simulation on public benchmarks — not a
+forecast."
+
+**Export gate proven.** `python -m pipeline.export --final` hard-fails
+(exit 1, run logged as failed in `runs/`) on the two fixture-derived
+artifacts; dev mode exports them loudly flagged for the in-app banner.
+
+**Verification.** 168 tests passing. Adversarial review (R5 boundary +
+provenance) found and we fixed: a stale-label fallback in the cache reader
+(now strictly keyed to the item's current text hash) and a semantically
+wrong `real_manual` provenance claim on launch-math benchmarks (now an
+empty source map + explicit author-asserted note). Original 8 trend
+fixtures verified byte-identical.
+
+**Next (M4).** Five-screen dashboard reading only committed
+`app/public/data/*.json`.

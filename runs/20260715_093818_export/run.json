@@ -1,0 +1,73 @@
+{
+  "command": "export",
+  "notes": "dev",
+  "started_at": "2026-07-15T09:38:18.402103+05:30",
+  "finished_at": "2026-07-15T09:38:18.422172+05:30",
+  "git_commit": "e30750f54ee9f4143c8e4c42200a09734236836b",
+  "config_hash": "36b688840c95db92d739633868079bc87f056b4397360945ca90e47f5affb1e5",
+  "thresholds_frozen": true,
+  "inputs": [
+    {
+      "path": "data/backtest/state_timeline.json",
+      "sha256": "2b704d69206cb9d5d55f1b653a9c28073eefd3775cd381faa1ac8e8f369d8404"
+    },
+    {
+      "path": "data/backtest/first_flags.json",
+      "sha256": "395a678ca888b13e6d4615d6bdb8a66adb220b15f3fac66f2719935d70c70acd"
+    },
+    {
+      "path": "data/backtest/lead_times.json",
+      "sha256": "91bfcaab698785979c12639e803ab0ddb9a04ef927f33f45b5ff039e2d3e0bce"
+    },
+    {
+      "path": "data/backtest/goldenthread_chart.json",
+      "sha256": "82aecf74b8dc5023901de954aaad02a951ca2bddfae9c45a01692e0104463291"
+    },
+    {
+      "path": "data/labels/intent_split_matcha.json",
+      "sha256": "70ff06bc0248b756f66bfa4a8d865cbb9444044f4a95a3debaa68588c5532445"
+    },
+    {
+      "path": "data/map/affinity_board.json",
+      "sha256": "e5b94fc67bcb2a5301bba6d6c947631f24bf8bcab29c6a0ec5670af5722c91f1"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "app/public/data/state_timeline.json",
+      "sha256": "2b704d69206cb9d5d55f1b653a9c28073eefd3775cd381faa1ac8e8f369d8404"
+    },
+    {
+      "path": "app/public/data/first_flags.json",
+      "sha256": "395a678ca888b13e6d4615d6bdb8a66adb220b15f3fac66f2719935d70c70acd"
+    },
+    {
+      "path": "app/public/data/lead_times.json",
+      "sha256": "91bfcaab698785979c12639e803ab0ddb9a04ef927f33f45b5ff039e2d3e0bce"
+    },
+    {
+      "path": "app/public/data/goldenthread_chart.json",
+      "sha256": "82aecf74b8dc5023901de954aaad02a951ca2bddfae9c45a01692e0104463291"
+    },
+    {
+      "path": "app/public/data/intent_split_matcha.json",
+      "sha256": "70ff06bc0248b756f66bfa4a8d865cbb9444044f4a95a3debaa68588c5532445"
+    },
+    {
+      "path": "app/public/data/affinity_board.json",
+      "sha256": "e5b94fc67bcb2a5301bba6d6c947631f24bf8bcab29c6a0ec5670af5722c91f1"
+    },
+    {
+      "path": "app/public/data/protocol.json",
+      "sha256": "2054e1cb3a335b0d04627c40a7b5b1b0f0b687044e449d6bd5fb3c752ed69f98"
+    }
+  ],
+  "extra": {
+    "fixture_flagged": [
+      "intent_split_matcha.json",
+      "affinity_board.json"
+    ]
+  },
+  "status": "ok",
+  "error": null
+}

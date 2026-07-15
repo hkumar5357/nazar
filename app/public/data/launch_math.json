@@ -1,0 +1,178 @@
+{
+  "banner": "Simulation on public benchmarks — not a forecast.",
+  "params": [
+    {
+      "id": "price_inr",
+      "label": "RTD price per bottle",
+      "unit": "₹/bottle",
+      "default": 150,
+      "min": 120,
+      "max": 180,
+      "step": 5,
+      "source_note": "RTD (ready-to-drink) matcha beverages on Indian quick-commerce apps commonly list at ₹120-180 per bottle (public benchmark range, comparable RTD tea/coffee category pricing)."
+    },
+    {
+      "id": "matcha_cost_per_g",
+      "label": "Matcha cost per gram",
+      "unit": "₹/g",
+      "default": 4.5,
+      "min": 3,
+      "max": 6,
+      "step": 0.5,
+      "source_note": "Import-grade culinary matcha lands at ₹3-6/g on Indian import/specialty-ingredient listings (public benchmark range, not a single supplier quote)."
+    },
+    {
+      "id": "matcha_g_per_serve",
+      "label": "Matcha grams per serve",
+      "unit": "g/serve",
+      "default": 2,
+      "min": 1.5,
+      "max": 3,
+      "step": 0.25,
+      "source_note": "2 g of matcha powder per ~250 ml serve is a common café/RTD dosing convention (public benchmark range, not a lab-measured recipe)."
+    },
+    {
+      "id": "packaging_inr",
+      "label": "Packaging cost per unit",
+      "unit": "₹/unit",
+      "default": 20,
+      "min": 15,
+      "max": 25,
+      "step": 1,
+      "source_note": "Bottle, label, and cap for a small-batch RTD beverage in India commonly runs ₹15-25 per unit (public benchmark range)."
+    },
+    {
+      "id": "copack_inr",
+      "label": "Co-packing / filling cost per unit",
+      "unit": "₹/unit",
+      "default": 12,
+      "min": 8,
+      "max": 20,
+      "step": 1,
+      "source_note": "Contract co-packing/filling for a small-batch beverage run commonly benchmarks ₹8-20 per unit (public benchmark range; varies with batch size and contract terms, neither observed here)."
+    },
+    {
+      "id": "qcom_commission_pct",
+      "label": "Quick-commerce commission",
+      "unit": "%",
+      "default": 30,
+      "min": 25,
+      "max": 35,
+      "step": 1,
+      "source_note": "Indian quick-commerce platforms commonly take a 25-35% commission on listed price (public benchmark range across platforms and categories)."
+    },
+    {
+      "id": "cac_inr",
+      "label": "Creator-led CAC",
+      "unit": "₹/order",
+      "default": 250,
+      "min": 150,
+      "max": 400,
+      "step": 10,
+      "source_note": "Creator-led customer acquisition for F&B trial purchases in India commonly benchmarks ₹150-400 per order (public benchmark range). Noted for comparison, not modelled here: paid-performance CAC for comparable D2C F&B launches typically runs higher, often ₹400-800+, which is why creator-led acquisition is the default assumption for this simulator."
+    },
+    {
+      "id": "repeat_rate_pct",
+      "label": "Repeat purchase rate",
+      "unit": "%",
+      "default": 25,
+      "min": 10,
+      "max": 50,
+      "step": 1,
+      "source_note": "Repeat-purchase rate within the observation period for a new D2C F&B product commonly benchmarks 10-50% (public benchmark range; wide because it is highly product- and cohort-dependent, not narrowed to matcha specifically)."
+    },
+    {
+      "id": "orders_per_month_per_repeater",
+      "label": "Orders per month per repeater",
+      "unit": "orders/month",
+      "default": 2,
+      "min": 1,
+      "max": 4,
+      "step": 0.5,
+      "source_note": "Repeat buyers of a habitual beverage product typically place 1-4 orders per month (public benchmark range for habitual F&B repeat cadence)."
+    }
+  ],
+  "reference_scenarios": [
+    {
+      "id": "defaults",
+      "label": "Defaults",
+      "description": "Every slider at its default value.",
+      "params": {
+        "price_inr": 150,
+        "matcha_cost_per_g": 4.5,
+        "matcha_g_per_serve": 2,
+        "packaging_inr": 20,
+        "copack_inr": 12,
+        "qcom_commission_pct": 30,
+        "cac_inr": 250,
+        "repeat_rate_pct": 25,
+        "orders_per_month_per_repeater": 2
+      },
+      "outputs": {
+        "cogs": 41.0,
+        "net_revenue": 105.0,
+        "contribution_per_order": 64.0,
+        "payback_orders": 3.91,
+        "payback_months": 7.81
+      }
+    },
+    {
+      "id": "lean",
+      "label": "Lean (stress case)",
+      "description": "Low price, high commission, high CAC -- the pessimistic corner of the benchmark ranges.",
+      "params": {
+        "price_inr": 120,
+        "matcha_cost_per_g": 4.5,
+        "matcha_g_per_serve": 2,
+        "packaging_inr": 20,
+        "copack_inr": 12,
+        "qcom_commission_pct": 35,
+        "cac_inr": 400,
+        "repeat_rate_pct": 25,
+        "orders_per_month_per_repeater": 2
+      },
+      "outputs": {
+        "cogs": 41.0,
+        "net_revenue": 78.0,
+        "contribution_per_order": 37.0,
+        "payback_orders": 10.81,
+        "payback_months": 21.62
+      }
+    },
+    {
+      "id": "favourable",
+      "label": "Favourable",
+      "description": "High price, low commission, low CAC -- the optimistic corner of the benchmark ranges.",
+      "params": {
+        "price_inr": 180,
+        "matcha_cost_per_g": 4.5,
+        "matcha_g_per_serve": 2,
+        "packaging_inr": 20,
+        "copack_inr": 12,
+        "qcom_commission_pct": 25,
+        "cac_inr": 150,
+        "repeat_rate_pct": 25,
+        "orders_per_month_per_repeater": 2
+      },
+      "outputs": {
+        "cogs": 41.0,
+        "net_revenue": 135.0,
+        "contribution_per_order": 94.0,
+        "payback_orders": 1.6,
+        "payback_months": 3.19
+      }
+    }
+  ],
+  "formulas": {
+    "cogs": "cogs = matcha_cost_per_g * matcha_g_per_serve + packaging_inr + copack_inr",
+    "net_revenue": "net_revenue = price_inr * (1 - qcom_commission_pct / 100)",
+    "contribution_per_order": "contribution_per_order = net_revenue - cogs",
+    "payback_orders": "payback_orders = cac_inr / contribution_per_order (None if contribution_per_order <= 0 -- CAC can never be recovered by an order that loses money)",
+    "payback_months": "payback_months = payback_orders / (repeat_rate_pct/100 * orders_per_month_per_repeater) (None whenever payback_orders is None; SIMPLIFICATION -- treats the repeat cohort as the entire paying base placing orders_per_month_per_repeater orders/month, not a full cohort-decay/LTV model)"
+  },
+  "provenance": {
+    "sources": {},
+    "contains_fixture_data": false
+  },
+  "benchmarks_note": "All defaults are author-asserted public benchmark ranges (see each param's source_note), not measured data."
+}

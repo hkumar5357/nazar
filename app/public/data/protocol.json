@@ -1,0 +1,159 @@
+{
+  "markdown": "# NAZAR — Pre-Registered Evaluation Protocol (v1)\n\n**Author:** Harsh Sinha\n**Date:** July 12, 2026 (written BEFORE any model was built or any backtest was run)\n**Purpose:** Define what \"working\" means before building, so results cannot be quietly cherry-picked. Any deviation after the first model run is recorded as a dated AMENDMENT at the bottom of this file.\n\n---\n\n## 1. System under test\n\n**NAZAR** — a trend-lifecycle radar for Indian consumer culture. Prototype scope:\n\n- **Radar (deep):** lifecycle detection (Emerging → Heating → Peaked → Mature/Saturated) for consumer trends in India, from public signals, with a point-in-time backtest.\n- **Map (surface):** creator–audience affinity scoring for the golden-thread trend.\n- **Math (surface):** transparent launch-economics simulation for one hypothetical launch.\n\n**Golden thread:** matcha (India). **Contrast set:** protein snacks (expected: Peaked), Gen-Z fragrance (expected: Mature/macro). **Calibration trend (thresholds set here, then frozen):** a fourth trend NOT shown in the demo — Korean skincare (India).\n\n## 2. Falsifiable claims\n\n- **C1 — Detection:** Using only data timestamped ≤ T, NAZAR assigns matcha the \"Heating\" state at some date T meaningfully before mainstream confirmation (events in §4).\n- **C2 — Discrimination:** With one shared pipeline and frozen thresholds (no per-category tuning), NAZAR assigns different lifecycle states to matcha (Heating), protein snacks (Peaked), and fragrance (Mature). If all three land in the same state, the system fails this claim and we say so.\n- **C3 — Lead time:** NAZAR's matcha \"Heating\" flag precedes at least one confirmation event by **≥ 60 days** (target; actual number reported whatever it is).\n- **C4 — Map sanity:** The affinity model ranks a known creator–brand HIT pairing (SuperYou × Ranveer Singh's fitness-adjacent audience) above two deliberately mismatched control pairings on identical data. Pass/fail per pair.\n\n## 3. Data sources (public only; every pull logged with retrieval date)\n\nGoogle Trends (geo=IN, weekly series) · Reddit (India-relevant subreddits; post/comment counts, timestamps) · YouTube (India search/upload metadata, view velocities) · publicly retrievable Instagram hashtag counts · quick-commerce listings (manual dated snapshots) · dated news archive (date-filtered search).\n\n**Not used:** private APIs, paid data, scraped personal data, anything behind login.\n\n## 4. Anti-hindsight rules\n\n- **R1 — Point-in-time discipline:** for any backtest date T, features use only data timestamped ≤ T.\n- **R2 — Confirmation events fixed in advance.** Candidate events (exact dates locked during Day-1 data collection, before any model run; changes = amendment): matcha — Costa Coffee India matcha-range launch; World Coffee Portal \"Matcha Report 2026\" publication. Protein — Farmley report (July 2026); FSSAI 2026 protein-claim regulation announcement.\n- **R3 — Threshold freezing:** lifecycle-state thresholds (velocity/acceleration/decay cutoffs) are calibrated ONLY on the calibration trend (Korean skincare), then frozen before scoring the three demo categories.\n- **R4 — No silent retries:** every scoring run is logged; ugly results appear in lab notes.\n- **R5 — LLM boundary:** LLMs may label/cluster raw text (e.g., classifying a post as café-consumption vs at-home/CPG intent). LLMs never produce the lifecycle judgment; that comes from the time-series math. This boundary is what makes NAZAR not a wrapper.\n\n## 5. Metrics reported (all of them, pass or fail)\n\n- **M1:** Lead time in days vs each confirmation event (C3).\n- **M2:** Lifecycle state per category + underlying velocity/acceleration/decay numbers (C1, C2).\n- **M3:** Matcha signal decomposition — café-intent vs CPG/home-intent share over time (quantifies the \"CPG window open\" whitespace argument).\n- **M4:** Map validation — hit-above-control outcomes per pair (C4).\n- **M5:** Honest costs — total build hours, data volume processed, API spend in ₹.\n\n## 6. Declared limitations (in scope of honesty, out of scope of the prototype)\n\nNo revenue prediction. No per-post virality prediction. No causal claims. Batch snapshots, not real-time ingestion. India-metro bias in public signals acknowledged. Launch Math is a parameterized simulation on public benchmarks, not a forecast.\n\n## 7. Amendments\n\nAll amendments are dated, self-approved to avoid blocking async review, and\nflagged in CHECKPOINTS.md. Every one of them was made BEFORE the first\nscoring of any demo category (git history: the `m1-freeze` tag precedes all\ndemo-category scoring commits).\n\n**A1 — 2026-07-13 — Confirmation events (R2).** Of the candidate events in\n§4: the Costa Coffee **India** matcha launch has no dated public source (the\nJanuary 2026 launch was UK/Ireland); it is kept only as a clearly-labeled\nglobal mainstream marker, dated by its announcement article (2026-01-06).\nThe WCP \"Matcha Report 2026\" publication date is only boundable to\n2026-02-20..2026-07-06 from public sources, failing R2's exact-date rule; it\nis dropped from lead-time math. India-specific replacements, locked with\ndated URLs in `data/events.csv` before any model run: Tata Starbucks puts\nIced Matcha on its national India menu (2026-02-12); mainstream India\nfood-media confirmation that matcha is a café-menu staple (2026-05-12). The\n\"FSSAI protein-claim regulation\" shorthand had no protein-specific dated\nnotification; locked instead, honestly renamed, as the general\nscientific-evidence-for-claims regime (announced 2025-12-31, effective\n2026-01-01). Farmley report locked as named (2026-07-03). All five URLs\nreturned HTTP 200 at lock time.\n\n**A2 — 2026-07-13 — Rule-form clarifications (R3).** Decided and committed\nbefore the threshold freeze; all on the calibration trend only:\n(1) state precedence peaked > heating > mature > emerging > undetermined;\n(2) the Heating breadth requirement is `breadth >= min(2, n_sources)` so\nsingle-source coverage (pre-API-keys) cannot structurally bar Heating;\n(3) \"made ≥90% of all-time high earlier\" is operationalised as: the\nexpanding max of the composite reached ≥ L2 at some week strictly before the\ncurrent week (any series is trivially at 100% of its own running max);\n(4) \"accel strongly negative\" is quantified as accel ≤ A1 and \"high level\"\nas composite ≥ L2, with A1 calibrated and frozen alongside the cutoffs;\n(5) peak_proximity and drawdown are computed on the min-shifted composite,\nsince a mean of z-scores can be ≤ 0 and ratios on it are undefined.\n\n**A3 — 2026-07-13 — Map validation pairs (C4).** Celebrity-channel YouTube\ndata is too thin for the SuperYou × Ranveer Singh pairing. C4 becomes:\n(a) a fitness/nutrition creator × protein snacks must rank HIGH (top 3);\n(b) a tech creator × matcha must rank LOW (bottom 3). SuperYou × Ranveer\nSingh moves to the pitch materials as a qualitative case study, outside the\nscored artifact.\n\n**A4 — 2026-07-13 — Data-source disclosures (§3, R1).** (1) Google Trends\nnormalizes a retrieved series over its full window; the backtest truncates\none retrieved series at each walk-forward date T, so datapoint timestamps\nrespect ≤ T but the normalization denominator does not — disclosed, not\nhidden. (2) The prototype implements Google Trends + Reddit + YouTube + the\nlocked events file; Instagram hashtag counts, quick-commerce snapshots and\nnews-archive counts listed in §3 are not implemented (scope cut, disclosed).\n\n**A5 — 2026-07-13 — Calibration grid extension (R3).** The first grid run\n(blind bounds) could not produce Mature anywhere: a composite of expanding\nz-scores decays toward its own expanding mean after a peak, so an aged\nplateau lives near z ≈ 0.2–0.6, below the blind L2 floor of 0.8, and twelve\nconsecutive weeks of |velocity| < 0.05 never occur on a noisy z series. L2\ngained {0.2, 0.4, 0.6} and V0 gained {0.08} before the re-run; the\npre-registered arc windows and score formula were not touched. Frozen:\nL1=0.3, L2=0.4, V0=0.08, V1=0.08, A1=−0.12 (grid rank 2, score 41.28/90).\nDisclosed shortfall: mature share of 2025-26 weeks on the calibration trend\nis 0.026 — the \"mature/plateau by 2025\" prior in §1 is NOT reproduced on\nreal geo=IN data with the pre-registered rule forms; the real arc is rise\n2022-23 → peak 2024 → oscillating decline to a still-elevated base. This is\nreported as-is, per §5.\n",
+  "thresholds_frozen": {
+    "frozen_at": "2026-07-13T20:43:48.537140+05:30",
+    "calibration_trend": "korean_skincare",
+    "calibration_inputs": [
+      {
+        "path": "data/raw/trends_korean_skincare_20260713.json",
+        "sha256": "422023eaf6a29766190eb7181b7b6a5ec286078630aa69783d2b05a348c11f34",
+        "provenance": "real"
+      }
+    ],
+    "thresholds": {
+      "L1": 0.3,
+      "L2": 0.4,
+      "V0": 0.08,
+      "V1": 0.08,
+      "A1": -0.12
+    },
+    "grid_rank": 2,
+    "grid_score": 41.28,
+    "rules_version": "v1",
+    "rule_clarifications": [
+      "state precedence: peaked > heating > mature > emerging > undetermined",
+      "breadth requirement is min(2, n_sources) (single-source reality pre-keys)",
+      "peaked requires the expanding max composite to have reached L2 before now",
+      "A1 quantifies 'strongly negative accel'; 'high level' means composite >= L2",
+      "peak_proximity/drawdown computed on min-shifted composite (z can be negative)"
+    ],
+    "rationale": "Chosen by inspection among the four score-tied leaders (41.28/90) of the extended grid. L2=0.4 and V0=0.08 are the only grid values that keep Mature achievable at all on an expanding-z composite (structural plateau decay toward the expanding mean - see LABNOTES 2026-07-13); V1=0.08 is the middle velocity floor: the first Heating flag is identical to V1=0.05 (2022-08-07, inside the pre-registered window) with fewer marginal flags afterwards; A1=-0.12 keeps the 'strongly negative accel' Peaked branch strict, which also stops Peaked from cannibalising rare Mature weeks under the precedence rule. Disclosed shortfall, reported as-is: mature_share_2025_26 = 0.026 - the pre-registered 'mature by 2025' arc is NOT reproduced on real geo=IN data with the pre-registered rule forms; the real arc is rise 2022-23, peak 2024, oscillating decline to a still-elevated base."
+  },
+  "coverage": {
+    "generated_at": "2026-07-13T20:39:30.266289+05:30",
+    "coverage": {
+      "matcha": {
+        "trends": {
+          "provenance": "real",
+          "retrieved_at": "2026-07-13T20:13:37.766891+05:30",
+          "file": "trends_matcha_20260713.json",
+          "kind": "weekly_series",
+          "weeks": 237,
+          "partial_weeks_excluded": 1,
+          "first_week": "2021-12-26",
+          "last_week": "2026-07-05"
+        },
+        "reddit": {
+          "provenance": "fixture",
+          "retrieved_at": "2026-07-12T21:00:00+05:30",
+          "file": "MOCK_reddit_matcha_20260712.json",
+          "kind": "items",
+          "items": 2186,
+          "first_item": "2022-01-05",
+          "last_item": "2026-07-11"
+        },
+        "youtube": {
+          "provenance": "fixture",
+          "retrieved_at": "2026-07-12T21:00:00+05:30",
+          "file": "MOCK_youtube_matcha_20260712.json",
+          "kind": "items",
+          "items": 718,
+          "first_item": "2022-01-04",
+          "last_item": "2026-07-11"
+        }
+      },
+      "protein_snacks": {
+        "trends": {
+          "provenance": "real",
+          "retrieved_at": "2026-07-13T20:24:52.364639+05:30",
+          "file": "trends_protein_snacks_20260713.json",
+          "kind": "weekly_series",
+          "weeks": 237,
+          "partial_weeks_excluded": 1,
+          "first_week": "2021-12-26",
+          "last_week": "2026-07-05"
+        },
+        "reddit": {
+          "provenance": "fixture",
+          "retrieved_at": "2026-07-12T21:00:00+05:30",
+          "file": "MOCK_reddit_protein_snacks_20260712.json",
+          "kind": "items",
+          "items": 3220,
+          "first_item": "2022-01-02",
+          "last_item": "2026-07-11"
+        },
+        "youtube": {
+          "provenance": "fixture",
+          "retrieved_at": "2026-07-12T21:00:00+05:30",
+          "file": "MOCK_youtube_protein_snacks_20260712.json",
+          "kind": "items",
+          "items": 1110,
+          "first_item": "2022-01-10",
+          "last_item": "2026-07-05"
+        }
+      },
+      "genz_fragrance": {
+        "trends": {
+          "provenance": "real",
+          "retrieved_at": "2026-07-13T20:39:11.649725+05:30",
+          "file": "trends_genz_fragrance_20260713.json",
+          "kind": "weekly_series",
+          "weeks": 237,
+          "partial_weeks_excluded": 1,
+          "first_week": "2021-12-26",
+          "last_week": "2026-07-05"
+        },
+        "reddit": {
+          "provenance": "fixture",
+          "retrieved_at": "2026-07-12T21:00:00+05:30",
+          "file": "MOCK_reddit_genz_fragrance_20260712.json",
+          "kind": "items",
+          "items": 3535,
+          "first_item": "2022-01-02",
+          "last_item": "2026-07-11"
+        },
+        "youtube": {
+          "provenance": "fixture",
+          "retrieved_at": "2026-07-12T21:00:00+05:30",
+          "file": "MOCK_youtube_genz_fragrance_20260712.json",
+          "kind": "items",
+          "items": 1208,
+          "first_item": "2022-01-02",
+          "last_item": "2026-07-11"
+        }
+      },
+      "korean_skincare": {
+        "trends": {
+          "provenance": "real",
+          "retrieved_at": "2026-07-13T20:36:46.655269+05:30",
+          "file": "trends_korean_skincare_20260713.json",
+          "kind": "weekly_series",
+          "weeks": 237,
+          "partial_weeks_excluded": 1,
+          "first_week": "2021-12-26",
+          "last_week": "2026-07-05"
+        },
+        "reddit": {
+          "provenance": "fixture",
+          "retrieved_at": "2026-07-12T21:00:00+05:30",
+          "file": "MOCK_reddit_korean_skincare_20260712.json",
+          "kind": "items",
+          "items": 3839,
+          "first_item": "2022-01-05",
+          "last_item": "2026-07-11"
+        },
+        "youtube": {
+          "provenance": "fixture",
+          "retrieved_at": "2026-07-12T21:00:00+05:30",
+          "file": "MOCK_youtube_korean_skincare_20260712.json",
+          "kind": "items",
+          "items": 1389,
+          "first_item": "2022-01-25",
+          "last_item": "2026-07-11"
+        }
+      }
+    }
+  },
+  "qa_agreement": null,
+  "costs": null
+}

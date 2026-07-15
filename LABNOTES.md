@@ -149,3 +149,28 @@ under precedence. Full rationale + input hash in
 pipeline/thresholds_frozen.json. PROTOCOL §7 amendments A1–A5 written.
 Tag: m1-freeze. From this commit on, the freeze guard allows demo-trend
 scoring — always and only with these frozen values.
+
+---
+
+## Session 3 — 2026-07-15 (Wed morning) → M3 slices
+
+(Another machine-sleep gap: Mon night → Wed morning. M2 was tagged Monday,
+comfortably ahead of its Wednesday target.)
+
+**Built:** the full labeling stack (prompt v1 committed verbatim;
+provider-agnostic REST client; cache-first JSONL — warm re-run makes zero
+API calls, verified), keyword-taxonomy creator affinity (14 creators, both
+A3 validation pairs PASS on fixtures: fitness×protein #1, tech×matcha
+13/14), 9-slider launch-math simulator with embedded reference scenarios,
+and export.py — whose --final gate was exercised and correctly hard-fails
+(exit 1, failure logged to runs/) on the two fixture-derived artifacts.
+
+**Fixed after adversarial review:** (1) the cache reader could serve a
+stale label if an item's text changed between pulls — _pick_record now
+filters records to the item's CURRENT text hash and skips rather than
+fabricates; (2) launch-math benchmarks were mislabeled 'real_manual'
+provenance — now an empty source map plus an explicit author-asserted
+benchmarks_note. 168 tests passing. No LLM/YouTube keys yet: labels are
+heuristic (h1) and creator data is fixtures — every downstream artifact
+carries contains_fixture_data: true and the QA sample generator refuses
+to run until real labels exist.
